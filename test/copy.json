@@ -1,0 +1,75 @@
+{
+  "type": "@webflow/XscpData",
+  "payload": {
+    "nodes": [
+      {
+        "_id": "8629df07-2fa1-ac21-c45d-85208ef4962a",
+        "type": "SliderWrapper",
+        "tag": "div",
+        "classes": [],
+        "children": [
+          "7e79b243-4770-26b0-5dfd-191480d0e4a2",
+          "b35bae71-cf1a-40d6-a9e4-1add6b4f404e",
+          "3a81268c-c48c-dbcc-e802-289beade27f2"
+        ],
+        "data": {
+          "slider": {
+            "animation": "slide",
+            "easing": "ease",
+            "duration": 500,
+            "infinite": true,
+            "disableSwipe": false,
+            "autoplay": false,
+            "delay": 4000,
+            "autoMax": 0,
+            "hideArrows": false,
+            "navRound": true,
+            "navNumbers": true,
+            "navShadow": false,
+            "navInvert": false,
+            "navSpacing": 3,
+            "iconArrows": true,
+            "type": "wrapper"
+          }
+        }
+      },
+      {
+        "_id": "7e79b243-4770-26b0-5dfd-191480d0e4a2",
+        "type": "SliderMask",
+        "tag": "div",
+        "classes": [],
+        "children": [
+          "82611089-bcb4-5e1c-7271-1f2edb191cce",
+          "ca2e23e9-c44a-d681-5e3c-7dba64f966fe"
+        ],
+        "data": { "slider": { "type": "slides" } }
+      },
+      {
+        "_id": "82611089-bcb4-5e1c-7271-1f2edb191cce",
+        "type": "SliderSlide",
+        "tag": "div",
+        "classes": [],
+        "children": [],
+        "data": { "tag": "div", "slider": { "type": "slide" } }
+      },
+      {
+        "_id": "ca2e23e9-c44a-d681-5e3c-7dba64f966fe",
+        "type": "SliderSlide",
+        "tag": "div",
+        "classes": [],
+        "children": [],
+        "data": { "tag": "div", "slider": { "type": "slide" } }
+      }
+    ],
+    "styles": [],
+    "assets": []
+  },
+  "meta": {
+    "droppedLinks": 0,
+    "dynBindRemovedCount": 0,
+    "dynListBindRemovedCount": 0,
+    "paginationRemovedCount": 0,
+    "universalBindingsRemovedCount": 0,
+    "unlinkedSymbolCount": 0
+  }
+}
