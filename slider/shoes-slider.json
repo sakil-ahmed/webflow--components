@@ -1,0 +1,1246 @@
+{
+  "type": "@webflow/XscpData",
+  "payload": {
+    "nodes": [
+      {
+        "_id": "8e447fc6-410e-3034-ce72-8871f56873f8",
+        "type": "DOM",
+        "tag": "div",
+        "classes": ["a3a177e4-e464-9793-7966-03cfcced36ef"],
+        "children": [
+          "6f76a656-c5c0-8f8c-9b31-24708d85513b",
+          "295ecd58-0868-a655-2223-b8f80d498348",
+          "29de2154-cabd-596e-ae86-3d227be71d50",
+          "567455cf-1a0e-af39-7334-0a423d8e5732",
+          "2184cafb-59d8-5db3-3c99-e0951e9af0b3",
+          "b3877ebe-77ef-d30c-cfc2-7b661bccb217",
+          "fb34a513-6acd-0e10-28be-08dcaf185051",
+          "fe13369a-87d0-53c9-7a0a-11d5a88dc0f8",
+          "823e2a9b-4964-95a5-e851-f1c61f2ac9d3"
+        ],
+        "data": {
+          "tag": "div",
+          "attributes": [
+            { "name": "flowappz-slider", "value": "true" },
+            { "name": "flowappz-slider-id", "value": "1722437520638" },
+            { "name": "flowappz-slider-name", "value": "slider" },
+            {
+              "name": "flowappz-slider-config",
+              "value": "{\"name\":\"slider\",\"siteId\":2,\"config\":{\"active\":true,\"direction\":\"HORIZONTAL\",\"loop\":true,\"rtl\":false,\"navigation\":true,\"autoplay\":{\"active\":false,\"duration\":\"2000\"},\"slidesPerView\":\"3\",\"spacing\":\"16\",\"origin\":\"auto\",\"draggable\":true,\"keyboardNavigation\":false,\"counter\":false}}"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "6f76a656-c5c0-8f8c-9b31-24708d85513b",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [
+          "0ea828cf-3ebd-2fa3-3599-57417b215a23",
+          "29bc75d7-1b82-ddbb-43c1-3d287921bc23"
+        ],
+        "children": [
+          "daf3371a-1f98-d079-7fda-fc56b3de7659",
+          "9ada18d9-48d4-5d5a-d7d2-118c8d9a3775",
+          "aa4bfedc-fc68-97be-d709-8647849e5db9",
+          "772d5980-3912-c08a-2f7d-6c86382648b1",
+          "1b691f61-02a4-c16c-e218-30809344bcff"
+        ],
+        "data": { "tag": "div", "attributes": [] }
+      },
+      {
+        "_id": "daf3371a-1f98-d079-7fda-fc56b3de7659",
+        "type": "Heading",
+        "tag": "h3",
+        "classes": ["d39940b1-5336-dcde-a2e2-b5afdc603cef"],
+        "children": [
+          "56fc980e-6779-03e7-8e8d-0cad3469a1c1",
+          "af0c33a9-b7a3-f653-467e-518ece280d28",
+          "67240dd6-8eb5-1b04-068c-5cf5ecaa4c84"
+        ],
+        "data": {
+          "tag": "h3",
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "56fc980e-6779-03e7-8e8d-0cad3469a1c1",
+        "text": true,
+        "v": "Ethereal Men's "
+      },
+      {
+        "_id": "af0c33a9-b7a3-f653-467e-518ece280d28",
+        "type": "LineBreak",
+        "tag": "br",
+        "classes": [],
+        "children": [],
+        "data": { "sym": { "inst": "LineBreak" } }
+      },
+      {
+        "_id": "67240dd6-8eb5-1b04-068c-5cf5ecaa4c84",
+        "text": true,
+        "v": "Shoes Dunk Low"
+      },
+      {
+        "_id": "9ada18d9-48d4-5d5a-d7d2-118c8d9a3775",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": ["ef755aca-5388-8958-8239-6951fbb8d11f"],
+        "children": ["ffbef107-e94c-9f97-28ce-16999adbd3f7"],
+        "data": {
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "ffbef107-e94c-9f97-28ce-16999adbd3f7",
+        "text": true,
+        "v": "Collection of men's sneakers are ready to take you through your day."
+      },
+      {
+        "_id": "aa4bfedc-fc68-97be-d709-8647849e5db9",
+        "type": "Image",
+        "tag": "img",
+        "classes": ["6b260d76-a737-355f-8c8c-c9c348df7171"],
+        "children": [],
+        "data": {
+          "img": { "id": "66aa5520996e97f452dcd786" },
+          "srcsetDisabled": false,
+          "attr": {
+            "width": "auto",
+            "height": "auto",
+            "alt": "__wf_reserved_inherit",
+            "src": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66aa5520996e97f452dcd786_669534b767eb4a777dcde2da_Frame%25206%2520(3)-p-500.png",
+            "loading": "lazy",
+            "id": ""
+          },
+          "sizes": [
+            { "max": 479, "size": "79vw" },
+            { "max": 10000, "size": "334px" }
+          ],
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "772d5980-3912-c08a-2f7d-6c86382648b1",
+        "type": "Link",
+        "tag": "a",
+        "classes": ["d5ebfdfe-bbf2-ed75-e712-5a98c08ed820"],
+        "children": ["eda3d60d-6124-6d73-9a88-c45ab8623abb"],
+        "data": {
+          "button": true,
+          "block": "",
+          "link": { "mode": "external", "url": "#" },
+          "attr": { "id": "" },
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "xattr": [],
+          "search": { "exclude": true },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "eda3d60d-6124-6d73-9a88-c45ab8623abb",
+        "text": true,
+        "v": "View Product"
+      },
+      {
+        "_id": "1b691f61-02a4-c16c-e218-30809344bcff",
+        "type": "Link",
+        "tag": "a",
+        "classes": ["e39352be-becf-f4c5-3710-f03b05aaffe0"],
+        "children": ["c740ac27-9562-6a7b-d5b1-30d9942922e8"],
+        "data": {
+          "button": false,
+          "block": "",
+          "link": { "mode": "external", "url": "#" }
+        }
+      },
+      {
+        "_id": "c740ac27-9562-6a7b-d5b1-30d9942922e8",
+        "text": true,
+        "v": "new"
+      },
+      {
+        "_id": "295ecd58-0868-a655-2223-b8f80d498348",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [
+          "0ea828cf-3ebd-2fa3-3599-57417b215a23",
+          "131d0ba0-5b50-5c5d-fd1d-a1547db1d0aa"
+        ],
+        "children": [
+          "f4e891c2-d587-68b7-e813-92f07f72a9cc",
+          "5cebaad2-ef6a-12bf-b11b-789e77ab4b73",
+          "52368557-7c09-c8e7-3d79-8419524731d8",
+          "729f2a7e-5fb3-916a-da8a-1539421f375c",
+          "63e63ec2-c564-29b8-e6f2-af78caaf8038"
+        ],
+        "data": { "tag": "div", "attributes": [] }
+      },
+      {
+        "_id": "f4e891c2-d587-68b7-e813-92f07f72a9cc",
+        "type": "Heading",
+        "tag": "h3",
+        "classes": ["d39940b1-5336-dcde-a2e2-b5afdc603cef"],
+        "children": [
+          "65f4bbfd-1a38-aeff-43de-8f1dac20fc72",
+          "b5a29ab9-52a7-c028-a8b2-209198255124",
+          "328ec537-cb21-b89e-f657-a746c4e39d8c"
+        ],
+        "data": {
+          "tag": "h3",
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "65f4bbfd-1a38-aeff-43de-8f1dac20fc72",
+        "text": true,
+        "v": "Ethereal Men's "
+      },
+      {
+        "_id": "b5a29ab9-52a7-c028-a8b2-209198255124",
+        "type": "LineBreak",
+        "tag": "br",
+        "classes": [],
+        "children": [],
+        "data": { "sym": { "inst": "LineBreak" } }
+      },
+      {
+        "_id": "328ec537-cb21-b89e-f657-a746c4e39d8c",
+        "text": true,
+        "v": "Shoes Dunk Low"
+      },
+      {
+        "_id": "5cebaad2-ef6a-12bf-b11b-789e77ab4b73",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": ["ef755aca-5388-8958-8239-6951fbb8d11f"],
+        "children": ["b85da786-930a-8a21-7a5c-50a4455dca46"],
+        "data": {
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "b85da786-930a-8a21-7a5c-50a4455dca46",
+        "text": true,
+        "v": "Collection of men's sneakers are ready to take you through your day."
+      },
+      {
+        "_id": "52368557-7c09-c8e7-3d79-8419524731d8",
+        "type": "Image",
+        "tag": "img",
+        "classes": ["6b260d76-a737-355f-8c8c-c9c348df7171"],
+        "children": [],
+        "data": {
+          "img": { "id": "66aa5520996e97f452dcd786" },
+          "srcsetDisabled": false,
+          "attr": {
+            "width": "auto",
+            "height": "auto",
+            "alt": "__wf_reserved_inherit",
+            "src": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66aa5520996e97f452dcd786_669534b767eb4a777dcde2da_Frame%25206%2520(3)-p-500.png",
+            "loading": "lazy",
+            "id": ""
+          },
+          "sizes": [
+            { "max": 479, "size": "79vw" },
+            { "max": 10000, "size": "334px" }
+          ],
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "729f2a7e-5fb3-916a-da8a-1539421f375c",
+        "type": "Link",
+        "tag": "a",
+        "classes": ["d5ebfdfe-bbf2-ed75-e712-5a98c08ed820"],
+        "children": ["a2526d49-f434-d0ac-543c-b8eaa977265d"],
+        "data": {
+          "button": true,
+          "block": "",
+          "link": { "mode": "external", "url": "#" },
+          "attr": { "id": "" },
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "xattr": [],
+          "search": { "exclude": true },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "a2526d49-f434-d0ac-543c-b8eaa977265d",
+        "text": true,
+        "v": "View Product"
+      },
+      {
+        "_id": "63e63ec2-c564-29b8-e6f2-af78caaf8038",
+        "type": "Link",
+        "tag": "a",
+        "classes": ["e39352be-becf-f4c5-3710-f03b05aaffe0"],
+        "children": ["6995fcd8-7e08-202d-1563-e198a071fda1"],
+        "data": {
+          "button": false,
+          "block": "",
+          "link": { "mode": "external", "url": "#" }
+        }
+      },
+      {
+        "_id": "6995fcd8-7e08-202d-1563-e198a071fda1",
+        "text": true,
+        "v": "new"
+      },
+      {
+        "_id": "29de2154-cabd-596e-ae86-3d227be71d50",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [
+          "0ea828cf-3ebd-2fa3-3599-57417b215a23",
+          "ecc925ce-9120-7f2e-15f9-99a7a834d85e"
+        ],
+        "children": [
+          "405fd16c-9cec-a3f2-3212-437fbf1343c4",
+          "5a70a7a2-7e82-95e0-d6aa-65f26e25c9bb",
+          "21ce61da-fa23-7430-e380-ccbebf029cb1",
+          "87a2ee65-c93a-b724-2e59-44ee045b0241",
+          "fc5bccee-6853-ddb1-a93e-08eb7d8784ad"
+        ],
+        "data": { "tag": "div", "attributes": [] }
+      },
+      {
+        "_id": "405fd16c-9cec-a3f2-3212-437fbf1343c4",
+        "type": "Heading",
+        "tag": "h3",
+        "classes": ["d39940b1-5336-dcde-a2e2-b5afdc603cef"],
+        "children": [
+          "ab9be8f2-3ddf-edb3-a331-1be4feed648a",
+          "6aa33354-c3f7-ad5b-b6ee-5225ed2591f3",
+          "89c20344-37c3-957b-5e18-0a115b7879ba"
+        ],
+        "data": {
+          "tag": "h3",
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "ab9be8f2-3ddf-edb3-a331-1be4feed648a",
+        "text": true,
+        "v": "Ethereal Men's "
+      },
+      {
+        "_id": "6aa33354-c3f7-ad5b-b6ee-5225ed2591f3",
+        "type": "LineBreak",
+        "tag": "br",
+        "classes": [],
+        "children": [],
+        "data": { "sym": { "inst": "LineBreak" } }
+      },
+      {
+        "_id": "89c20344-37c3-957b-5e18-0a115b7879ba",
+        "text": true,
+        "v": "Shoes Dunk Low"
+      },
+      {
+        "_id": "5a70a7a2-7e82-95e0-d6aa-65f26e25c9bb",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": ["ef755aca-5388-8958-8239-6951fbb8d11f"],
+        "children": ["f032a2b1-3749-74fb-e0a0-786129349eb4"],
+        "data": {
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "f032a2b1-3749-74fb-e0a0-786129349eb4",
+        "text": true,
+        "v": "Collection of men's sneakers are ready to take you through your day."
+      },
+      {
+        "_id": "21ce61da-fa23-7430-e380-ccbebf029cb1",
+        "type": "Image",
+        "tag": "img",
+        "classes": ["6b260d76-a737-355f-8c8c-c9c348df7171"],
+        "children": [],
+        "data": {
+          "img": { "id": "66aa5520996e97f452dcd786" },
+          "srcsetDisabled": false,
+          "attr": {
+            "width": "auto",
+            "height": "auto",
+            "alt": "__wf_reserved_inherit",
+            "src": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66aa5520996e97f452dcd786_669534b767eb4a777dcde2da_Frame%25206%2520(3)-p-500.png",
+            "loading": "lazy",
+            "id": ""
+          },
+          "sizes": [
+            { "max": 479, "size": "79vw" },
+            { "max": 10000, "size": "334px" }
+          ],
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "87a2ee65-c93a-b724-2e59-44ee045b0241",
+        "type": "Link",
+        "tag": "a",
+        "classes": ["d5ebfdfe-bbf2-ed75-e712-5a98c08ed820"],
+        "children": ["af33d239-a021-fa18-278b-29cea9e14d97"],
+        "data": {
+          "button": true,
+          "block": "",
+          "link": { "mode": "external", "url": "#" },
+          "attr": { "id": "" },
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "xattr": [],
+          "search": { "exclude": true },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "af33d239-a021-fa18-278b-29cea9e14d97",
+        "text": true,
+        "v": "View Product"
+      },
+      {
+        "_id": "fc5bccee-6853-ddb1-a93e-08eb7d8784ad",
+        "type": "Link",
+        "tag": "a",
+        "classes": ["e39352be-becf-f4c5-3710-f03b05aaffe0"],
+        "children": ["6f5afe3b-de64-d54e-23a0-9e046ed99c24"],
+        "data": {
+          "button": false,
+          "block": "",
+          "link": { "mode": "external", "url": "#" }
+        }
+      },
+      {
+        "_id": "6f5afe3b-de64-d54e-23a0-9e046ed99c24",
+        "text": true,
+        "v": "new"
+      },
+      {
+        "_id": "567455cf-1a0e-af39-7334-0a423d8e5732",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [
+          "0ea828cf-3ebd-2fa3-3599-57417b215a23",
+          "ca31b1a2-2cc5-aaa8-3596-11fc65ebdc15"
+        ],
+        "children": [
+          "5803250d-1039-a759-4da4-2b345d15a5a9",
+          "227df4f1-fe81-ec70-32ce-52914f0736c7",
+          "e14e41c5-557b-b49a-f8c5-053f7d456054",
+          "1ee499bc-c68d-4ef8-36f7-b4e7eaf1cfc5",
+          "01c230bb-d676-712a-0246-e1c92c73c626"
+        ],
+        "data": { "tag": "div", "attributes": [] }
+      },
+      {
+        "_id": "5803250d-1039-a759-4da4-2b345d15a5a9",
+        "type": "Heading",
+        "tag": "h3",
+        "classes": ["d39940b1-5336-dcde-a2e2-b5afdc603cef"],
+        "children": [
+          "fa044ea7-1bcb-738b-155e-926593e1ca35",
+          "65cd3708-9c26-8612-397e-5a5f964afdd0",
+          "6a704549-fc62-d269-e0e7-e3080c79edf2"
+        ],
+        "data": {
+          "tag": "h3",
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "fa044ea7-1bcb-738b-155e-926593e1ca35",
+        "text": true,
+        "v": "Ethereal Men's "
+      },
+      {
+        "_id": "65cd3708-9c26-8612-397e-5a5f964afdd0",
+        "type": "LineBreak",
+        "tag": "br",
+        "classes": [],
+        "children": [],
+        "data": { "sym": { "inst": "LineBreak" } }
+      },
+      {
+        "_id": "6a704549-fc62-d269-e0e7-e3080c79edf2",
+        "text": true,
+        "v": "Shoes Dunk Low"
+      },
+      {
+        "_id": "227df4f1-fe81-ec70-32ce-52914f0736c7",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": ["ef755aca-5388-8958-8239-6951fbb8d11f"],
+        "children": ["fa926b59-8c51-b748-4c86-c85229f1bfec"],
+        "data": {
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "fa926b59-8c51-b748-4c86-c85229f1bfec",
+        "text": true,
+        "v": "Collection of men's sneakers are ready to take you through your day."
+      },
+      {
+        "_id": "e14e41c5-557b-b49a-f8c5-053f7d456054",
+        "type": "Image",
+        "tag": "img",
+        "classes": ["6b260d76-a737-355f-8c8c-c9c348df7171"],
+        "children": [],
+        "data": {
+          "img": { "id": "66aa5520996e97f452dcd786" },
+          "srcsetDisabled": false,
+          "attr": {
+            "width": "auto",
+            "height": "auto",
+            "alt": "__wf_reserved_inherit",
+            "src": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66aa5520996e97f452dcd786_669534b767eb4a777dcde2da_Frame%25206%2520(3)-p-500.png",
+            "loading": "lazy",
+            "id": ""
+          },
+          "sizes": [
+            { "max": 479, "size": "79vw" },
+            { "max": 10000, "size": "334px" }
+          ],
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "1ee499bc-c68d-4ef8-36f7-b4e7eaf1cfc5",
+        "type": "Link",
+        "tag": "a",
+        "classes": ["d5ebfdfe-bbf2-ed75-e712-5a98c08ed820"],
+        "children": ["230189d6-1e55-d4e5-acb6-66479cf8a9c0"],
+        "data": {
+          "button": true,
+          "block": "",
+          "link": { "mode": "external", "url": "#" },
+          "attr": { "id": "" },
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "xattr": [],
+          "search": { "exclude": true },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "230189d6-1e55-d4e5-acb6-66479cf8a9c0",
+        "text": true,
+        "v": "View Product"
+      },
+      {
+        "_id": "01c230bb-d676-712a-0246-e1c92c73c626",
+        "type": "Link",
+        "tag": "a",
+        "classes": ["e39352be-becf-f4c5-3710-f03b05aaffe0"],
+        "children": ["beb5ac95-67ca-81ad-b1dd-002d578c85e4"],
+        "data": {
+          "button": false,
+          "block": "",
+          "link": { "mode": "external", "url": "#" }
+        }
+      },
+      {
+        "_id": "beb5ac95-67ca-81ad-b1dd-002d578c85e4",
+        "text": true,
+        "v": "new"
+      },
+      {
+        "_id": "2184cafb-59d8-5db3-3c99-e0951e9af0b3",
+        "type": "DOM",
+        "tag": "div",
+        "classes": ["0ea828cf-3ebd-2fa3-3599-57417b215a23"],
+        "children": [
+          "cb04562e-a597-f1c2-f5f5-33e9a137d889",
+          "895c4791-bd52-732d-a340-5adf10946b42",
+          "a766ea23-f97d-5f0e-3781-956f1f19de9f",
+          "d5859874-ffbb-9533-98f0-7f86a192d389"
+        ],
+        "data": { "tag": "div", "attributes": [] }
+      },
+      {
+        "_id": "cb04562e-a597-f1c2-f5f5-33e9a137d889",
+        "type": "Heading",
+        "tag": "h3",
+        "classes": ["d39940b1-5336-dcde-a2e2-b5afdc603cef"],
+        "children": [
+          "47f319e0-f845-aacb-a044-31730745b1a2",
+          "85fad811-0762-a698-3fdb-63ae97895853",
+          "22de6c46-42c8-00d6-cc26-e05af0a621d1"
+        ],
+        "data": {
+          "tag": "h3",
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "47f319e0-f845-aacb-a044-31730745b1a2",
+        "text": true,
+        "v": "Ethereal Men's "
+      },
+      {
+        "_id": "85fad811-0762-a698-3fdb-63ae97895853",
+        "type": "LineBreak",
+        "tag": "br",
+        "classes": [],
+        "children": [],
+        "data": { "sym": { "inst": "LineBreak" } }
+      },
+      {
+        "_id": "22de6c46-42c8-00d6-cc26-e05af0a621d1",
+        "text": true,
+        "v": "Shoes Dunk Low"
+      },
+      {
+        "_id": "895c4791-bd52-732d-a340-5adf10946b42",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": ["ef755aca-5388-8958-8239-6951fbb8d11f"],
+        "children": ["72e32a41-e613-3b53-e580-afe7bf34496d"],
+        "data": {
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "attr": { "id": "" },
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "72e32a41-e613-3b53-e580-afe7bf34496d",
+        "text": true,
+        "v": "Collection of men's sneakers are ready to take you through your day."
+      },
+      {
+        "_id": "a766ea23-f97d-5f0e-3781-956f1f19de9f",
+        "type": "Image",
+        "tag": "img",
+        "classes": ["6b260d76-a737-355f-8c8c-c9c348df7171"],
+        "children": [],
+        "data": {
+          "img": { "id": "66aa5520996e97f452dcd786" },
+          "srcsetDisabled": false,
+          "attr": {
+            "width": "auto",
+            "height": "auto",
+            "alt": "__wf_reserved_inherit",
+            "src": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66aa5520996e97f452dcd786_669534b767eb4a777dcde2da_Frame%25206%2520(3)-p-500.png",
+            "loading": "lazy",
+            "id": ""
+          },
+          "sizes": [
+            { "max": 479, "size": "79vw" },
+            { "max": 10000, "size": "334px" }
+          ],
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "d5859874-ffbb-9533-98f0-7f86a192d389",
+        "type": "Link",
+        "tag": "a",
+        "classes": ["d5ebfdfe-bbf2-ed75-e712-5a98c08ed820"],
+        "children": ["5063e4b3-766d-cbd9-13a3-319c339b6cbc"],
+        "data": {
+          "button": true,
+          "block": "",
+          "link": { "mode": "external", "url": "#" },
+          "attr": { "id": "" },
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "xattr": [],
+          "search": { "exclude": true },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "5063e4b3-766d-cbd9-13a3-319c339b6cbc",
+        "text": true,
+        "v": "View Product"
+      },
+      {
+        "_id": "b3877ebe-77ef-d30c-cfc2-7b661bccb217",
+        "type": "DOM",
+        "tag": "div",
+        "classes": ["b1b65e82-d632-0d36-f0ce-d7b35c030e54"],
+        "children": [
+          "a993d2fe-02d4-51bf-a1d9-e471fac5a848",
+          "0c481045-0748-88fe-f7c0-f4b7f657bcb9",
+          "783f71d1-c1eb-aa62-df06-72bd5119ab9c",
+          "4e256141-fd22-90b7-e3c5-8df3e6c1a28d",
+          "ebab12f0-64f7-701d-9fd2-72acef3b4174"
+        ],
+        "data": { "tag": "div", "attributes": [] }
+      },
+      {
+        "_id": "a993d2fe-02d4-51bf-a1d9-e471fac5a848",
+        "type": "DOM",
+        "tag": "div",
+        "classes": ["56dc94f6-fd1c-291d-6934-2da530eaca90"],
+        "children": [],
+        "data": { "tag": "div", "attributes": [] }
+      },
+      {
+        "_id": "0c481045-0748-88fe-f7c0-f4b7f657bcb9",
+        "type": "DOM",
+        "tag": "div",
+        "classes": ["56dc94f6-fd1c-291d-6934-2da530eaca90"],
+        "children": [],
+        "data": { "tag": "div", "attributes": [] }
+      },
+      {
+        "_id": "783f71d1-c1eb-aa62-df06-72bd5119ab9c",
+        "type": "DOM",
+        "tag": "div",
+        "classes": ["56dc94f6-fd1c-291d-6934-2da530eaca90"],
+        "children": [],
+        "data": { "tag": "div", "attributes": [] }
+      },
+      {
+        "_id": "4e256141-fd22-90b7-e3c5-8df3e6c1a28d",
+        "type": "DOM",
+        "tag": "div",
+        "classes": ["56dc94f6-fd1c-291d-6934-2da530eaca90"],
+        "children": [],
+        "data": { "tag": "div", "attributes": [] }
+      },
+      {
+        "_id": "ebab12f0-64f7-701d-9fd2-72acef3b4174",
+        "type": "DOM",
+        "tag": "div",
+        "classes": ["56dc94f6-fd1c-291d-6934-2da530eaca90"],
+        "children": [],
+        "data": { "tag": "div", "attributes": [] }
+      },
+      {
+        "_id": "fb34a513-6acd-0e10-28be-08dcaf185051",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [
+          "3f16f2ae-bf0c-7517-f6e0-0b446cd273e4",
+          "f3d342ab-dd31-cfff-7df4-a2e76c549278",
+          "b9697fe3-82d3-7a1e-8a25-fb922d484766"
+        ],
+        "children": ["0d4f415a-8c3b-9c1d-ca48-f03d87a543fd"],
+        "data": { "tag": "div", "attributes": [] }
+      },
+      {
+        "_id": "0d4f415a-8c3b-9c1d-ca48-f03d87a543fd",
+        "type": "Image",
+        "tag": "img",
+        "classes": [],
+        "children": [],
+        "data": {
+          "img": { "id": "66aa5233590a635dcbe7b85f" },
+          "srcsetDisabled": false,
+          "attr": {
+            "width": "auto",
+            "height": "auto",
+            "alt": "__wf_reserved_inherit",
+            "src": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66aa5233590a635dcbe7b85f_left-arrow.svg",
+            "loading": "lazy",
+            "id": ""
+          },
+          "sizes": [],
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "fe13369a-87d0-53c9-7a0a-11d5a88dc0f8",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [
+          "3f16f2ae-bf0c-7517-f6e0-0b446cd273e4",
+          "b02a25c0-ad64-4539-7643-47c792bd3bfb",
+          "fc652495-32dc-f90c-aabe-801016298ca0"
+        ],
+        "children": ["bf6f151c-01fc-616f-e05c-d4dfba79fe1d"],
+        "data": { "tag": "div", "attributes": [] }
+      },
+      {
+        "_id": "bf6f151c-01fc-616f-e05c-d4dfba79fe1d",
+        "type": "Image",
+        "tag": "img",
+        "classes": [],
+        "children": [],
+        "data": {
+          "img": { "id": "66aa5203e27461f9c6d463f4" },
+          "srcsetDisabled": false,
+          "attr": {
+            "width": "auto",
+            "height": "auto",
+            "alt": "__wf_reserved_inherit",
+            "src": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66aa5203e27461f9c6d463f4_right-arrow.svg",
+            "loading": "lazy",
+            "id": ""
+          },
+          "sizes": [],
+          "devlink": { "runtimeProps": {}, "slot": "" },
+          "displayName": "",
+          "xattr": [],
+          "search": { "exclude": false },
+          "visibility": { "conditions": [] }
+        }
+      },
+      {
+        "_id": "823e2a9b-4964-95a5-e851-f1c61f2ac9d3",
+        "type": "DOM",
+        "tag": "div",
+        "classes": ["ff105454-4898-3522-6697-7e95ad80f5b8"],
+        "children": [
+          "c4bd2690-2d95-7828-39e4-989e421505f6",
+          "d4835815-445b-add6-6cdf-b248f1999842",
+          "b54e71b8-0080-575a-cb70-49856534b9f8"
+        ],
+        "data": { "tag": "div", "attributes": [] }
+      },
+      {
+        "_id": "c4bd2690-2d95-7828-39e4-989e421505f6",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [],
+        "children": [],
+        "data": {
+          "tag": "div",
+          "attributes": [{ "name": "flowappz-active-counter", "value": "true" }]
+        }
+      },
+      {
+        "_id": "d4835815-445b-add6-6cdf-b248f1999842",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [],
+        "children": ["01604458-13fe-92ec-ddcb-dc9f3eb14a53"],
+        "data": { "tag": "span", "attributes": [] }
+      },
+      { "_id": "01604458-13fe-92ec-ddcb-dc9f3eb14a53", "text": true, "v": "/" },
+      {
+        "_id": "b54e71b8-0080-575a-cb70-49856534b9f8",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [],
+        "children": [],
+        "data": {
+          "tag": "div",
+          "attributes": [{ "name": "flowappz-total-counter", "value": "true" }]
+        }
+      }
+    ],
+    "styles": [
+      {
+        "_id": "fc652495-32dc-f90c-aabe-801016298ca0",
+        "fake": false,
+        "type": "class",
+        "name": "navigation-btn",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "width: 48px; height: 48px; border-top-style: solid; border-top-width: 1px; border-top-color: hsla(0, 0.00%, 87.06%, 1.00); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(0, 0.00%, 87.06%, 1.00); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(0, 0.00%, 87.06%, 1.00); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(0, 0.00%, 87.06%, 1.00); border-top-left-radius: 50%; border-top-right-radius: 50%; border-bottom-left-radius: 50%; border-bottom-right-radius: 50%; background-color: hsla(0, 0.00%, 100.00%, 1.00);",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "6b260d76-a737-355f-8c8c-c9c348df7171",
+        "fake": false,
+        "type": "class",
+        "name": "product-image",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 100%; max-width: 334px;",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "29bc75d7-1b82-ddbb-43c1-3d287921bc23",
+        "fake": false,
+        "type": "class",
+        "name": "slider-1",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "background-color: #ffcfcf;",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "ef755aca-5388-8958-8239-6951fbb8d11f",
+        "fake": false,
+        "type": "class",
+        "name": "Paragraph",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "font-family: Montserrat; font-weight: 400; letter-spacing: @raw<|0.3px|>;",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "f3d342ab-dd31-cfff-7df4-a2e76c549278",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-slider-navigation-left-btn",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "left: 5px;",
+        "variants": {},
+        "children": ["b9697fe3-82d3-7a1e-8a25-fb922d484766"],
+        "createdBy": null,
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "b1b65e82-d632-0d36-f0ce-d7b35c030e54",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-slider-pagination",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: absolute; left: 50%; bottom: 0; display: flex; padding-top: 10px; padding-bottom: 10px; justify-content: center; transform: translateX(-50%);",
+        "variants": {},
+        "children": [],
+        "createdBy": null,
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "d5ebfdfe-bbf2-ed75-e712-5a98c08ed820",
+        "fake": false,
+        "type": "class",
+        "name": "product-btn",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; width: 100%; margin-top: 35px; justify-content: center; border-top-left-radius: 20px; border-top-right-radius: 20px; border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; background-color: hsla(208.00000000000003, 0.00%, 100.00%, 1.00); font-family: Montserrat; color: hsla(0, 0.00%, 0.00%, 0.80); font-weight: 700;",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "ca31b1a2-2cc5-aaa8-3596-11fc65ebdc15",
+        "fake": false,
+        "type": "class",
+        "name": "slider-4",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "background-color: #cfeeff;",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "56dc94f6-fd1c-291d-6934-2da530eaca90",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-slider-pagination-bullet",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 10px; height: 10px; margin-right: 5px; margin-left: 5px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; border-top-left-radius: 50%; border-top-right-radius: 50%; border-bottom-left-radius: 50%; border-bottom-right-radius: 50%; background-color: #c5c5c5; cursor: pointer;",
+        "variants": {},
+        "children": [],
+        "createdBy": null,
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "e39352be-becf-f4c5-3710-f03b05aaffe0",
+        "fake": false,
+        "type": "class",
+        "name": "tag",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: absolute; top: 20px; right: 20px; display: flex; width: 42px; height: 28px; padding-top: 0px; justify-content: center; border-top-left-radius: 12px; border-top-right-radius: 12px; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; background-color: hsla(0, 0.00%, 0.00%, 0.50); font-family: Montserrat; color: hsla(0, 0.00%, 100.00%, 1.00); line-height: 26px; text-decoration: none;",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "ff105454-4898-3522-6697-7e95ad80f5b8",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-counter-wrapper",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: absolute; right: 30px; bottom: 30px; display: flex; justify-content: center; align-items: center;",
+        "variants": {},
+        "children": [],
+        "createdBy": null,
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "ecc925ce-9120-7f2e-15f9-99a7a834d85e",
+        "fake": false,
+        "type": "class",
+        "name": "slider-3",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "background-color: #cfffd1;",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "a3a177e4-e464-9793-7966-03cfcced36ef",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz--container",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: relative; overflow-x: hidden; overflow-y: hidden; width: 100%; height: 550px;",
+        "variants": {},
+        "children": [],
+        "createdBy": null,
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "131d0ba0-5b50-5c5d-fd1d-a1547db1d0aa",
+        "fake": false,
+        "type": "class",
+        "name": "slider-2",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "background-color: #ffe9cf;",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "0ea828cf-3ebd-2fa3-3599-57417b215a23",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz--slide",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: relative; display: flex; overflow-x: hidden; overflow-y: hidden; width: 100%; height: 100%; padding-top: 25px; padding-right: 25px; padding-bottom: 25px; padding-left: 25px; flex-direction: column; justify-content: flex-start; flex-wrap: nowrap; align-items: flex-start; border-top-left-radius: 34px; border-top-right-radius: 34px; border-bottom-left-radius: 34px; border-bottom-right-radius: 34px; background-color: #cfffd1;",
+        "variants": {},
+        "children": [
+          "29bc75d7-1b82-ddbb-43c1-3d287921bc23",
+          "131d0ba0-5b50-5c5d-fd1d-a1547db1d0aa",
+          "ecc925ce-9120-7f2e-15f9-99a7a834d85e",
+          "ca31b1a2-2cc5-aaa8-3596-11fc65ebdc15"
+        ],
+        "createdBy": null,
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "b02a25c0-ad64-4539-7643-47c792bd3bfb",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-slider-navigation-right-btn",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "right: 5px;",
+        "variants": {},
+        "children": ["fc652495-32dc-f90c-aabe-801016298ca0"],
+        "createdBy": null,
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "b9697fe3-82d3-7a1e-8a25-fb922d484766",
+        "fake": false,
+        "type": "class",
+        "name": "navigation-btn",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "width: 48px; height: 48px; border-top-style: solid; border-top-width: 1px; border-top-color: hsla(0, 0.00%, 87.06%, 1.00); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(0, 0.00%, 87.06%, 1.00); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(0, 0.00%, 87.06%, 1.00); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(0, 0.00%, 87.06%, 1.00); border-top-left-radius: 50%; border-top-right-radius: 50%; border-bottom-left-radius: 50%; border-bottom-right-radius: 50%; background-color: white;",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "d39940b1-5336-dcde-a2e2-b5afdc603cef",
+        "fake": false,
+        "type": "class",
+        "name": "product-heading",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "margin-top: 0px; font-family: Montserrat; font-size: 22px; font-weight: 600;",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "3f16f2ae-bf0c-7517-f6e0-0b446cd273e4",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-slider-navigation-btn",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: absolute; top: 50%; display: flex; width: 30px; height: 30px; justify-content: center; align-items: center; color: black; cursor: pointer;",
+        "variants": {},
+        "children": [],
+        "createdBy": null,
+        "origin": null,
+        "selector": null
+      }
+    ],
+    "assets": [
+      {
+        "cdnUrl": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66aa5520996e97f452dcd786_669534b767eb4a777dcde2da_Frame%25206%2520(3)-p-500.png",
+        "siteId": "667bcfff695e19dfb6259223",
+        "width": 500,
+        "isHD": false,
+        "height": 455,
+        "fileName": "66aa5520996e97f452dcd786_669534b767eb4a777dcde2da_Frame%206%20(3)-p-500.png",
+        "createdOn": "2024-07-31T15:15:44.872Z",
+        "origFileName": "669534b767eb4a777dcde2da_Frame%206%20(3)-p-500.png",
+        "fileHash": "d3329a3d79ece11a86d6c67b03eec04f",
+        "translationLoading": false,
+        "variants": [],
+        "mimeType": "image/png",
+        "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/667bcfff695e19dfb6259223/66aa5520996e97f452dcd786_669534b767eb4a777dcde2da_Frame%25206%2520(3)-p-500.png",
+        "thumbUrl": "https://daks2k3a4ib2z.cloudfront.net/667bcfff695e19dfb6259223/66aa5520996e97f452dcd786_669534b767eb4a777dcde2da_Frame%25206%2520(3)-p-500.png",
+        "_id": "66aa5520996e97f452dcd786",
+        "updatedOn": "2024-08-01T04:26:27.167Z",
+        "fileSize": 58819,
+        "localizedSettings": {}
+      },
+      {
+        "cdnUrl": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66aa5233590a635dcbe7b85f_left-arrow.svg",
+        "siteId": "667bcfff695e19dfb6259223",
+        "width": 18,
+        "isHD": false,
+        "height": 18,
+        "fileName": "66aa5233590a635dcbe7b85f_left-arrow.svg",
+        "createdOn": "2024-07-31T15:03:15.758Z",
+        "origFileName": "left-arrow.svg",
+        "fileHash": "4b9cf4d93a7e99aa620b9c4e3b8948f4",
+        "translationLoading": false,
+        "variants": [],
+        "mimeType": "image/svg+xml",
+        "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/667bcfff695e19dfb6259223/66aa5233590a635dcbe7b85f_left-arrow.svg",
+        "thumbUrl": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66aa5233590a635dcbe7b85f_left-arrow.svg",
+        "_id": "66aa5233590a635dcbe7b85f",
+        "updatedOn": "2024-07-31T15:03:15.758Z",
+        "fileSize": 804,
+        "localizedSettings": {}
+      },
+      {
+        "cdnUrl": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66aa5203e27461f9c6d463f4_right-arrow.svg",
+        "siteId": "667bcfff695e19dfb6259223",
+        "width": 18,
+        "isHD": false,
+        "height": 18,
+        "fileName": "66aa5203e27461f9c6d463f4_right-arrow.svg",
+        "createdOn": "2024-07-31T15:02:27.672Z",
+        "origFileName": "right-arrow.svg",
+        "fileHash": "61d828c9195ad9f3a5e60386449b808f",
+        "translationLoading": false,
+        "variants": [],
+        "mimeType": "image/svg+xml",
+        "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/667bcfff695e19dfb6259223/66aa5203e27461f9c6d463f4_right-arrow.svg",
+        "thumbUrl": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66aa5203e27461f9c6d463f4_right-arrow.svg",
+        "_id": "66aa5203e27461f9c6d463f4",
+        "updatedOn": "2024-07-31T15:02:27.672Z",
+        "fileSize": 780,
+        "localizedSettings": {}
+      }
+    ],
+    "ix1": [],
+    "ix2": { "interactions": [], "events": [], "actionLists": [] }
+  },
+  "meta": {
+    "droppedLinks": 0,
+    "dynBindRemovedCount": 0,
+    "dynListBindRemovedCount": 0,
+    "paginationRemovedCount": 0,
+    "universalBindingsRemovedCount": 0,
+    "unlinkedSymbolCount": 0
+  }
+}
