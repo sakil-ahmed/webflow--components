@@ -1,0 +1,1908 @@
+{
+  "type": "@webflow/XscpData",
+  "payload": {
+    "nodes": [
+      {
+        "_id": "1f1d062c-536c-08e8-3dda-bb33355de5d4",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "116d2e9d-6852-d678-34ee-9f6ac36f9d2d"
+        ],
+        "children": [
+          "7451b021-eadc-47c2-98d6-9be3cafbd7f1",
+          "477ede3d-6184-e992-6310-4b1f3c33f8da"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "7451b021-eadc-47c2-98d6-9be3cafbd7f1",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "5791788b-ac41-1254-2c91-e42280e6b935"
+        ],
+        "children": [
+          "a85a2514-69c2-d97c-da83-3c237656c9d6",
+          "a8117f5e-84d2-a9a9-0259-9dc2fc9f9470"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "a85a2514-69c2-d97c-da83-3c237656c9d6",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "f92a0545-993a-1d69-2144-c2ebf42ba32f"
+        ],
+        "children": [
+          "92787cf8-15fe-2060-1595-bf41cf21f9fd",
+          "32dbe3ad-34da-3157-5e17-8847454946b0"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "92787cf8-15fe-2060-1595-bf41cf21f9fd",
+        "type": "Image",
+        "tag": "img",
+        "classes": [
+          "2449774a-74cc-2ed6-89cc-00524095fe73"
+        ],
+        "children": [],
+        "data": {
+          "img": {
+            "id": "669785916ab3ac4606d9ff85"
+          },
+          "srcsetDisabled": false,
+          "attr": {
+            "width": "auto",
+            "height": "auto",
+            "alt": "cookie image",
+            "src": "https://uploads-ssl.webflow.com/6665432e233aef7d378d3eef/669785916ab3ac4606d9ff85_Component%201.png",
+            "loading": "auto",
+            "id": ""
+          },
+          "sizes": [
+            {
+              "max": 10000,
+              "size": "60px"
+            }
+          ],
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "32dbe3ad-34da-3157-5e17-8847454946b0",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": [],
+        "children": [
+          "1726da6a-eb7f-894f-08f8-f6b898b70ec8"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "1726da6a-eb7f-894f-08f8-f6b898b70ec8",
+        "text": true,
+        "v": "Cookie Policy this site uses cookies to make it work properly, help us to understand how it’s used and to display content that is more relevant to you. For more information, see our Cookie Policy"
+      },
+      {
+        "_id": "a8117f5e-84d2-a9a9-0259-9dc2fc9f9470",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "879bf60a-d98a-229e-0758-90dd6f1e670b"
+        ],
+        "children": [
+          "758956b7-4d17-ceb7-862d-54a2890fabd1",
+          "d32e17f4-2875-c522-d405-14bd23f403e8",
+          "1840a061-8266-e8a1-a11f-adea074129fa"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "758956b7-4d17-ceb7-862d-54a2890fabd1",
+        "type": "Link",
+        "tag": "a",
+        "classes": [
+          "78b694b9-f5cf-f0b4-c5f3-ac14575e5502"
+        ],
+        "children": [
+          "146d1be7-2fe9-8d62-1d28-7dc2d079fd97"
+        ],
+        "data": {
+          "button": true,
+          "block": "",
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": true
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "146d1be7-2fe9-8d62-1d28-7dc2d079fd97",
+        "text": true,
+        "v": "Accept all"
+      },
+      {
+        "_id": "d32e17f4-2875-c522-d405-14bd23f403e8",
+        "type": "Link",
+        "tag": "a",
+        "classes": [
+          "2d92ea39-8d07-d1cb-12f4-09f8651a9bc1"
+        ],
+        "children": [
+          "e8eea834-5ad5-98cc-0202-10fa8e9612f0"
+        ],
+        "data": {
+          "button": true,
+          "block": "",
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": true
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "e8eea834-5ad5-98cc-0202-10fa8e9612f0",
+        "text": true,
+        "v": "Deny"
+      },
+      {
+        "_id": "1840a061-8266-e8a1-a11f-adea074129fa",
+        "type": "Link",
+        "tag": "a",
+        "classes": [
+          "5ffdad9f-83d9-99ba-814e-52618e79a411"
+        ],
+        "children": [
+          "cb48e367-26de-9484-780c-57dae1b48ec7"
+        ],
+        "data": {
+          "button": true,
+          "block": "",
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": true
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "cb48e367-26de-9484-780c-57dae1b48ec7",
+        "text": true,
+        "v": "Manage Settings"
+      },
+      {
+        "_id": "477ede3d-6184-e992-6310-4b1f3c33f8da",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "203dc591-a50e-3f30-2429-9b06002ba842"
+        ],
+        "children": [
+          "ecc55d0e-fd84-b025-e299-4c7c50cda5bd"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "ecc55d0e-fd84-b025-e299-4c7c50cda5bd",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "b8ba2d89-57b0-b2a3-b5c6-4ba6bb509ce9"
+        ],
+        "children": [
+          "8764e107-ab74-5f19-e4f4-9f7955bbef0b",
+          "13c738d3-2541-209a-7c4b-5675d1430849",
+          "2713314a-ad10-4199-d0e7-d7ea170809c4",
+          "fc42d0b7-4734-c259-5a35-ccc3ce93a511",
+          "3df5fdfa-2c00-44d9-e172-84f474659e42"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "8764e107-ab74-5f19-e4f4-9f7955bbef0b",
+        "type": "Heading",
+        "tag": "h3",
+        "classes": [
+          "269bbd59-23eb-b518-690b-cb17de9dcdeb"
+        ],
+        "children": [
+          "c646202e-b316-8dfd-1a70-e9276169f076"
+        ],
+        "data": {
+          "tag": "h3",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "c646202e-b316-8dfd-1a70-e9276169f076",
+        "text": true,
+        "v": "Customize your cookie settings"
+      },
+      {
+        "_id": "13c738d3-2541-209a-7c4b-5675d1430849",
+        "type": "Block",
+        "tag": "div",
+        "classes": [],
+        "children": [
+          "098cd687-01ff-98ee-f70c-eb1970227f92",
+          "c87f5472-285f-3648-b807-46628465c459",
+          "e0b4462a-7ac7-8a06-68a9-42e8ac08c317",
+          "62946fe1-2746-3325-4a74-d7e87e98c012"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "098cd687-01ff-98ee-f70c-eb1970227f92",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": [],
+        "children": [
+          "17f311d5-c19b-741b-7178-18297822f4b4"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "17f311d5-c19b-741b-7178-18297822f4b4",
+        "text": true,
+        "v": "This website uses cookies"
+      },
+      {
+        "_id": "c87f5472-285f-3648-b807-46628465c459",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": [],
+        "children": [
+          "af8e0b4c-38e4-1b90-b340-cf8e5e76c885"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "af8e0b4c-38e4-1b90-b340-cf8e5e76c885",
+        "text": true,
+        "v": "We use cookies to offer useful features and measure performance to imrpove your experience."
+      },
+      {
+        "_id": "e0b4462a-7ac7-8a06-68a9-42e8ac08c317",
+        "type": "List",
+        "tag": "ul",
+        "classes": [],
+        "children": [
+          "abf2491d-ed17-4e9d-9991-4c42f46eaf93",
+          "10848bf9-140e-8724-dfa0-26a9d3ac7f72"
+        ],
+        "data": {
+          "tag": "ul",
+          "list": {
+            "type": "list",
+            "unstyled": false
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "abf2491d-ed17-4e9d-9991-4c42f46eaf93",
+        "type": "ListItem",
+        "tag": "li",
+        "classes": [],
+        "children": [
+          "4c969e3c-a76f-72e7-7ded-a2298ada240d"
+        ],
+        "data": {
+          "list": {
+            "type": "item"
+          },
+          "text": true,
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "4c969e3c-a76f-72e7-7ded-a2298ada240d",
+        "text": true,
+        "v": "By clicking Accept all you agree to the use all cookie"
+      },
+      {
+        "_id": "10848bf9-140e-8724-dfa0-26a9d3ac7f72",
+        "type": "ListItem",
+        "tag": "li",
+        "classes": [],
+        "children": [
+          "7c1df925-8579-0827-4ecf-aa8ef2b5d8a3"
+        ],
+        "data": {
+          "list": {
+            "type": "item"
+          },
+          "text": true,
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "7c1df925-8579-0827-4ecf-aa8ef2b5d8a3",
+        "text": true,
+        "v": "By clicking Accept selected, you agree only to the categories you have selected"
+      },
+      {
+        "_id": "62946fe1-2746-3325-4a74-d7e87e98c012",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": [],
+        "children": [
+          "6de030ab-9b42-dbfa-d71d-7444a6a47be2",
+          "ab32c6a9-aa08-f4bc-7cf3-8ef51992ef08"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "6de030ab-9b42-dbfa-d71d-7444a6a47be2",
+        "text": true,
+        "v": "You can find further information in our "
+      },
+      {
+        "_id": "ab32c6a9-aa08-f4bc-7cf3-8ef51992ef08",
+        "type": "Link",
+        "tag": "a",
+        "classes": [
+          "024174bc-1d0a-1d64-2a89-692f57ea1052"
+        ],
+        "children": [
+          "ea2af835-ab92-7bae-4089-23d1e1ac154e"
+        ],
+        "data": {
+          "button": false,
+          "block": "",
+          "link": {
+            "url": "#",
+            "mode": "external"
+          },
+          "attr": {
+            "id": "",
+            "href": "#"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "ea2af835-ab92-7bae-4089-23d1e1ac154e",
+        "text": true,
+        "v": "Privacy Policy"
+      },
+      {
+        "_id": "2713314a-ad10-4199-d0e7-d7ea170809c4",
+        "type": "FormWrapper",
+        "tag": "div",
+        "classes": [],
+        "children": [
+          "bbfc37a9-06ac-75e3-d1fd-5f8437e9d06c",
+          "1c615544-50db-c291-5c3b-00d9425276a5",
+          "2449407a-e07b-3b0c-d72d-7ddbe36cbb9e"
+        ],
+        "data": {
+          "search": {
+            "exclude": true
+          },
+          "form": {
+            "type": "wrapper"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "bbfc37a9-06ac-75e3-d1fd-5f8437e9d06c",
+        "type": "FormForm",
+        "tag": "form",
+        "classes": [
+          "444f9930-d17c-a626-5535-b95845f2c56b"
+        ],
+        "children": [
+          "c5cb45fc-3158-f612-9935-1d832a252554",
+          "728781f9-500c-ac2f-bebb-b19d9f531248",
+          "06c87c37-ae1c-f5d3-e856-a8b6f3bcb965",
+          "6d4c4d71-8c84-ed01-fa50-d65a8905c6d9"
+        ],
+        "data": {
+          "Source": {
+            "tag": "Default form",
+            "val": {}
+          },
+          "form": {
+            "type": "form",
+            "name": "Email Form"
+          },
+          "attr": {
+            "id": "email-form",
+            "name": "email-form",
+            "data-name": "Email Form",
+            "redirect": "",
+            "data-redirect": "",
+            "action": "",
+            "method": "get"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "c5cb45fc-3158-f612-9935-1d832a252554",
+        "type": "FormCheckboxWrapper",
+        "tag": "div",
+        "classes": [
+          "fc75cfbf-8179-1dbf-1d63-c1652f13d298"
+        ],
+        "children": [
+          "19d86aed-4aca-8db8-8893-39b895393021",
+          "8208ada2-173a-986d-1b02-80040e393448"
+        ],
+        "data": {
+          "form": {
+            "type": "checkbox"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "19d86aed-4aca-8db8-8893-39b895393021",
+        "type": "FormCheckboxInput",
+        "tag": "input",
+        "classes": [
+          "51b67079-05c7-3edc-c8fe-8802f04db474",
+          "85b2c5ff-125d-ac7e-99ab-2426fc9cbf52"
+        ],
+        "children": [],
+        "data": {
+          "form": {
+            "type": "checkbox-input",
+            "name": "Checkbox"
+          },
+          "inputType": "custom",
+          "attr": {
+            "type": "checkbox",
+            "name": "checkbox",
+            "id": "necessary",
+            "data-name": "Checkbox",
+            "required": false,
+            "checked": true
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [
+            {
+              "name": "fa-checkbox",
+              "value": "Necessary"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "8208ada2-173a-986d-1b02-80040e393448",
+        "type": "FormInlineLabel",
+        "tag": "label",
+        "classes": [
+          "a29ee5ef-0fb0-a19c-f0d0-8fcbaef1d7bc"
+        ],
+        "children": [
+          "9cfb7451-3dfe-cb3a-dc89-1dc0543b36ae"
+        ],
+        "data": {
+          "form": {
+            "type": "checkbox-label"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "9cfb7451-3dfe-cb3a-dc89-1dc0543b36ae",
+        "text": true,
+        "v": "Necessary"
+      },
+      {
+        "_id": "728781f9-500c-ac2f-bebb-b19d9f531248",
+        "type": "FormCheckboxWrapper",
+        "tag": "div",
+        "classes": [
+          "fc75cfbf-8179-1dbf-1d63-c1652f13d298"
+        ],
+        "children": [
+          "5c4c0401-2dcf-b99b-3455-43c8c516b135",
+          "521482a4-33d6-b930-938f-ce1b40b45911"
+        ],
+        "data": {
+          "form": {
+            "type": "checkbox"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "5c4c0401-2dcf-b99b-3455-43c8c516b135",
+        "type": "FormCheckboxInput",
+        "tag": "input",
+        "classes": [
+          "51b67079-05c7-3edc-c8fe-8802f04db474"
+        ],
+        "children": [],
+        "data": {
+          "form": {
+            "type": "checkbox-input",
+            "name": "Marketing"
+          },
+          "inputType": "custom",
+          "attr": {
+            "type": "checkbox",
+            "name": "Marketing",
+            "id": "marketing",
+            "data-name": "Marketing",
+            "required": false,
+            "checked": false
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [
+            {
+              "name": "fa-checkbox",
+              "value": "marketing"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "521482a4-33d6-b930-938f-ce1b40b45911",
+        "type": "FormInlineLabel",
+        "tag": "label",
+        "classes": [
+          "a29ee5ef-0fb0-a19c-f0d0-8fcbaef1d7bc"
+        ],
+        "children": [
+          "becd1c9b-ab78-ca0b-cf30-66b471461b36"
+        ],
+        "data": {
+          "form": {
+            "type": "checkbox-label"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "becd1c9b-ab78-ca0b-cf30-66b471461b36",
+        "text": true,
+        "v": "Marketing"
+      },
+      {
+        "_id": "06c87c37-ae1c-f5d3-e856-a8b6f3bcb965",
+        "type": "FormCheckboxWrapper",
+        "tag": "div",
+        "classes": [
+          "fc75cfbf-8179-1dbf-1d63-c1652f13d298"
+        ],
+        "children": [
+          "6db60c7e-45a2-7d99-bb4d-ec78b1019491",
+          "2d51786b-3eb4-13d9-f85a-75cf5c5fd493"
+        ],
+        "data": {
+          "form": {
+            "type": "checkbox"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "6db60c7e-45a2-7d99-bb4d-ec78b1019491",
+        "type": "FormCheckboxInput",
+        "tag": "input",
+        "classes": [
+          "51b67079-05c7-3edc-c8fe-8802f04db474"
+        ],
+        "children": [],
+        "data": {
+          "form": {
+            "type": "checkbox-input",
+            "name": "Personalization"
+          },
+          "inputType": "custom",
+          "attr": {
+            "type": "checkbox",
+            "name": "Personalization",
+            "id": "Personalization",
+            "data-name": "Personalization",
+            "required": false,
+            "checked": false
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [
+            {
+              "name": "fa-checkbox",
+              "value": "personalization"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "2d51786b-3eb4-13d9-f85a-75cf5c5fd493",
+        "type": "FormInlineLabel",
+        "tag": "label",
+        "classes": [
+          "a29ee5ef-0fb0-a19c-f0d0-8fcbaef1d7bc"
+        ],
+        "children": [
+          "09f0cc47-4885-38d4-5430-55a510e46629"
+        ],
+        "data": {
+          "form": {
+            "type": "checkbox-label"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "09f0cc47-4885-38d4-5430-55a510e46629",
+        "text": true,
+        "v": "Personalization"
+      },
+      {
+        "_id": "6d4c4d71-8c84-ed01-fa50-d65a8905c6d9",
+        "type": "FormCheckboxWrapper",
+        "tag": "div",
+        "classes": [
+          "fc75cfbf-8179-1dbf-1d63-c1652f13d298"
+        ],
+        "children": [
+          "9890a8ec-0b7b-9925-d0d0-99a311b384a1",
+          "894a54fa-f13d-d4c0-6c44-ae7935b241c4"
+        ],
+        "data": {
+          "form": {
+            "type": "checkbox"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "9890a8ec-0b7b-9925-d0d0-99a311b384a1",
+        "type": "FormCheckboxInput",
+        "tag": "input",
+        "classes": [
+          "51b67079-05c7-3edc-c8fe-8802f04db474"
+        ],
+        "children": [],
+        "data": {
+          "form": {
+            "type": "checkbox-input",
+            "name": "Analytics"
+          },
+          "inputType": "custom",
+          "attr": {
+            "type": "checkbox",
+            "name": "Analytics",
+            "id": "analytics",
+            "data-name": "Analytics",
+            "required": false,
+            "checked": false
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [
+            {
+              "name": "fa-checkbox",
+              "value": "analytics"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "894a54fa-f13d-d4c0-6c44-ae7935b241c4",
+        "type": "FormInlineLabel",
+        "tag": "label",
+        "classes": [
+          "a29ee5ef-0fb0-a19c-f0d0-8fcbaef1d7bc"
+        ],
+        "children": [
+          "b760aa43-5f03-d062-15ed-72242727a867"
+        ],
+        "data": {
+          "form": {
+            "type": "checkbox-label"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "b760aa43-5f03-d062-15ed-72242727a867",
+        "text": true,
+        "v": "Analytics"
+      },
+      {
+        "_id": "1c615544-50db-c291-5c3b-00d9425276a5",
+        "type": "FormSuccessMessage",
+        "tag": "div",
+        "classes": [],
+        "children": [
+          "4ff83ca6-3e0b-dff2-f296-bf2e9ca28839"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          },
+          "form": {
+            "type": "msg-done"
+          }
+        }
+      },
+      {
+        "_id": "4ff83ca6-3e0b-dff2-f296-bf2e9ca28839",
+        "type": "Block",
+        "tag": "div",
+        "classes": [],
+        "children": [
+          "c87c4422-abee-eefb-8be2-56cbd7f0a2c1"
+        ],
+        "data": {
+          "text": true,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "c87c4422-abee-eefb-8be2-56cbd7f0a2c1",
+        "text": true,
+        "v": "Thank you! Your submission has been received!"
+      },
+      {
+        "_id": "2449407a-e07b-3b0c-d72d-7ddbe36cbb9e",
+        "type": "FormErrorMessage",
+        "tag": "div",
+        "classes": [],
+        "children": [
+          "42bd330f-4840-9040-0854-ac2649fa0867"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          },
+          "form": {
+            "type": "msg-fail"
+          }
+        }
+      },
+      {
+        "_id": "42bd330f-4840-9040-0854-ac2649fa0867",
+        "type": "Block",
+        "tag": "div",
+        "classes": [],
+        "children": [
+          "db770f55-82bd-83e6-6782-fda12f202c94"
+        ],
+        "data": {
+          "text": true,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "db770f55-82bd-83e6-6782-fda12f202c94",
+        "text": true,
+        "v": "Oops! Something went wrong while submitting the form."
+      },
+      {
+        "_id": "fc42d0b7-4734-c259-5a35-ccc3ce93a511",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "4156b67a-57c0-e573-4e48-cdbe56510531"
+        ],
+        "children": [
+          "d465674e-7da5-2874-2c00-4572c51d2747",
+          "07cbc84e-43fa-4f63-039f-1e20981212d9"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "d465674e-7da5-2874-2c00-4572c51d2747",
+        "type": "Link",
+        "tag": "a",
+        "classes": [
+          "2d92ea39-8d07-d1cb-12f4-09f8651a9bc1"
+        ],
+        "children": [
+          "eb943a01-5992-ae03-8dc5-3272a8a9379b"
+        ],
+        "data": {
+          "button": true,
+          "block": "",
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": true
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "eb943a01-5992-ae03-8dc5-3272a8a9379b",
+        "text": true,
+        "v": "Save Settings"
+      },
+      {
+        "_id": "07cbc84e-43fa-4f63-039f-1e20981212d9",
+        "type": "Link",
+        "tag": "a",
+        "classes": [
+          "78b694b9-f5cf-f0b4-c5f3-ac14575e5502"
+        ],
+        "children": [
+          "5f41a85f-5eb8-c525-aa7d-8c55e15ecdec"
+        ],
+        "data": {
+          "button": true,
+          "block": "",
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": true
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "5f41a85f-5eb8-c525-aa7d-8c55e15ecdec",
+        "text": true,
+        "v": "Accept all"
+      },
+      {
+        "_id": "3df5fdfa-2c00-44d9-e172-84f474659e42",
+        "type": "Link",
+        "tag": "a",
+        "classes": [
+          "ad921d51-c1ff-6d39-0e22-371832d86ec7"
+        ],
+        "children": [
+          "31de4b87-ffd1-8ed6-dd9f-e0d7bd4d8eff"
+        ],
+        "data": {
+          "button": false,
+          "block": "inline",
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [
+            {
+              "name": "fs-cc",
+              "value": "close"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "31de4b87-ffd1-8ed6-dd9f-e0d7bd4d8eff",
+        "type": "Image",
+        "tag": "img",
+        "classes": [
+          "ad921d51-c1ff-6d39-0e22-371832d86ec8"
+        ],
+        "children": [],
+        "data": {
+          "img": {
+            "id": "669794ee631d97e268fa7c3b"
+          },
+          "srcsetDisabled": false,
+          "attr": {
+            "width": "auto",
+            "height": "auto",
+            "alt": "close icon",
+            "src": "https://uploads-ssl.webflow.com/6665432e233aef7d378d3eef/669794ee631d97e268fa7c3b_Close-256.png",
+            "loading": "lazy",
+            "id": ""
+          },
+          "sizes": [
+            {
+              "max": 767,
+              "size": "25px"
+            },
+            {
+              "max": 991,
+              "size": "3vw"
+            },
+            {
+              "max": 10000,
+              "size": "25px"
+            }
+          ],
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      }
+    ],
+    "styles": [
+      {
+        "_id": "116d2e9d-6852-d678-34ee-9f6ac36f9d2d",
+        "fake": false,
+        "type": "class",
+        "name": "fa-cookie",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "4156b67a-57c0-e573-4e48-cdbe56510531",
+        "fake": false,
+        "type": "class",
+        "name": "Div Block 2",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; margin-top: 30px; justify-content: flex-end; grid-column-gap: 30px; grid-row-gap: 30px;",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "269bbd59-23eb-b518-690b-cb17de9dcdeb",
+        "fake": false,
+        "type": "class",
+        "name": "Heading",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "margin-top: 20px; margin-bottom: 20px; color: #eceae5;",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "2449774a-74cc-2ed6-89cc-00524095fe73",
+        "fake": false,
+        "type": "class",
+        "name": "Image",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 60px; height: 60px; flex-shrink: @raw<|1|>; flex-grow: @raw<|1|>;",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "85b2c5ff-125d-ac7e-99ab-2426fc9cbf52",
+        "fake": false,
+        "type": "class",
+        "name": "is-active-always",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "cursor: @raw<|not-allowed|>;",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "024174bc-1d0a-1d64-2a89-692f57ea1052",
+        "fake": false,
+        "type": "class",
+        "name": "Link",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "color: #eceae5;",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "879bf60a-d98a-229e-0758-90dd6f1e670b",
+        "fake": false,
+        "type": "class",
+        "name": "fa-cookie-popup-btns",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; margin-top: 20px; justify-content: flex-end; align-items: center; grid-column-gap: 20px; grid-row-gap: 20px;",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "5791788b-ac41-1254-2c91-e42280e6b935",
+        "fake": false,
+        "type": "class",
+        "name": "fa-cookie-popup",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: fixed; right: 0px; bottom: 0px; max-width: 600px; margin-right: 20px; margin-bottom: 20px; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; background-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); color: #eceae5;",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "a29ee5ef-0fb0-a19c-f0d0-8fcbaef1d7bc",
+        "fake": false,
+        "type": "class",
+        "name": "Checkbox Label",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "font-weight: 700;",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "b8ba2d89-57b0-b2a3-b5c6-4ba6bb509ce9",
+        "fake": false,
+        "type": "class",
+        "name": "fa-preference-manager",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: relative; width: 100%; max-width: 640px; padding-top: 30px; padding-right: 30px; padding-bottom: 30px; padding-left: 30px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; background-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); color: #eceae5;",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "444f9930-d17c-a626-5535-b95845f2c56b",
+        "fake": false,
+        "type": "class",
+        "name": "Form",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; margin-top: 30px; grid-column-gap: 20px; grid-row-gap: 20px;",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "ad921d51-c1ff-6d39-0e22-371832d86ec8",
+        "fake": false,
+        "type": "class",
+        "name": "Image 2",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 25px; transition-property: all; transition-duration: 200ms; transition-timing-function: ease;",
+        "variants": {},
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "ad921d51-c1ff-6d39-0e22-371832d86ec7",
+        "fake": false,
+        "type": "class",
+        "name": "close-button",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: absolute; left: auto; top: 20px; right: 20px; bottom: auto; display: block; width: 25px; height: 25px; transition-property: all; transition-duration: 300ms; transition-timing-function: ease;",
+        "variants": {
+          "main_hover": {
+            "styleLess": "opacity: 0.5; transform: rotate(180deg);"
+          },
+          "tiny": {
+            "styleLess": "top: 10px; right: 10px;"
+          }
+        },
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "2d92ea39-8d07-d1cb-12f4-09f8651a9bc1",
+        "fake": false,
+        "type": "class",
+        "name": "fa-cookie-decline-btn",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "border-top-style: solid; border-top-width: 1px; border-top-color: hsla(237.57575757575756, 100.00%, 61.18%, 1.00); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(237.57575757575756, 100.00%, 61.18%, 1.00); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(237.57575757575756, 100.00%, 61.18%, 1.00); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(237.57575757575756, 100.00%, 61.18%, 1.00); border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; background-color: hsla(208.00000000000003, 82.57%, 57.25%, 0.00); transition-property: background-color; transition-duration: 200ms; transition-timing-function: ease; color: hsla(237.57575757575756, 100.00%, 61.18%, 1.00);",
+        "variants": {
+          "main_hover": {
+            "styleLess": "background-color: hsla(237.57575757575756, 100.00%, 61.18%, 1.00); color: hsla(237.57575757575756, 0.00%, 100.00%, 1.00);"
+          }
+        },
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "51b67079-05c7-3edc-c8fe-8802f04db474",
+        "fake": false,
+        "type": "class",
+        "name": "Checkbox",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 19px; height: 19px; border-top-color: #eceae5; border-right-color: #eceae5; border-bottom-color: #eceae5; border-left-color: #eceae5; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px;",
+        "variants": {
+          "main_redirected-checked": {
+            "styleLess": "background-color: #eceae5; background-image: @img_6697918aaae907897ac2a2de; color: #0e0e0e;"
+          }
+        },
+        "children": [
+          "85b2c5ff-125d-ac7e-99ab-2426fc9cbf52"
+        ],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "f92a0545-993a-1d69-2144-c2ebf42ba32f",
+        "fake": false,
+        "type": "class",
+        "name": "Div Block",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; justify-content: center; align-items: center; grid-column-gap: 20px; grid-row-gap: 20px;",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "78b694b9-f5cf-f0b4-c5f3-ac14575e5502",
+        "fake": false,
+        "type": "class",
+        "name": "fa-cookie-accept-btn",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "border-top-style: solid; border-top-width: 1px; border-top-color: hsla(237.57575757575756, 100.00%, 61.18%, 1.00); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(237.57575757575756, 100.00%, 61.18%, 1.00); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(237.57575757575756, 100.00%, 61.18%, 1.00); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(237.57575757575756, 100.00%, 61.18%, 1.00); border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; background-color: hsla(237.57575757575756, 100.00%, 61.18%, 1.00); transition-property: background-color; transition-duration: 200ms; transition-timing-function: ease;",
+        "variants": {
+          "main_hover": {
+            "styleLess": "background-color: hsla(237.57575757575756, 100.00%, 61.18%, 0.00); color: hsla(237.57575757575756, 100.00%, 61.18%, 1.00);"
+          }
+        },
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "fc75cfbf-8179-1dbf-1d63-c1652f13d298",
+        "fake": false,
+        "type": "class",
+        "name": "Checkbox Field",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; align-items: center; grid-column-gap: 5px; grid-row-gap: 5px;",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "203dc591-a50e-3f30-2429-9b06002ba842",
+        "fake": false,
+        "type": "class",
+        "name": "fa-preference-manager-wrapper",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: fixed; left: 0px; top: 0px; right: 0px; bottom: 0px; display: none; justify-content: center; align-items: center; background-color: hsla(212.72727272727275, 22.00%, 19.61%, 0.47);",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "5ffdad9f-83d9-99ba-814e-52618e79a411",
+        "fake": false,
+        "type": "class",
+        "name": "Button 2",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; background-color: hsla(208.00000000000003, 82.57%, 57.25%, 0.00);",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      }
+    ],
+    "assets": [
+      {
+        "cdnUrl": "https://uploads-ssl.webflow.com/6665432e233aef7d378d3eef/669785916ab3ac4606d9ff85_Component%201.png",
+        "siteId": "6665432e233aef7d378d3eef",
+        "width": 151,
+        "isHD": false,
+        "height": 140,
+        "fileName": "669785916ab3ac4606d9ff85_Component 1.png",
+        "createdOn": "2024-07-17T08:49:21.982Z",
+        "origFileName": "Component 1.png",
+        "fileHash": "94d52edd539c55e5ae4c06cd875d1730",
+        "translationLoading": false,
+        "variants": [],
+        "mimeType": "image/png",
+        "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/6665432e233aef7d378d3eef/669785916ab3ac4606d9ff85_Component%201.png",
+        "thumbUrl": "https://daks2k3a4ib2z.cloudfront.net/6665432e233aef7d378d3eef/669785916ab3ac4606d9ff85_Component%201-p-130x130q80.png",
+        "_id": "669785916ab3ac4606d9ff85",
+        "updatedOn": "2024-07-29T08:39:36.053Z",
+        "fileSize": 2938,
+        "localizedSettings": {}
+      },
+      {
+        "cdnUrl": "https://uploads-ssl.webflow.com/6665432e233aef7d378d3eef/669794ee631d97e268fa7c3b_Close-256.png",
+        "siteId": "6665432e233aef7d378d3eef",
+        "width": 256,
+        "isHD": false,
+        "height": 256,
+        "fileName": "669794ee631d97e268fa7c3b_Close-256.png",
+        "createdOn": "2024-07-17T09:54:54.560Z",
+        "origFileName": "Close-256.png",
+        "fileHash": "930b99802230e6632cc342a536187f93",
+        "translationLoading": false,
+        "variants": [],
+        "mimeType": "image/png",
+        "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/6665432e233aef7d378d3eef/669794ee631d97e268fa7c3b_Close-256.png",
+        "thumbUrl": "https://daks2k3a4ib2z.cloudfront.net/6665432e233aef7d378d3eef/669794ee631d97e268fa7c3b_Close-256-p-130x130q80.png",
+        "_id": "669794ee631d97e268fa7c3b",
+        "updatedOn": "2024-07-29T08:39:36.054Z",
+        "fileSize": 1769,
+        "localizedSettings": {}
+      },
+      {
+        "cdnUrl": "https://uploads-ssl.webflow.com/6665432e233aef7d378d3eef/6697918aaae907897ac2a2de_correct-symbol.png",
+        "siteId": "6665432e233aef7d378d3eef",
+        "width": 512,
+        "isHD": false,
+        "height": 512,
+        "fileName": "6697918aaae907897ac2a2de_correct-symbol.png",
+        "createdOn": "2024-07-17T09:40:26.197Z",
+        "origFileName": "correct-symbol.png",
+        "fileHash": "39572814cf68aeb66fc052db888eea14",
+        "translationLoading": false,
+        "variants": [
+          {
+            "origFileName": "correct-symbol-p-500.png",
+            "fileName": "6697918aaae907897ac2a2de_correct-symbol-p-500.png",
+            "size": 7399,
+            "format": "png",
+            "width": 500,
+            "quality": 100,
+            "error": "FILESIZE_EXCEEDS_CAP",
+            "_id": "6697918cbe87df9edc86a642"
+          }
+        ],
+        "mimeType": "image/png",
+        "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/6665432e233aef7d378d3eef/6697918aaae907897ac2a2de_correct-symbol.png",
+        "thumbUrl": "https://daks2k3a4ib2z.cloudfront.net/6665432e233aef7d378d3eef/6697918aaae907897ac2a2de_correct-symbol-p-130x130q80.png",
+        "_id": "6697918aaae907897ac2a2de",
+        "updatedOn": "2024-07-29T08:39:36.051Z",
+        "fileSize": 3609,
+        "localizedSettings": {}
+      }
+    ],
+    "ix1": [],
+    "ix2": {
+      "interactions": [],
+      "events": [],
+      "actionLists": []
+    }
+  },
+  "meta": {
+    "droppedLinks": 0,
+    "dynBindRemovedCount": 0,
+    "dynListBindRemovedCount": 0,
+    "paginationRemovedCount": 0,
+    "universalBindingsRemovedCount": 0,
+    "unlinkedSymbolCount": 0
+  }
+}

@@ -1,0 +1,2347 @@
+{
+  "type": "@webflow/XscpData",
+  "payload": {
+    "nodes": [
+      {
+        "_id": "3aa3dcf5-a21b-291e-81ff-657e728c6cc9",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "a2aec3b7-e09d-ce1c-48fa-e0ac96dae8bf"
+        ],
+        "children": [
+          "a606a720-6949-048e-755b-f81ee2b948a9",
+          "dde92a35-0e61-d3da-08a6-597b40db0067"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "a606a720-6949-048e-755b-f81ee2b948a9",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "d383bafb-abc7-6345-84fb-5f96bb9dcca4"
+        ],
+        "children": [
+          "d24f74e0-a2ff-7832-3868-7e3f448a5a2b",
+          "09419767-9932-429f-7712-aa03a1ca2222",
+          "c80f0474-c501-bfd8-1224-e2c64067364f",
+          "e9252902-29a9-0957-1098-b5d0380359e8"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "d24f74e0-a2ff-7832-3868-7e3f448a5a2b",
+        "type": "Block",
+        "tag": "div",
+        "classes": [],
+        "children": [
+          "ccf4115c-7677-d4f2-58f7-d1e00d38ef0b"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "ccf4115c-7677-d4f2-58f7-d1e00d38ef0b",
+        "type": "Image",
+        "tag": "img",
+        "classes": [
+          "1094cb8d-d496-c49d-3eee-70c5cad3239e"
+        ],
+        "children": [],
+        "data": {
+          "img": {
+            "id": "6697568932fe1fdccf2d6c7f"
+          },
+          "srcsetDisabled": false,
+          "attr": {
+            "width": "auto",
+            "height": "auto",
+            "alt": "cookie image",
+            "src": "https://uploads-ssl.webflow.com/6694b1674f63def71ac1f3bf/6697568932fe1fdccf2d6c7f_Component%201.png",
+            "loading": "lazy",
+            "id": ""
+          },
+          "sizes": [
+            {
+              "max": 10000,
+              "size": "100px"
+            }
+          ],
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "09419767-9932-429f-7712-aa03a1ca2222",
+        "type": "Heading",
+        "tag": "h2",
+        "classes": [
+          "6174b320-4452-1669-02a8-86daa55692b1"
+        ],
+        "children": [
+          "62ddf68b-5544-e9e5-809d-e8e647f174d8"
+        ],
+        "data": {
+          "tag": "h2",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "62ddf68b-5544-e9e5-809d-e8e647f174d8",
+        "text": true,
+        "v": "Our website use Cookies"
+      },
+      {
+        "_id": "c80f0474-c501-bfd8-1224-e2c64067364f",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": [
+          "5481c3c4-853b-bd32-ff08-3065e4cb74fd"
+        ],
+        "children": [
+          "e75f4b32-b005-ab83-3198-1df894875317"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "e75f4b32-b005-ab83-3198-1df894875317",
+        "text": true,
+        "v": "We use cookies and similar technologies to help personalise content, tailor and measure ads, and provide a better experience. By clicking OK or turning an option on in Cookie Preferences, you agree to this, as outlined in our Cookie Policy."
+      },
+      {
+        "_id": "e9252902-29a9-0957-1098-b5d0380359e8",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "97693ba5-4891-4dab-7210-fef1b81b947e"
+        ],
+        "children": [
+          "4d1d56e3-9271-d3f8-9540-0a121cf08bfb",
+          "06836bd8-4432-fcbe-dfab-d4b041c089a8",
+          "8bb6720f-c262-89c6-ac10-0b97691c44c2"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "4d1d56e3-9271-d3f8-9540-0a121cf08bfb",
+        "type": "Link",
+        "tag": "a",
+        "classes": [
+          "f2950567-e932-f094-a2be-9d6a998d672c"
+        ],
+        "children": [
+          "22127df0-2323-7c31-2580-f8a454e22e50"
+        ],
+        "data": {
+          "button": true,
+          "block": "",
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": true
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "22127df0-2323-7c31-2580-f8a454e22e50",
+        "text": true,
+        "v": "Accept all"
+      },
+      {
+        "_id": "06836bd8-4432-fcbe-dfab-d4b041c089a8",
+        "type": "Link",
+        "tag": "a",
+        "classes": [
+          "be16c84e-6e31-02c8-48f1-cfe80ae31e15"
+        ],
+        "children": [
+          "3f296e19-45b9-96ee-d310-3c045e1e01a0"
+        ],
+        "data": {
+          "button": true,
+          "block": "",
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": true
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "3f296e19-45b9-96ee-d310-3c045e1e01a0",
+        "text": true,
+        "v": "Decilne"
+      },
+      {
+        "_id": "8bb6720f-c262-89c6-ac10-0b97691c44c2",
+        "type": "Link",
+        "tag": "a",
+        "classes": [
+          "9ddd4d58-f8ee-50ea-fb7d-762391c35906"
+        ],
+        "children": [
+          "cda0096a-0bb8-d892-6c0b-dafed5f1d843"
+        ],
+        "data": {
+          "button": true,
+          "block": "",
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": true
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "cda0096a-0bb8-d892-6c0b-dafed5f1d843",
+        "text": true,
+        "v": "Manage Settings"
+      },
+      {
+        "_id": "dde92a35-0e61-d3da-08a6-597b40db0067",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "7e8630c0-27be-060e-3294-b026582d08b9"
+        ],
+        "children": [
+          "77e0989f-0731-2b2d-85f5-365e148a5258"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "77e0989f-0731-2b2d-85f5-365e148a5258",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "84bf8c39-4739-96b6-f0ed-aefd32af5cd1"
+        ],
+        "children": [
+          "5e91f62f-0094-c4f6-7923-cdaa36e16dc9",
+          "071e56f8-ae96-9bf6-ac4c-c975c6066d17",
+          "704d342b-4c0f-d1e6-73d8-38c1010b27fc",
+          "f5d376b0-9dc3-3227-d692-8c52f99ee7c5"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "5e91f62f-0094-c4f6-7923-cdaa36e16dc9",
+        "type": "Link",
+        "tag": "a",
+        "classes": [
+          "c9ab54d6-c317-f9e2-213c-cbbdacc0b632"
+        ],
+        "children": [
+          "25ab97f3-f982-8202-e4fa-924d77190bf9"
+        ],
+        "data": {
+          "button": false,
+          "block": "inline",
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [
+            {
+              "name": "fs-cc",
+              "value": "close"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "25ab97f3-f982-8202-e4fa-924d77190bf9",
+        "type": "Image",
+        "tag": "img",
+        "classes": [
+          "c9ab54d6-c317-f9e2-213c-cbbdacc0b633"
+        ],
+        "children": [],
+        "data": {
+          "img": {
+            "id": "669768f19fc048fc25f2b07c"
+          },
+          "srcsetDisabled": false,
+          "attr": {
+            "width": "auto",
+            "height": "auto",
+            "alt": "close icon",
+            "src": "https://uploads-ssl.webflow.com/6694b1674f63def71ac1f3bf/669768f19fc048fc25f2b07c_240_F_437519066_OLrSfrnBk5hioGeje96IZ0ejr8Xrozw3.jpg",
+            "loading": "lazy",
+            "id": ""
+          },
+          "sizes": [
+            {
+              "max": 10000,
+              "size": "30px"
+            }
+          ],
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "071e56f8-ae96-9bf6-ac4c-c975c6066d17",
+        "type": "Heading",
+        "tag": "h3",
+        "classes": [
+          "8839e077-7c82-3416-cf06-e5217502ea10"
+        ],
+        "children": [
+          "b09724ab-ee35-07c8-9239-8ef2879b1922"
+        ],
+        "data": {
+          "tag": "h3",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "b09724ab-ee35-07c8-9239-8ef2879b1922",
+        "text": true,
+        "v": "Manage Cookies"
+      },
+      {
+        "_id": "704d342b-4c0f-d1e6-73d8-38c1010b27fc",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": [
+          "1466269c-9cad-4044-39c2-48fa61d1bc84"
+        ],
+        "children": [
+          "41ff84ad-0bd9-53f4-0b67-32bd062c6e75"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "41ff84ad-0bd9-53f4-0b67-32bd062c6e75",
+        "text": true,
+        "v": "Cookies are small text that can be used by websites to make the user experience  more efficient. The law states that we may store cookies on your device if they are strictly necessaryfor the operation of this site. For all other types of cookies, we need your  permission. This site uses various types of cookies. Some cookies are placed by third party  services that appear on our pages. "
+      },
+      {
+        "_id": "f5d376b0-9dc3-3227-d692-8c52f99ee7c5",
+        "type": "FormWrapper",
+        "tag": "div",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e023b"
+        ],
+        "children": [
+          "c87a7b62-4ca6-a5b7-df33-6330a44358fb",
+          "3ae9d907-a422-b63f-d3ad-f95fd71911a2",
+          "fa3adcd8-3e48-5a06-4e66-bb4188e5e657"
+        ],
+        "data": {
+          "search": {
+            "exclude": true
+          },
+          "form": {
+            "type": "wrapper"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "c87a7b62-4ca6-a5b7-df33-6330a44358fb",
+        "type": "FormForm",
+        "tag": "form",
+        "classes": [],
+        "children": [
+          "415fbfbe-86b7-cc67-41a4-25bff31cf3ad",
+          "ba4d9d3a-9cfa-b9dc-d724-1d80c04c0139",
+          "67c217d4-97f8-bc9d-d451-403d2af479ea"
+        ],
+        "data": {
+          "Source": {
+            "tag": "Default form",
+            "val": {}
+          },
+          "form": {
+            "type": "form",
+            "name": "Email Form"
+          },
+          "attr": {
+            "id": "email-form",
+            "name": "email-form",
+            "data-name": "Email Form",
+            "redirect": "",
+            "data-redirect": "",
+            "action": "",
+            "method": "get"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          },
+          "clearfix": true
+        }
+      },
+      {
+        "_id": "415fbfbe-86b7-cc67-41a4-25bff31cf3ad",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "e5e4df2a-f6fd-65e9-7ede-eed63c3edb88"
+        ],
+        "children": [
+          "11c6725f-0699-b74e-8922-07b7526d8e5b",
+          "403167f1-91cf-43a2-d1a1-49995fecdaab",
+          "de85a07d-d5dd-9146-8dcc-a6137c410257",
+          "7f36c0ad-4e25-772b-9625-3ab7f836513f"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "11c6725f-0699-b74e-8922-07b7526d8e5b",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e023e"
+        ],
+        "children": [
+          "87e64fc5-f132-8f3d-230c-210ed481dfda",
+          "0474c666-7d2b-32ef-aadb-b66396ea9209"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "87e64fc5-f132-8f3d-230c-210ed481dfda",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e023d"
+        ],
+        "children": [
+          "356bf398-be30-1bc1-a5b5-e292e4e6e3a3",
+          "4538f11b-31e1-a39c-ac36-70df2ad84a9d"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "356bf398-be30-1bc1-a5b5-e292e4e6e3a3",
+        "type": "FormBlockLabel",
+        "tag": "label",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e0238"
+        ],
+        "children": [
+          "f108a470-f5dd-f105-0fcf-a3a1b806a1fe"
+        ],
+        "data": {
+          "attr": {
+            "for": "name",
+            "id": ""
+          },
+          "form": {
+            "type": "label",
+            "passwordPage": false
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "f108a470-f5dd-f105-0fcf-a3a1b806a1fe",
+        "text": true,
+        "v": "Necessary"
+      },
+      {
+        "_id": "4538f11b-31e1-a39c-ac36-70df2ad84a9d",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e023f"
+        ],
+        "children": [
+          "1cfabeb8-ad07-a4de-6d5a-8f1edf7aa61b",
+          "f8c4a62f-044f-ca8f-492f-76ad84c6c963"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "1cfabeb8-ad07-a4de-6d5a-8f1edf7aa61b",
+        "text": true,
+        "v": "These items are required to enable basic website functionality."
+      },
+      {
+        "_id": "f8c4a62f-044f-ca8f-492f-76ad84c6c963",
+        "type": "LineBreak",
+        "tag": "br",
+        "classes": [],
+        "children": [],
+        "data": {
+          "sym": {
+            "inst": "LineBreak"
+          }
+        }
+      },
+      {
+        "_id": "0474c666-7d2b-32ef-aadb-b66396ea9209",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e023f",
+          "acbc98ae-1325-a9a7-61d7-083ca19e0240"
+        ],
+        "children": [
+          "6683d5e0-49f6-cc03-db3f-4e4d0ed0539d",
+          "4f71042a-e11c-72f0-f9c3-dafe9ed11ef3"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          },
+          "style": {
+            "base": {
+              "main": {
+                "noPseudo": {
+                  "alignSelf": "center",
+                  "justifySelf": "end"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "_id": "6683d5e0-49f6-cc03-db3f-4e4d0ed0539d",
+        "text": true,
+        "v": "Always active"
+      },
+      {
+        "_id": "4f71042a-e11c-72f0-f9c3-dafe9ed11ef3",
+        "type": "LineBreak",
+        "tag": "br",
+        "classes": [],
+        "children": [],
+        "data": {
+          "sym": {
+            "inst": "LineBreak"
+          }
+        }
+      },
+      {
+        "_id": "403167f1-91cf-43a2-d1a1-49995fecdaab",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e023e"
+        ],
+        "children": [
+          "29230bda-5f1b-d9d0-aee8-fd655784b924",
+          "3a685fca-5cb9-b2a5-85af-97685c75e365"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "29230bda-5f1b-d9d0-aee8-fd655784b924",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e023d"
+        ],
+        "children": [
+          "9676d383-cbf7-53f1-5037-42e2b9546631",
+          "ff449a4a-9507-e218-f20f-db3004909b5d"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "9676d383-cbf7-53f1-5037-42e2b9546631",
+        "type": "FormBlockLabel",
+        "tag": "label",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e0238"
+        ],
+        "children": [
+          "cda37d1a-7717-8f60-7951-39275b6f43da"
+        ],
+        "data": {
+          "attr": {
+            "for": "name",
+            "id": ""
+          },
+          "form": {
+            "type": "label",
+            "passwordPage": false
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "cda37d1a-7717-8f60-7951-39275b6f43da",
+        "text": true,
+        "v": "Marketing"
+      },
+      {
+        "_id": "ff449a4a-9507-e218-f20f-db3004909b5d",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e023f"
+        ],
+        "children": [
+          "b5d6ffb6-6587-0452-dcab-4178aba47acf",
+          "4dd4a246-c3bc-f657-a2b5-6d00facee9ce"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "b5d6ffb6-6587-0452-dcab-4178aba47acf",
+        "text": true,
+        "v": "These items are used to deliver advertising that is more relevant to you and your interests. "
+      },
+      {
+        "_id": "4dd4a246-c3bc-f657-a2b5-6d00facee9ce",
+        "type": "LineBreak",
+        "tag": "br",
+        "classes": [],
+        "children": [],
+        "data": {
+          "sym": {
+            "inst": "LineBreak"
+          }
+        }
+      },
+      {
+        "_id": "3a685fca-5cb9-b2a5-85af-97685c75e365",
+        "type": "FormCheckboxWrapper",
+        "tag": "div",
+        "classes": [
+          "7516904d-3519-1fb0-e1e0-f6edc9b9c843"
+        ],
+        "children": [
+          "849f9690-2675-26cc-c3dd-62952badf23b",
+          "4628cd0a-b51e-4b99-a6b7-c2117f440b3b"
+        ],
+        "data": {
+          "form": {
+            "type": "checkbox"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          },
+          "style": {
+            "base": {
+              "main": {
+                "noPseudo": {
+                  "justifySelf": "end",
+                  "alignSelf": "start"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "_id": "849f9690-2675-26cc-c3dd-62952badf23b",
+        "type": "FormCheckboxInput",
+        "tag": "input",
+        "classes": [
+          "cee1d836-d477-1f16-ce85-823c46ccfc41"
+        ],
+        "children": [],
+        "data": {
+          "form": {
+            "type": "checkbox-input",
+            "name": "Checkbox 5"
+          },
+          "inputType": "custom",
+          "attr": {
+            "type": "checkbox",
+            "name": "checkbox-5",
+            "id": "checkbox-5",
+            "data-name": "Checkbox 5",
+            "required": false,
+            "checked": false
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "4628cd0a-b51e-4b99-a6b7-c2117f440b3b",
+        "type": "FormInlineLabel",
+        "tag": "label",
+        "classes": [
+          "175b8cc9-406e-182c-26e7-1ccf1be3cfd0"
+        ],
+        "children": [
+          "3a57aa33-f9bd-d3d2-f5fd-c2026cda4e1e"
+        ],
+        "data": {
+          "form": {
+            "type": "checkbox-label"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "3a57aa33-f9bd-d3d2-f5fd-c2026cda4e1e",
+        "text": true,
+        "v": "Checkbox 5"
+      },
+      {
+        "_id": "de85a07d-d5dd-9146-8dcc-a6137c410257",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e023e"
+        ],
+        "children": [
+          "fc45b4ab-0ea1-60c4-4fa3-d061e9262335",
+          "bd1ebbc0-460c-19c0-408f-ea943c338af2"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "fc45b4ab-0ea1-60c4-4fa3-d061e9262335",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e023d"
+        ],
+        "children": [
+          "e9a25ad5-cf34-3158-1f90-6ea440976a47",
+          "c9d27ee1-e4cd-fa0e-ace5-16891535de75"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "e9a25ad5-cf34-3158-1f90-6ea440976a47",
+        "type": "FormBlockLabel",
+        "tag": "label",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e0238"
+        ],
+        "children": [
+          "fb9a08e6-8f07-b219-befe-ce56483f62dc"
+        ],
+        "data": {
+          "attr": {
+            "for": "name",
+            "id": ""
+          },
+          "form": {
+            "type": "label",
+            "passwordPage": false
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "fb9a08e6-8f07-b219-befe-ce56483f62dc",
+        "text": true,
+        "v": "Personalization"
+      },
+      {
+        "_id": "c9d27ee1-e4cd-fa0e-ace5-16891535de75",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e023f"
+        ],
+        "children": [
+          "765c0e01-780a-6bc7-c376-857f50f05d03",
+          "3203b479-0cdb-6215-ccd4-58014434aceb"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "765c0e01-780a-6bc7-c376-857f50f05d03",
+        "text": true,
+        "v": "These items allow the website to remember choices you make (such as your user name, language, or the region you are in) and provide enhanced, more personal features. "
+      },
+      {
+        "_id": "3203b479-0cdb-6215-ccd4-58014434aceb",
+        "type": "LineBreak",
+        "tag": "br",
+        "classes": [],
+        "children": [],
+        "data": {
+          "sym": {
+            "inst": "LineBreak"
+          }
+        }
+      },
+      {
+        "_id": "bd1ebbc0-460c-19c0-408f-ea943c338af2",
+        "type": "FormCheckboxWrapper",
+        "tag": "div",
+        "classes": [
+          "7516904d-3519-1fb0-e1e0-f6edc9b9c843"
+        ],
+        "children": [
+          "ac244876-ab18-1f96-273c-fe42c4c12be0",
+          "6db2d53c-3d73-53c6-44e5-37fea0ec5db1"
+        ],
+        "data": {
+          "form": {
+            "type": "checkbox"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          },
+          "style": {
+            "base": {
+              "main": {
+                "noPseudo": {
+                  "justifySelf": "end",
+                  "alignSelf": "start"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "_id": "ac244876-ab18-1f96-273c-fe42c4c12be0",
+        "type": "FormCheckboxInput",
+        "tag": "input",
+        "classes": [
+          "cee1d836-d477-1f16-ce85-823c46ccfc41"
+        ],
+        "children": [],
+        "data": {
+          "form": {
+            "type": "checkbox-input",
+            "name": "Checkbox 5"
+          },
+          "inputType": "custom",
+          "attr": {
+            "type": "checkbox",
+            "name": "checkbox-5",
+            "id": "checkbox-5",
+            "data-name": "Checkbox 5",
+            "required": false,
+            "checked": false
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "6db2d53c-3d73-53c6-44e5-37fea0ec5db1",
+        "type": "FormInlineLabel",
+        "tag": "label",
+        "classes": [
+          "175b8cc9-406e-182c-26e7-1ccf1be3cfd0"
+        ],
+        "children": [
+          "fef8fa00-c12a-b94d-1982-dc940dc15696"
+        ],
+        "data": {
+          "form": {
+            "type": "checkbox-label"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "fef8fa00-c12a-b94d-1982-dc940dc15696",
+        "text": true,
+        "v": "Checkbox 5"
+      },
+      {
+        "_id": "7f36c0ad-4e25-772b-9625-3ab7f836513f",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e023e"
+        ],
+        "children": [
+          "73b5b923-1d7e-0b57-1d87-2e482f2d2486",
+          "eebf0834-8d06-6365-dc97-407ef5544e5a"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [
+            {
+              "name": "fs-cc-checkbox",
+              "value": "analytics"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "73b5b923-1d7e-0b57-1d87-2e482f2d2486",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e023d"
+        ],
+        "children": [
+          "7c6e3044-cdda-d25d-8b79-4137add52a44",
+          "ffffd5e0-56f0-5b41-36d9-2f9b5dcf082f"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "7c6e3044-cdda-d25d-8b79-4137add52a44",
+        "type": "FormBlockLabel",
+        "tag": "label",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e0238"
+        ],
+        "children": [
+          "28a2a03a-4827-a982-a577-0d2c241e3627"
+        ],
+        "data": {
+          "attr": {
+            "for": "name",
+            "id": ""
+          },
+          "form": {
+            "type": "label",
+            "passwordPage": false
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "28a2a03a-4827-a982-a577-0d2c241e3627",
+        "text": true,
+        "v": "Analytics"
+      },
+      {
+        "_id": "ffffd5e0-56f0-5b41-36d9-2f9b5dcf082f",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e023f"
+        ],
+        "children": [
+          "d138a3f0-dc8b-c8b1-35c3-91e1e50be5f9",
+          "14ebfdb8-853d-e4c4-023d-62468835e51c"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "d138a3f0-dc8b-c8b1-35c3-91e1e50be5f9",
+        "text": true,
+        "v": "These items help the website operator understand how its website performs, how visitors interact with the site, and whether there may be technical issues. "
+      },
+      {
+        "_id": "14ebfdb8-853d-e4c4-023d-62468835e51c",
+        "type": "LineBreak",
+        "tag": "br",
+        "classes": [],
+        "children": [],
+        "data": {
+          "sym": {
+            "inst": "LineBreak"
+          }
+        }
+      },
+      {
+        "_id": "eebf0834-8d06-6365-dc97-407ef5544e5a",
+        "type": "FormCheckboxWrapper",
+        "tag": "div",
+        "classes": [
+          "7516904d-3519-1fb0-e1e0-f6edc9b9c843"
+        ],
+        "children": [
+          "cef9e41b-4ef1-1004-0301-7a5cdef54249",
+          "afac7ffb-6508-0c7c-3445-b8578bcab844"
+        ],
+        "data": {
+          "form": {
+            "type": "checkbox"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          },
+          "style": {
+            "base": {
+              "main": {
+                "noPseudo": {
+                  "justifySelf": "end",
+                  "alignSelf": "start"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "_id": "cef9e41b-4ef1-1004-0301-7a5cdef54249",
+        "type": "FormCheckboxInput",
+        "tag": "input",
+        "classes": [
+          "cee1d836-d477-1f16-ce85-823c46ccfc41"
+        ],
+        "children": [],
+        "data": {
+          "form": {
+            "type": "checkbox-input",
+            "name": "Checkbox 5"
+          },
+          "inputType": "custom",
+          "attr": {
+            "type": "checkbox",
+            "name": "checkbox-5",
+            "id": "checkbox-5",
+            "data-name": "Checkbox 5",
+            "required": false,
+            "checked": false
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "afac7ffb-6508-0c7c-3445-b8578bcab844",
+        "type": "FormInlineLabel",
+        "tag": "label",
+        "classes": [
+          "175b8cc9-406e-182c-26e7-1ccf1be3cfd0"
+        ],
+        "children": [
+          "6c446783-1889-24a4-dc3b-226b0e99aa97"
+        ],
+        "data": {
+          "form": {
+            "type": "checkbox-label"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "6c446783-1889-24a4-dc3b-226b0e99aa97",
+        "text": true,
+        "v": "Checkbox 5"
+      },
+      {
+        "_id": "ba4d9d3a-9cfa-b9dc-d724-1d80c04c0139",
+        "type": "FormButton",
+        "tag": "input",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e023a",
+          "acbc98ae-1325-a9a7-61d7-083ca19e0241"
+        ],
+        "children": [],
+        "data": {
+          "form": {
+            "type": "button"
+          },
+          "attr": {
+            "type": "submit",
+            "value": "Reject all cookies",
+            "data-wait": "Please wait...",
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [
+            {
+              "name": "fs-cc",
+              "value": "deny"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "67c217d4-97f8-bc9d-d451-403d2af479ea",
+        "type": "FormButton",
+        "tag": "input",
+        "classes": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e023a",
+          "acbc98ae-1325-a9a7-61d7-083ca19e023c"
+        ],
+        "children": [],
+        "data": {
+          "form": {
+            "type": "button"
+          },
+          "attr": {
+            "type": "submit",
+            "value": "Confirm my choices",
+            "data-wait": "Please wait...",
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [
+            {
+              "name": "fs-cc",
+              "value": "submit"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "3ae9d907-a422-b63f-d3ad-f95fd71911a2",
+        "type": "FormSuccessMessage",
+        "tag": "div",
+        "classes": [],
+        "children": [
+          "fe27f1a7-01a7-5d61-d1ce-63d3e51f63fc"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          },
+          "form": {
+            "type": "msg-done"
+          }
+        }
+      },
+      {
+        "_id": "fe27f1a7-01a7-5d61-d1ce-63d3e51f63fc",
+        "type": "Block",
+        "tag": "div",
+        "classes": [],
+        "children": [
+          "bbc1e6e5-185a-3d62-9fa5-40b073aca838"
+        ],
+        "data": {
+          "text": true,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "bbc1e6e5-185a-3d62-9fa5-40b073aca838",
+        "text": true,
+        "v": "Thank you! Your submission has been received!"
+      },
+      {
+        "_id": "fa3adcd8-3e48-5a06-4e66-bb4188e5e657",
+        "type": "FormErrorMessage",
+        "tag": "div",
+        "classes": [],
+        "children": [
+          "ea3adff7-b05a-e2a3-0f20-d8c9b2acc370"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          },
+          "form": {
+            "type": "msg-fail"
+          }
+        }
+      },
+      {
+        "_id": "ea3adff7-b05a-e2a3-0f20-d8c9b2acc370",
+        "type": "Block",
+        "tag": "div",
+        "classes": [],
+        "children": [
+          "82a05a6b-3367-3489-0d90-378b43868e0b"
+        ],
+        "data": {
+          "text": true,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "82a05a6b-3367-3489-0d90-378b43868e0b",
+        "text": true,
+        "v": "Oops! Something went wrong while submitting the form."
+      }
+    ],
+    "styles": [
+      {
+        "_id": "7516904d-3519-1fb0-e1e0-f6edc9b9c843",
+        "fake": false,
+        "type": "class",
+        "name": "cookie-checkbox",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "d383bafb-abc7-6345-84fb-5f96bb9dcca4",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-cookie-popup",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: fixed; right: 0px; bottom: 0px; display: flex; width: 100%; max-width: 640px; margin-top: 0px; margin-right: 2%; margin-bottom: 1%; margin-left: 2%; padding-top: 30px; padding-right: 15px; padding-bottom: 30px; padding-left: 15px; flex-direction: column; justify-content: center; flex-wrap: nowrap; align-items: center; border-top-style: solid; border-top-width: 1px; border-top-color: hsla(232.5, 26.67%, 88.24%, 1.00); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(232.5, 26.67%, 88.24%, 1.00); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(232.5, 26.67%, 88.24%, 1.00); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(232.5, 26.67%, 88.24%, 1.00); border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; box-shadow: @raw<|0px 14px 42px 0px rgba(8, 15, 52, 0.06)|>;",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e023c",
+        "fake": false,
+        "type": "class",
+        "name": "field-wrapper",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "",
+        "variants": {},
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e023e",
+        "fake": false,
+        "type": "class",
+        "name": "grid",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: grid; margin-top: 10px; margin-bottom: 0px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; grid-auto-columns: 1fr; grid-column-gap: 16px; grid-row-gap: 16px; grid-template-columns: 1fr 0.25fr; grid-template-rows: auto; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(0, 0.00%, 84.00%, 1.00);",
+        "variants": {},
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e023d",
+        "fake": false,
+        "type": "class",
+        "name": "text-div",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "",
+        "variants": {},
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "c9ab54d6-c317-f9e2-213c-cbbdacc0b632",
+        "fake": false,
+        "type": "class",
+        "name": "close-button",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: absolute; left: auto; top: 20px; right: 20px; bottom: auto; display: block; width: 30px; height: 30px; transition-property: all; transition-duration: 300ms; transition-timing-function: ease;",
+        "variants": {
+          "main_hover": {
+            "styleLess": "opacity: 0.5; transform: scale(1.1) rotate(180deg);"
+          },
+          "tiny": {
+            "styleLess": "top: 10px; right: 10px;"
+          }
+        },
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e0240",
+        "fake": false,
+        "type": "class",
+        "name": "bold",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "color: #27313d; font-size: 15px; font-weight: 700; text-align: right;",
+        "variants": {},
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e0238",
+        "fake": false,
+        "type": "class",
+        "name": "cookie-tag",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "margin-top: 0px; margin-bottom: 10px; font-family: PT Sans; color: #27313d; font-size: 20px; font-weight: 700;",
+        "variants": {
+          "tiny": {
+            "styleLess": "margin-bottom: 2px;"
+          }
+        },
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "175b8cc9-406e-182c-26e7-1ccf1be3cfd0",
+        "fake": false,
+        "type": "class",
+        "name": "Checkbox Label 2",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: none;",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "8839e077-7c82-3416-cf06-e5217502ea10",
+        "fake": false,
+        "type": "class",
+        "name": "privacy-title",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e023f",
+        "fake": false,
+        "type": "class",
+        "name": "paragraph 3",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "margin-bottom: 5px; font-family: PT Sans; font-size: 12px; line-height: 15px; font-weight: 400;",
+        "variants": {},
+        "children": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e0240"
+        ],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "5481c3c4-853b-bd32-ff08-3065e4cb74fd",
+        "fake": false,
+        "type": "class",
+        "name": "Paragraph",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "font-size: 14px; text-align: center;",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "c9ab54d6-c317-f9e2-213c-cbbdacc0b633",
+        "fake": false,
+        "type": "class",
+        "name": "Image",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "transition-property: all; transition-duration: 200ms; transition-timing-function: ease;",
+        "variants": {},
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e0241",
+        "fake": false,
+        "type": "class",
+        "name": "deny",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "padding-right: 15px; padding-left: 15px; float: left; background-color: #faf7f2; font-family: PT Sans; color: #27313d; text-align: center;",
+        "variants": {
+          "main_hover": {
+            "styleLess": "background-color: #27313d; color: #faf7f2;"
+          },
+          "tiny": {
+            "styleLess": "margin-right: 0px;"
+          }
+        },
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "7e8630c0-27be-060e-3294-b026582d08b9",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-preferences-manager-wrapper",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: fixed; left: 0px; top: 0px; right: 0px; bottom: 0px; display: flex; justify-content: center; align-items: center; background-color: hsla(212.72727272727275, 22.00%, 19.61%, 0.59);",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "1094cb8d-d496-c49d-3eee-70c5cad3239e",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-cookie-image",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 100px;",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e023b",
+        "fake": false,
+        "type": "class",
+        "name": "consents-form",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "margin-bottom: 0px;",
+        "variants": {},
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "6174b320-4452-1669-02a8-86daa55692b1",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-cookie-banner-title",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "font-size: 28px;",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "9ddd4d58-f8ee-50ea-fb7d-762391c35906",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-cookie-manage-btn",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; justify-content: center; align-items: center; background-color: hsla(208.00000000000003, 82.57%, 57.25%, 0.00); transition-property: opacity; transition-duration: 200ms; transition-timing-function: ease; color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); text-decoration: @raw<|underline|>; opacity: @raw<|0.7|>;",
+        "variants": {
+          "main_hover": {
+            "styleLess": "opacity: @raw<|1|>;"
+          }
+        },
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "cee1d836-d477-1f16-ce85-823c46ccfc41",
+        "fake": false,
+        "type": "class",
+        "name": "Checkbox 2",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 20px; height: 20px; margin-left: 0px; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px;",
+        "variants": {
+          "main_redirected-checked": {
+            "styleLess": "background-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00);"
+          },
+          "main_redirected-focus": {
+            "styleLess": "box-shadow: none;"
+          }
+        },
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e023a",
+        "fake": false,
+        "type": "class",
+        "name": "button",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "margin-top: 5px; margin-right: 20px; margin-bottom: 5px; border-top-style: solid; border-top-width: 2px; border-top-color: #27313d; border-right-style: solid; border-right-width: 2px; border-right-color: #27313d; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #27313d; border-left-style: solid; border-left-width: 2px; border-left-color: #27313d; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; background-color: hsla(212.72727272727275, 22.00%, 19.61%, 1.00); transition-property: all; transition-duration: 300ms; transition-timing-function: ease; font-family: PT Sans; font-weight: 400;",
+        "variants": {
+          "main_hover": {
+            "styleLess": "border-top-style: solid; border-top-width: 2px; border-top-color: #27313d; border-right-style: solid; border-right-width: 2px; border-right-color: #27313d; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #27313d; border-left-style: solid; border-left-width: 2px; border-left-color: #27313d; background-color: hsla(257, 0.00%, 100.00%, 1.00); color: #27313d;"
+          }
+        },
+        "children": [
+          "acbc98ae-1325-a9a7-61d7-083ca19e0241"
+        ],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "84bf8c39-4739-96b6-f0ed-aefd32af5cd1",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-preference-container",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: relative; max-width: 500px; min-width: 500px; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; background-color: hsla(0, 0.00%, 100.00%, 1.00);",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "1466269c-9cad-4044-39c2-48fa61d1bc84",
+        "fake": false,
+        "type": "class",
+        "name": "Paragraph 2",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "font-size: 14px;",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "97693ba5-4891-4dab-7210-fef1b81b947e",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-banner-btns",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; margin-top: 20px; grid-column-gap: 30px; grid-row-gap: 30px; align-self: @raw<|flex-start|>;",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "e5e4df2a-f6fd-65e9-7ede-eed63c3edb88",
+        "fake": false,
+        "type": "class",
+        "name": "Div Block",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "margin-bottom: 10px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-style: none; border-top-width: 1px; border-top-color: black; border-right-style: none; border-right-width: 1px; border-right-color: black; border-bottom-style: none; border-bottom-width: 1px; border-bottom-color: black; border-left-style: none; border-left-width: 1px; border-left-color: black; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px;",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "f2950567-e932-f094-a2be-9d6a998d672c",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-accept-btn",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "padding-top: 10px; padding-right: 20px; padding-bottom: 10px; padding-left: 20px; border-top-style: solid; border-top-width: 1px; border-top-color: hsla(0, 0.00%, 0.00%, 0.00); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(0, 0.00%, 0.00%, 0.00); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(0, 0.00%, 0.00%, 0.00); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(0, 0.00%, 0.00%, 0.00); border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; background-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); transition-property: background-color; transition-duration: 200ms; transition-timing-function: ease;",
+        "variants": {
+          "main_hover": {
+            "styleLess": "border-top-style: solid; border-top-width: 1px; border-top-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); background-color: hsla(224.51612903225808, 49.21%, 12.35%, 0.00); color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00);"
+          }
+        },
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "be16c84e-6e31-02c8-48f1-cfe80ae31e15",
+        "fake": false,
+        "type": "class",
+        "name": "flowppz-decline-btn",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "border-top-style: solid; border-top-width: 1px; border-top-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; background-color: hsla(208.00000000000003, 82.57%, 57.25%, 0.00); transition-property: background-color; transition-duration: 200ms; transition-timing-function: ease; color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00);",
+        "variants": {
+          "main_hover": {
+            "styleLess": "background-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); color: hsla(224.51612903225808, 0.00%, 100.00%, 1.00);"
+          }
+        },
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "a2aec3b7-e09d-ce1c-48fa-e0ac96dae8bf",
+        "fake": false,
+        "type": "class",
+        "name": "cookie-consent",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      }
+    ],
+    "assets": [
+      {
+        "cdnUrl": "https://uploads-ssl.webflow.com/6694b1674f63def71ac1f3bf/6697568932fe1fdccf2d6c7f_Component%201.png",
+        "siteId": "6694b1674f63def71ac1f3bf",
+        "width": 151,
+        "isHD": false,
+        "height": 140,
+        "fileName": "6697568932fe1fdccf2d6c7f_Component 1.png",
+        "createdOn": "2024-07-17T05:28:41.074Z",
+        "origFileName": "Component 1.png",
+        "fileHash": "94d52edd539c55e5ae4c06cd875d1730",
+        "translationLoading": false,
+        "variants": [],
+        "mimeType": "image/png",
+        "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/6694b1674f63def71ac1f3bf/6697568932fe1fdccf2d6c7f_Component%201.png",
+        "thumbUrl": "https://daks2k3a4ib2z.cloudfront.net/6694b1674f63def71ac1f3bf/6697568932fe1fdccf2d6c7f_Component%201-p-130x130q80.png",
+        "_id": "6697568932fe1fdccf2d6c7f",
+        "updatedOn": "2024-07-17T06:44:44.858Z",
+        "fileSize": 2938,
+        "localizedSettings": {}
+      },
+      {
+        "cdnUrl": "https://uploads-ssl.webflow.com/6694b1674f63def71ac1f3bf/669768f19fc048fc25f2b07c_240_F_437519066_OLrSfrnBk5hioGeje96IZ0ejr8Xrozw3.jpg",
+        "siteId": "6694b1674f63def71ac1f3bf",
+        "width": 240,
+        "isHD": false,
+        "height": 240,
+        "fileName": "669768f19fc048fc25f2b07c_240_F_437519066_OLrSfrnBk5hioGeje96IZ0ejr8Xrozw3.jpg",
+        "createdOn": "2024-07-17T06:47:13.919Z",
+        "origFileName": "240_F_437519066_OLrSfrnBk5hioGeje96IZ0ejr8Xrozw3.jpg",
+        "fileHash": "3cef72d5a5f6e8b38274f4a20928c0ed",
+        "translationLoading": false,
+        "variants": [],
+        "mimeType": "image/jpeg",
+        "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/6694b1674f63def71ac1f3bf/669768f19fc048fc25f2b07c_240_F_437519066_OLrSfrnBk5hioGeje96IZ0ejr8Xrozw3.jpg",
+        "thumbUrl": "https://daks2k3a4ib2z.cloudfront.net/6694b1674f63def71ac1f3bf/669768f19fc048fc25f2b07c_240_F_437519066_OLrSfrnBk5hioGeje96IZ0ejr8Xrozw3-p-130x130q80.jpg",
+        "_id": "669768f19fc048fc25f2b07c",
+        "updatedOn": "2024-07-28T09:13:37.859Z",
+        "fileSize": 13113,
+        "localizedSettings": {}
+      }
+    ],
+    "ix1": [],
+    "ix2": {
+      "interactions": [],
+      "events": [],
+      "actionLists": []
+    }
+  },
+  "meta": {
+    "droppedLinks": 0,
+    "dynBindRemovedCount": 0,
+    "dynListBindRemovedCount": 0,
+    "paginationRemovedCount": 0,
+    "universalBindingsRemovedCount": 0,
+    "unlinkedSymbolCount": 0
+  }
+}
