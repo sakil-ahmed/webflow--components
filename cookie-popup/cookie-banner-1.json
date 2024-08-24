@@ -3,15 +3,15 @@
   "payload": {
     "nodes": [
       {
-        "_id": "3aa3dcf5-a21b-291e-81ff-657e728c6cc9",
+        "_id": "28e9ad38-19ff-366b-b5cf-fc502e20c340",
         "type": "Block",
         "tag": "div",
         "classes": [
-          "a2aec3b7-e09d-ce1c-48fa-e0ac96dae8bf"
+          "35e9b72c-85a3-4e23-5016-e00a26600c9d"
         ],
         "children": [
-          "a606a720-6949-048e-755b-f81ee2b948a9",
-          "dde92a35-0e61-d3da-08a6-597b40db0067"
+          "e0ab701d-239a-28bb-ea8e-ebb4270d7064",
+          "d7606acf-4443-f067-0827-78026791f574"
         ],
         "data": {
           "text": false,
@@ -34,17 +34,17 @@
         }
       },
       {
-        "_id": "a606a720-6949-048e-755b-f81ee2b948a9",
+        "_id": "e0ab701d-239a-28bb-ea8e-ebb4270d7064",
         "type": "Block",
         "tag": "div",
         "classes": [
-          "d383bafb-abc7-6345-84fb-5f96bb9dcca4"
+          "35e9b72c-85a3-4e23-5016-e00a26600c85"
         ],
         "children": [
-          "d24f74e0-a2ff-7832-3868-7e3f448a5a2b",
-          "09419767-9932-429f-7712-aa03a1ca2222",
-          "c80f0474-c501-bfd8-1224-e2c64067364f",
-          "e9252902-29a9-0957-1098-b5d0380359e8"
+          "d5f1f336-7be1-0816-c599-1d33a5cf6029",
+          "5a9029a5-7259-f39b-ee00-914a81226b72",
+          "984f15e8-cd01-2e07-43c7-956dbc919255",
+          "19713fc4-6914-908e-52db-9a18a9d33e30"
         ],
         "data": {
           "text": false,
@@ -57,7 +57,12 @@
           "attr": {
             "id": ""
           },
-          "xattr": [],
+          "xattr": [
+            {
+              "name": "flowappz-cookie-popup",
+              "value": "true"
+            }
+          ],
           "search": {
             "exclude": false
           },
@@ -67,12 +72,12 @@
         }
       },
       {
-        "_id": "d24f74e0-a2ff-7832-3868-7e3f448a5a2b",
+        "_id": "d5f1f336-7be1-0816-c599-1d33a5cf6029",
         "type": "Block",
         "tag": "div",
         "classes": [],
         "children": [
-          "ccf4115c-7677-d4f2-58f7-d1e00d38ef0b"
+          "101b0bcb-95ca-76e3-c2f6-2c3b6b648d63"
         ],
         "data": {
           "text": false,
@@ -95,23 +100,23 @@
         }
       },
       {
-        "_id": "ccf4115c-7677-d4f2-58f7-d1e00d38ef0b",
+        "_id": "101b0bcb-95ca-76e3-c2f6-2c3b6b648d63",
         "type": "Image",
         "tag": "img",
         "classes": [
-          "1094cb8d-d496-c49d-3eee-70c5cad3239e"
+          "35e9b72c-85a3-4e23-5016-e00a26600c91"
         ],
         "children": [],
         "data": {
           "img": {
-            "id": "6697568932fe1fdccf2d6c7f"
+            "id": "66c2142d5673bb6baea5b2fa"
           },
           "srcsetDisabled": false,
           "attr": {
             "width": "auto",
             "height": "auto",
             "alt": "cookie image",
-            "src": "https://uploads-ssl.webflow.com/6694b1674f63def71ac1f3bf/6697568932fe1fdccf2d6c7f_Component%201.png",
+            "src": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66c2142d5673bb6baea5b2fa_Component%201.png",
             "loading": "lazy",
             "id": ""
           },
@@ -136,14 +141,14 @@
         }
       },
       {
-        "_id": "09419767-9932-429f-7712-aa03a1ca2222",
+        "_id": "5a9029a5-7259-f39b-ee00-914a81226b72",
         "type": "Heading",
         "tag": "h2",
         "classes": [
-          "6174b320-4452-1669-02a8-86daa55692b1"
+          "35e9b72c-85a3-4e23-5016-e00a26600c93"
         ],
         "children": [
-          "62ddf68b-5544-e9e5-809d-e8e647f174d8"
+          "ad012065-3709-26ef-92f9-be6b4c3f31ca"
         ],
         "data": {
           "tag": "h2",
@@ -165,19 +170,19 @@
         }
       },
       {
-        "_id": "62ddf68b-5544-e9e5-809d-e8e647f174d8",
+        "_id": "ad012065-3709-26ef-92f9-be6b4c3f31ca",
         "text": true,
         "v": "Our website use Cookies"
       },
       {
-        "_id": "c80f0474-c501-bfd8-1224-e2c64067364f",
+        "_id": "984f15e8-cd01-2e07-43c7-956dbc919255",
         "type": "Paragraph",
         "tag": "p",
         "classes": [
-          "5481c3c4-853b-bd32-ff08-3065e4cb74fd"
+          "35e9b72c-85a3-4e23-5016-e00a26600c8e"
         ],
         "children": [
-          "e75f4b32-b005-ab83-3198-1df894875317"
+          "2cb3b955-0a96-48af-d1f8-204a937674bc"
         ],
         "data": {
           "devlink": {
@@ -198,21 +203,21 @@
         }
       },
       {
-        "_id": "e75f4b32-b005-ab83-3198-1df894875317",
+        "_id": "2cb3b955-0a96-48af-d1f8-204a937674bc",
         "text": true,
         "v": "We use cookies and similar technologies to help personalise content, tailor and measure ads, and provide a better experience. By clicking OK or turning an option on in Cookie Preferences, you agree to this, as outlined in our Cookie Policy."
       },
       {
-        "_id": "e9252902-29a9-0957-1098-b5d0380359e8",
+        "_id": "19713fc4-6914-908e-52db-9a18a9d33e30",
         "type": "Block",
         "tag": "div",
         "classes": [
-          "97693ba5-4891-4dab-7210-fef1b81b947e"
+          "35e9b72c-85a3-4e23-5016-e00a26600c99"
         ],
         "children": [
-          "4d1d56e3-9271-d3f8-9540-0a121cf08bfb",
-          "06836bd8-4432-fcbe-dfab-d4b041c089a8",
-          "8bb6720f-c262-89c6-ac10-0b97691c44c2"
+          "ae3dc8a9-9591-5a56-b9cc-7006bcbd2e8f",
+          "6198d397-ee96-fd4b-6a78-793491fb354f",
+          "36bcef5b-fdd9-8b56-95fc-5c698510d597"
         ],
         "data": {
           "text": false,
@@ -235,14 +240,14 @@
         }
       },
       {
-        "_id": "4d1d56e3-9271-d3f8-9540-0a121cf08bfb",
+        "_id": "ae3dc8a9-9591-5a56-b9cc-7006bcbd2e8f",
         "type": "Link",
         "tag": "a",
         "classes": [
-          "f2950567-e932-f094-a2be-9d6a998d672c"
+          "35e9b72c-85a3-4e23-5016-e00a26600c9b"
         ],
         "children": [
-          "22127df0-2323-7c31-2580-f8a454e22e50"
+          "243323c8-60c7-090d-f6f1-481741065b9f"
         ],
         "data": {
           "button": true,
@@ -259,7 +264,12 @@
             "slot": ""
           },
           "displayName": "",
-          "xattr": [],
+          "xattr": [
+            {
+              "name": "flowappz-cookie-command",
+              "value": "accept-all"
+            }
+          ],
           "search": {
             "exclude": true
           },
@@ -269,19 +279,19 @@
         }
       },
       {
-        "_id": "22127df0-2323-7c31-2580-f8a454e22e50",
+        "_id": "243323c8-60c7-090d-f6f1-481741065b9f",
         "text": true,
         "v": "Accept all"
       },
       {
-        "_id": "06836bd8-4432-fcbe-dfab-d4b041c089a8",
+        "_id": "6198d397-ee96-fd4b-6a78-793491fb354f",
         "type": "Link",
         "tag": "a",
         "classes": [
-          "be16c84e-6e31-02c8-48f1-cfe80ae31e15"
+          "35e9b72c-85a3-4e23-5016-e00a26600c9c"
         ],
         "children": [
-          "3f296e19-45b9-96ee-d310-3c045e1e01a0"
+          "54694400-7317-246f-0699-a7f9777df741"
         ],
         "data": {
           "button": true,
@@ -298,7 +308,12 @@
             "slot": ""
           },
           "displayName": "",
-          "xattr": [],
+          "xattr": [
+            {
+              "name": "flowappz-cookie-command",
+              "value": "reject-all"
+            }
+          ],
           "search": {
             "exclude": true
           },
@@ -308,19 +323,19 @@
         }
       },
       {
-        "_id": "3f296e19-45b9-96ee-d310-3c045e1e01a0",
+        "_id": "54694400-7317-246f-0699-a7f9777df741",
         "text": true,
         "v": "Decilne"
       },
       {
-        "_id": "8bb6720f-c262-89c6-ac10-0b97691c44c2",
+        "_id": "36bcef5b-fdd9-8b56-95fc-5c698510d597",
         "type": "Link",
         "tag": "a",
         "classes": [
-          "9ddd4d58-f8ee-50ea-fb7d-762391c35906"
+          "35e9b72c-85a3-4e23-5016-e00a26600c94"
         ],
         "children": [
-          "cda0096a-0bb8-d892-6c0b-dafed5f1d843"
+          "dc403ae7-c594-7a21-dfeb-40d6d2c2abfa"
         ],
         "data": {
           "button": true,
@@ -337,7 +352,12 @@
             "slot": ""
           },
           "displayName": "",
-          "xattr": [],
+          "xattr": [
+            {
+              "name": "flowappz-cookie-command",
+              "value": "manage-settings"
+            }
+          ],
           "search": {
             "exclude": true
           },
@@ -347,19 +367,57 @@
         }
       },
       {
-        "_id": "cda0096a-0bb8-d892-6c0b-dafed5f1d843",
+        "_id": "dc403ae7-c594-7a21-dfeb-40d6d2c2abfa",
         "text": true,
         "v": "Manage Settings"
       },
       {
-        "_id": "dde92a35-0e61-d3da-08a6-597b40db0067",
+        "_id": "d7606acf-4443-f067-0827-78026791f574",
         "type": "Block",
         "tag": "div",
         "classes": [
-          "7e8630c0-27be-060e-3294-b026582d08b9"
+          "35e9b72c-85a3-4e23-5016-e00a26600c90"
         ],
         "children": [
-          "77e0989f-0731-2b2d-85f5-365e148a5258"
+          "c5110f5b-5be8-e38e-6d30-ad58eb0af0a8"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [
+            {
+              "name": "flowappz-cookie-settings-wrapper",
+              "value": "true"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "c5110f5b-5be8-e38e-6d30-ad58eb0af0a8",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "35e9b72c-85a3-4e23-5016-e00a26600c97"
+        ],
+        "children": [
+          "be5289ce-e3f6-856f-5cfd-70131b234cbd",
+          "d7582a62-14e6-4743-1dde-2189d4cb57e3",
+          "df21cc27-dbfe-0240-2349-2446611ad7fe",
+          "a422d28a-5c36-c96a-4cea-bdd37e5e6527"
         ],
         "data": {
           "text": false,
@@ -382,47 +440,14 @@
         }
       },
       {
-        "_id": "77e0989f-0731-2b2d-85f5-365e148a5258",
-        "type": "Block",
-        "tag": "div",
-        "classes": [
-          "84bf8c39-4739-96b6-f0ed-aefd32af5cd1"
-        ],
-        "children": [
-          "5e91f62f-0094-c4f6-7923-cdaa36e16dc9",
-          "071e56f8-ae96-9bf6-ac4c-c975c6066d17",
-          "704d342b-4c0f-d1e6-73d8-38c1010b27fc",
-          "f5d376b0-9dc3-3227-d692-8c52f99ee7c5"
-        ],
-        "data": {
-          "text": false,
-          "tag": "div",
-          "devlink": {
-            "runtimeProps": {},
-            "slot": ""
-          },
-          "displayName": "",
-          "attr": {
-            "id": ""
-          },
-          "xattr": [],
-          "search": {
-            "exclude": false
-          },
-          "visibility": {
-            "conditions": []
-          }
-        }
-      },
-      {
-        "_id": "5e91f62f-0094-c4f6-7923-cdaa36e16dc9",
+        "_id": "be5289ce-e3f6-856f-5cfd-70131b234cbd",
         "type": "Link",
         "tag": "a",
         "classes": [
-          "c9ab54d6-c317-f9e2-213c-cbbdacc0b632"
+          "35e9b72c-85a3-4e23-5016-e00a26600c89"
         ],
         "children": [
-          "25ab97f3-f982-8202-e4fa-924d77190bf9"
+          "e6511da4-fc19-bca4-c51f-e81ef3d1526a"
         ],
         "data": {
           "button": false,
@@ -441,8 +466,8 @@
           "displayName": "",
           "xattr": [
             {
-              "name": "fs-cc",
-              "value": "close"
+              "name": "flowappz-cookie-command",
+              "value": "close-settings"
             }
           ],
           "search": {
@@ -454,11 +479,11 @@
         }
       },
       {
-        "_id": "25ab97f3-f982-8202-e4fa-924d77190bf9",
+        "_id": "e6511da4-fc19-bca4-c51f-e81ef3d1526a",
         "type": "Image",
         "tag": "img",
         "classes": [
-          "c9ab54d6-c317-f9e2-213c-cbbdacc0b633"
+          "35e9b72c-85a3-4e23-5016-e00a26600c8f"
         ],
         "children": [],
         "data": {
@@ -495,14 +520,14 @@
         }
       },
       {
-        "_id": "071e56f8-ae96-9bf6-ac4c-c975c6066d17",
+        "_id": "d7582a62-14e6-4743-1dde-2189d4cb57e3",
         "type": "Heading",
         "tag": "h3",
         "classes": [
-          "8839e077-7c82-3416-cf06-e5217502ea10"
+          "35e9b72c-85a3-4e23-5016-e00a26600c8c"
         ],
         "children": [
-          "b09724ab-ee35-07c8-9239-8ef2879b1922"
+          "074138ac-aae3-c82a-438e-6910e7d35ade"
         ],
         "data": {
           "tag": "h3",
@@ -524,19 +549,19 @@
         }
       },
       {
-        "_id": "b09724ab-ee35-07c8-9239-8ef2879b1922",
+        "_id": "074138ac-aae3-c82a-438e-6910e7d35ade",
         "text": true,
         "v": "Manage Cookies"
       },
       {
-        "_id": "704d342b-4c0f-d1e6-73d8-38c1010b27fc",
+        "_id": "df21cc27-dbfe-0240-2349-2446611ad7fe",
         "type": "Paragraph",
         "tag": "p",
         "classes": [
-          "1466269c-9cad-4044-39c2-48fa61d1bc84"
+          "35e9b72c-85a3-4e23-5016-e00a26600c98"
         ],
         "children": [
-          "41ff84ad-0bd9-53f4-0b67-32bd062c6e75"
+          "4c4edcc4-5511-6728-f8fc-70f19a722e88"
         ],
         "data": {
           "devlink": {
@@ -557,21 +582,21 @@
         }
       },
       {
-        "_id": "41ff84ad-0bd9-53f4-0b67-32bd062c6e75",
+        "_id": "4c4edcc4-5511-6728-f8fc-70f19a722e88",
         "text": true,
         "v": "Cookies are small text that can be used by websites to make the user experience  more efficient. The law states that we may store cookies on your device if they are strictly necessaryfor the operation of this site. For all other types of cookies, we need your  permission. This site uses various types of cookies. Some cookies are placed by third party  services that appear on our pages. "
       },
       {
-        "_id": "f5d376b0-9dc3-3227-d692-8c52f99ee7c5",
+        "_id": "a422d28a-5c36-c96a-4cea-bdd37e5e6527",
         "type": "FormWrapper",
         "tag": "div",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e023b"
+          "35e9b72c-85a3-4e23-5016-e00a26600c92"
         ],
         "children": [
-          "c87a7b62-4ca6-a5b7-df33-6330a44358fb",
-          "3ae9d907-a422-b63f-d3ad-f95fd71911a2",
-          "fa3adcd8-3e48-5a06-4e66-bb4188e5e657"
+          "f07ddb7d-de84-5808-305f-1d519113425d",
+          "70a22950-cf9e-dfb1-d7d2-d6c97f869ed2",
+          "a9495f33-0971-2f01-f837-4f3dfa94f051"
         ],
         "data": {
           "search": {
@@ -595,14 +620,14 @@
         }
       },
       {
-        "_id": "c87a7b62-4ca6-a5b7-df33-6330a44358fb",
+        "_id": "f07ddb7d-de84-5808-305f-1d519113425d",
         "type": "FormForm",
         "tag": "form",
         "classes": [],
         "children": [
-          "415fbfbe-86b7-cc67-41a4-25bff31cf3ad",
-          "ba4d9d3a-9cfa-b9dc-d724-1d80c04c0139",
-          "67c217d4-97f8-bc9d-d451-403d2af479ea"
+          "09a88383-702d-f122-9919-a52cf680c6b0",
+          "d0159900-cc03-00b8-4111-f76a801df36a",
+          "969d76e8-a427-3aef-3f17-e1d3e840191e"
         ],
         "data": {
           "Source": {
@@ -638,17 +663,17 @@
         }
       },
       {
-        "_id": "415fbfbe-86b7-cc67-41a4-25bff31cf3ad",
+        "_id": "09a88383-702d-f122-9919-a52cf680c6b0",
         "type": "Block",
         "tag": "div",
         "classes": [
-          "e5e4df2a-f6fd-65e9-7ede-eed63c3edb88"
+          "35e9b72c-85a3-4e23-5016-e00a26600c9a"
         ],
         "children": [
-          "11c6725f-0699-b74e-8922-07b7526d8e5b",
-          "403167f1-91cf-43a2-d1a1-49995fecdaab",
-          "de85a07d-d5dd-9146-8dcc-a6137c410257",
-          "7f36c0ad-4e25-772b-9625-3ab7f836513f"
+          "d76c05a0-48ba-6011-67f1-29f6b5133603",
+          "a8edee27-7dee-1395-2a26-3a90890aa6c6",
+          "8210245c-1108-79e9-719b-769fa85e0420",
+          "5b8a9c12-6ac3-8498-0115-ba6a8dc23107"
         ],
         "data": {
           "text": false,
@@ -671,15 +696,15 @@
         }
       },
       {
-        "_id": "11c6725f-0699-b74e-8922-07b7526d8e5b",
+        "_id": "d76c05a0-48ba-6011-67f1-29f6b5133603",
         "type": "Block",
         "tag": "div",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e023e"
+          "35e9b72c-85a3-4e23-5016-e00a26600c87"
         ],
         "children": [
-          "87e64fc5-f132-8f3d-230c-210ed481dfda",
-          "0474c666-7d2b-32ef-aadb-b66396ea9209"
+          "730d4211-e926-d1a8-8e28-c146f9832ef2",
+          "3148db75-5757-88de-fa89-6873c4da3494"
         ],
         "data": {
           "text": false,
@@ -702,15 +727,15 @@
         }
       },
       {
-        "_id": "87e64fc5-f132-8f3d-230c-210ed481dfda",
+        "_id": "730d4211-e926-d1a8-8e28-c146f9832ef2",
         "type": "Block",
         "tag": "div",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e023d"
+          "35e9b72c-85a3-4e23-5016-e00a26600c88"
         ],
         "children": [
-          "356bf398-be30-1bc1-a5b5-e292e4e6e3a3",
-          "4538f11b-31e1-a39c-ac36-70df2ad84a9d"
+          "d0f63efc-57bd-c6e9-9dad-e13ea2471258",
+          "1a37b0fc-863a-abb2-04d3-1ac7ec1e5844"
         ],
         "data": {
           "text": false,
@@ -733,14 +758,14 @@
         }
       },
       {
-        "_id": "356bf398-be30-1bc1-a5b5-e292e4e6e3a3",
+        "_id": "d0f63efc-57bd-c6e9-9dad-e13ea2471258",
         "type": "FormBlockLabel",
         "tag": "label",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e0238"
+          "35e9b72c-85a3-4e23-5016-e00a26600c8a"
         ],
         "children": [
-          "f108a470-f5dd-f105-0fcf-a3a1b806a1fe"
+          "6553d8f7-4d52-b1c4-4f9b-6ef3724e2809"
         ],
         "data": {
           "attr": {
@@ -766,20 +791,20 @@
         }
       },
       {
-        "_id": "f108a470-f5dd-f105-0fcf-a3a1b806a1fe",
+        "_id": "6553d8f7-4d52-b1c4-4f9b-6ef3724e2809",
         "text": true,
         "v": "Necessary"
       },
       {
-        "_id": "4538f11b-31e1-a39c-ac36-70df2ad84a9d",
+        "_id": "1a37b0fc-863a-abb2-04d3-1ac7ec1e5844",
         "type": "Paragraph",
         "tag": "p",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e023f"
+          "35e9b72c-85a3-4e23-5016-e00a26600c8d"
         ],
         "children": [
-          "1cfabeb8-ad07-a4de-6d5a-8f1edf7aa61b",
-          "f8c4a62f-044f-ca8f-492f-76ad84c6c963"
+          "1a07d421-99f1-a9d0-3913-759bbdbd3eeb",
+          "b85cac8c-d7fd-bddc-d5ec-0f03ba622391"
         ],
         "data": {
           "devlink": {
@@ -800,12 +825,12 @@
         }
       },
       {
-        "_id": "1cfabeb8-ad07-a4de-6d5a-8f1edf7aa61b",
+        "_id": "1a07d421-99f1-a9d0-3913-759bbdbd3eeb",
         "text": true,
         "v": "These items are required to enable basic website functionality."
       },
       {
-        "_id": "f8c4a62f-044f-ca8f-492f-76ad84c6c963",
+        "_id": "b85cac8c-d7fd-bddc-d5ec-0f03ba622391",
         "type": "LineBreak",
         "tag": "br",
         "classes": [],
@@ -817,16 +842,16 @@
         }
       },
       {
-        "_id": "0474c666-7d2b-32ef-aadb-b66396ea9209",
+        "_id": "3148db75-5757-88de-fa89-6873c4da3494",
         "type": "Paragraph",
         "tag": "p",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e023f",
-          "acbc98ae-1325-a9a7-61d7-083ca19e0240"
+          "35e9b72c-85a3-4e23-5016-e00a26600c8d",
+          "35e9b72c-85a3-4e23-5016-e00a26600c9e"
         ],
         "children": [
-          "6683d5e0-49f6-cc03-db3f-4e4d0ed0539d",
-          "4f71042a-e11c-72f0-f9c3-dafe9ed11ef3"
+          "cf5641d4-10d8-6a62-0400-9901419109e4",
+          "1c816ca0-1a74-30b6-c860-5092aa13c913"
         ],
         "data": {
           "devlink": {
@@ -857,12 +882,12 @@
         }
       },
       {
-        "_id": "6683d5e0-49f6-cc03-db3f-4e4d0ed0539d",
+        "_id": "cf5641d4-10d8-6a62-0400-9901419109e4",
         "text": true,
         "v": "Always active"
       },
       {
-        "_id": "4f71042a-e11c-72f0-f9c3-dafe9ed11ef3",
+        "_id": "1c816ca0-1a74-30b6-c860-5092aa13c913",
         "type": "LineBreak",
         "tag": "br",
         "classes": [],
@@ -874,15 +899,15 @@
         }
       },
       {
-        "_id": "403167f1-91cf-43a2-d1a1-49995fecdaab",
+        "_id": "a8edee27-7dee-1395-2a26-3a90890aa6c6",
         "type": "Block",
         "tag": "div",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e023e"
+          "35e9b72c-85a3-4e23-5016-e00a26600c87"
         ],
         "children": [
-          "29230bda-5f1b-d9d0-aee8-fd655784b924",
-          "3a685fca-5cb9-b2a5-85af-97685c75e365"
+          "720bb31d-e315-0879-ad81-3cd4068cc54f",
+          "8a275f7a-44b8-a881-c237-ff79a4bb97da"
         ],
         "data": {
           "text": false,
@@ -905,15 +930,15 @@
         }
       },
       {
-        "_id": "29230bda-5f1b-d9d0-aee8-fd655784b924",
+        "_id": "720bb31d-e315-0879-ad81-3cd4068cc54f",
         "type": "Block",
         "tag": "div",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e023d"
+          "35e9b72c-85a3-4e23-5016-e00a26600c88"
         ],
         "children": [
-          "9676d383-cbf7-53f1-5037-42e2b9546631",
-          "ff449a4a-9507-e218-f20f-db3004909b5d"
+          "0eb14be4-ea91-db6e-7288-8088b3fda701",
+          "5acf5abc-03dc-dff0-872c-a649191b95b8"
         ],
         "data": {
           "text": false,
@@ -936,14 +961,14 @@
         }
       },
       {
-        "_id": "9676d383-cbf7-53f1-5037-42e2b9546631",
+        "_id": "0eb14be4-ea91-db6e-7288-8088b3fda701",
         "type": "FormBlockLabel",
         "tag": "label",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e0238"
+          "35e9b72c-85a3-4e23-5016-e00a26600c8a"
         ],
         "children": [
-          "cda37d1a-7717-8f60-7951-39275b6f43da"
+          "94b82939-3e8a-0a4a-79eb-4a74dd64a1ab"
         ],
         "data": {
           "attr": {
@@ -969,20 +994,20 @@
         }
       },
       {
-        "_id": "cda37d1a-7717-8f60-7951-39275b6f43da",
+        "_id": "94b82939-3e8a-0a4a-79eb-4a74dd64a1ab",
         "text": true,
         "v": "Marketing"
       },
       {
-        "_id": "ff449a4a-9507-e218-f20f-db3004909b5d",
+        "_id": "5acf5abc-03dc-dff0-872c-a649191b95b8",
         "type": "Paragraph",
         "tag": "p",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e023f"
+          "35e9b72c-85a3-4e23-5016-e00a26600c8d"
         ],
         "children": [
-          "b5d6ffb6-6587-0452-dcab-4178aba47acf",
-          "4dd4a246-c3bc-f657-a2b5-6d00facee9ce"
+          "245ffb77-a3ab-4041-83a4-0a3bcc45e61e",
+          "8ec9e9e8-1b84-bd8e-836a-dfd13bac06da"
         ],
         "data": {
           "devlink": {
@@ -1003,12 +1028,12 @@
         }
       },
       {
-        "_id": "b5d6ffb6-6587-0452-dcab-4178aba47acf",
+        "_id": "245ffb77-a3ab-4041-83a4-0a3bcc45e61e",
         "text": true,
         "v": "These items are used to deliver advertising that is more relevant to you and your interests. "
       },
       {
-        "_id": "4dd4a246-c3bc-f657-a2b5-6d00facee9ce",
+        "_id": "8ec9e9e8-1b84-bd8e-836a-dfd13bac06da",
         "type": "LineBreak",
         "tag": "br",
         "classes": [],
@@ -1020,15 +1045,15 @@
         }
       },
       {
-        "_id": "3a685fca-5cb9-b2a5-85af-97685c75e365",
+        "_id": "8a275f7a-44b8-a881-c237-ff79a4bb97da",
         "type": "FormCheckboxWrapper",
         "tag": "div",
         "classes": [
-          "7516904d-3519-1fb0-e1e0-f6edc9b9c843"
+          "35e9b72c-85a3-4e23-5016-e00a26600c84"
         ],
         "children": [
-          "849f9690-2675-26cc-c3dd-62952badf23b",
-          "4628cd0a-b51e-4b99-a6b7-c2117f440b3b"
+          "3e1c4d20-3ee1-19bd-44ff-9e06699fbdf2",
+          "a56ad444-65c0-167a-7b6f-3813281d9161"
         ],
         "data": {
           "form": {
@@ -1062,24 +1087,24 @@
         }
       },
       {
-        "_id": "849f9690-2675-26cc-c3dd-62952badf23b",
+        "_id": "3e1c4d20-3ee1-19bd-44ff-9e06699fbdf2",
         "type": "FormCheckboxInput",
         "tag": "input",
         "classes": [
-          "cee1d836-d477-1f16-ce85-823c46ccfc41"
+          "35e9b72c-85a3-4e23-5016-e00a26600c95"
         ],
         "children": [],
         "data": {
           "form": {
             "type": "checkbox-input",
-            "name": "Checkbox 5"
+            "name": "cookie-marketing"
           },
           "inputType": "custom",
           "attr": {
             "type": "checkbox",
-            "name": "checkbox-5",
-            "id": "checkbox-5",
-            "data-name": "Checkbox 5",
+            "name": "cookie-marketing",
+            "id": "cookie-marketing",
+            "data-name": "cookie-marketing",
             "required": false,
             "checked": false
           },
@@ -1088,7 +1113,12 @@
             "slot": ""
           },
           "displayName": "",
-          "xattr": [],
+          "xattr": [
+            {
+              "name": "flowappz-cookie-choice",
+              "value": "marketing"
+            }
+          ],
           "search": {
             "exclude": false
           },
@@ -1098,14 +1128,14 @@
         }
       },
       {
-        "_id": "4628cd0a-b51e-4b99-a6b7-c2117f440b3b",
+        "_id": "a56ad444-65c0-167a-7b6f-3813281d9161",
         "type": "FormInlineLabel",
         "tag": "label",
         "classes": [
-          "175b8cc9-406e-182c-26e7-1ccf1be3cfd0"
+          "35e9b72c-85a3-4e23-5016-e00a26600c8b"
         ],
         "children": [
-          "3a57aa33-f9bd-d3d2-f5fd-c2026cda4e1e"
+          "6681dfd2-32d2-41ef-9173-8d546f1aebfe"
         ],
         "data": {
           "form": {
@@ -1129,20 +1159,20 @@
         }
       },
       {
-        "_id": "3a57aa33-f9bd-d3d2-f5fd-c2026cda4e1e",
+        "_id": "6681dfd2-32d2-41ef-9173-8d546f1aebfe",
         "text": true,
         "v": "Checkbox 5"
       },
       {
-        "_id": "de85a07d-d5dd-9146-8dcc-a6137c410257",
+        "_id": "8210245c-1108-79e9-719b-769fa85e0420",
         "type": "Block",
         "tag": "div",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e023e"
+          "35e9b72c-85a3-4e23-5016-e00a26600c87"
         ],
         "children": [
-          "fc45b4ab-0ea1-60c4-4fa3-d061e9262335",
-          "bd1ebbc0-460c-19c0-408f-ea943c338af2"
+          "d21483a3-77f2-92c7-1226-18ac08304b1d",
+          "894290a6-2104-a719-00a6-bc7876666256"
         ],
         "data": {
           "text": false,
@@ -1165,15 +1195,15 @@
         }
       },
       {
-        "_id": "fc45b4ab-0ea1-60c4-4fa3-d061e9262335",
+        "_id": "d21483a3-77f2-92c7-1226-18ac08304b1d",
         "type": "Block",
         "tag": "div",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e023d"
+          "35e9b72c-85a3-4e23-5016-e00a26600c88"
         ],
         "children": [
-          "e9a25ad5-cf34-3158-1f90-6ea440976a47",
-          "c9d27ee1-e4cd-fa0e-ace5-16891535de75"
+          "93a30ba0-ddc5-4f9c-c8e0-efa8215aad6c",
+          "09342735-edb0-2a3b-6d42-a3833e9d804c"
         ],
         "data": {
           "text": false,
@@ -1196,14 +1226,14 @@
         }
       },
       {
-        "_id": "e9a25ad5-cf34-3158-1f90-6ea440976a47",
+        "_id": "93a30ba0-ddc5-4f9c-c8e0-efa8215aad6c",
         "type": "FormBlockLabel",
         "tag": "label",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e0238"
+          "35e9b72c-85a3-4e23-5016-e00a26600c8a"
         ],
         "children": [
-          "fb9a08e6-8f07-b219-befe-ce56483f62dc"
+          "27cf65c3-ba11-838f-e464-7d6c0066a236"
         ],
         "data": {
           "attr": {
@@ -1229,20 +1259,20 @@
         }
       },
       {
-        "_id": "fb9a08e6-8f07-b219-befe-ce56483f62dc",
+        "_id": "27cf65c3-ba11-838f-e464-7d6c0066a236",
         "text": true,
         "v": "Personalization"
       },
       {
-        "_id": "c9d27ee1-e4cd-fa0e-ace5-16891535de75",
+        "_id": "09342735-edb0-2a3b-6d42-a3833e9d804c",
         "type": "Paragraph",
         "tag": "p",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e023f"
+          "35e9b72c-85a3-4e23-5016-e00a26600c8d"
         ],
         "children": [
-          "765c0e01-780a-6bc7-c376-857f50f05d03",
-          "3203b479-0cdb-6215-ccd4-58014434aceb"
+          "4059000a-f9fb-abff-0212-c171f395b01f",
+          "71ae4e80-1e83-ec34-872e-b2026d5b5685"
         ],
         "data": {
           "devlink": {
@@ -1263,12 +1293,12 @@
         }
       },
       {
-        "_id": "765c0e01-780a-6bc7-c376-857f50f05d03",
+        "_id": "4059000a-f9fb-abff-0212-c171f395b01f",
         "text": true,
         "v": "These items allow the website to remember choices you make (such as your user name, language, or the region you are in) and provide enhanced, more personal features. "
       },
       {
-        "_id": "3203b479-0cdb-6215-ccd4-58014434aceb",
+        "_id": "71ae4e80-1e83-ec34-872e-b2026d5b5685",
         "type": "LineBreak",
         "tag": "br",
         "classes": [],
@@ -1280,15 +1310,15 @@
         }
       },
       {
-        "_id": "bd1ebbc0-460c-19c0-408f-ea943c338af2",
+        "_id": "894290a6-2104-a719-00a6-bc7876666256",
         "type": "FormCheckboxWrapper",
         "tag": "div",
         "classes": [
-          "7516904d-3519-1fb0-e1e0-f6edc9b9c843"
+          "35e9b72c-85a3-4e23-5016-e00a26600c84"
         ],
         "children": [
-          "ac244876-ab18-1f96-273c-fe42c4c12be0",
-          "6db2d53c-3d73-53c6-44e5-37fea0ec5db1"
+          "365079f3-aa21-d336-a8f0-d4f2281af836",
+          "7b1f8e97-1b7b-5a21-6808-d76ad4f93b50"
         ],
         "data": {
           "form": {
@@ -1322,24 +1352,24 @@
         }
       },
       {
-        "_id": "ac244876-ab18-1f96-273c-fe42c4c12be0",
+        "_id": "365079f3-aa21-d336-a8f0-d4f2281af836",
         "type": "FormCheckboxInput",
         "tag": "input",
         "classes": [
-          "cee1d836-d477-1f16-ce85-823c46ccfc41"
+          "35e9b72c-85a3-4e23-5016-e00a26600c95"
         ],
         "children": [],
         "data": {
           "form": {
             "type": "checkbox-input",
-            "name": "Checkbox 5"
+            "name": "cookie-personalization"
           },
           "inputType": "custom",
           "attr": {
             "type": "checkbox",
-            "name": "checkbox-5",
-            "id": "checkbox-5",
-            "data-name": "Checkbox 5",
+            "name": "cookie-personalization",
+            "id": "cookie-personalization",
+            "data-name": "cookie-personalization",
             "required": false,
             "checked": false
           },
@@ -1348,7 +1378,12 @@
             "slot": ""
           },
           "displayName": "",
-          "xattr": [],
+          "xattr": [
+            {
+              "name": "flowappz-cookie-choice",
+              "value": "personalization"
+            }
+          ],
           "search": {
             "exclude": false
           },
@@ -1358,14 +1393,14 @@
         }
       },
       {
-        "_id": "6db2d53c-3d73-53c6-44e5-37fea0ec5db1",
+        "_id": "7b1f8e97-1b7b-5a21-6808-d76ad4f93b50",
         "type": "FormInlineLabel",
         "tag": "label",
         "classes": [
-          "175b8cc9-406e-182c-26e7-1ccf1be3cfd0"
+          "35e9b72c-85a3-4e23-5016-e00a26600c8b"
         ],
         "children": [
-          "fef8fa00-c12a-b94d-1982-dc940dc15696"
+          "1130582c-dccc-5d30-7e0c-5c32feba579d"
         ],
         "data": {
           "form": {
@@ -1389,20 +1424,20 @@
         }
       },
       {
-        "_id": "fef8fa00-c12a-b94d-1982-dc940dc15696",
+        "_id": "1130582c-dccc-5d30-7e0c-5c32feba579d",
         "text": true,
         "v": "Checkbox 5"
       },
       {
-        "_id": "7f36c0ad-4e25-772b-9625-3ab7f836513f",
+        "_id": "5b8a9c12-6ac3-8498-0115-ba6a8dc23107",
         "type": "Block",
         "tag": "div",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e023e"
+          "35e9b72c-85a3-4e23-5016-e00a26600c87"
         ],
         "children": [
-          "73b5b923-1d7e-0b57-1d87-2e482f2d2486",
-          "eebf0834-8d06-6365-dc97-407ef5544e5a"
+          "1cadb2f4-7413-62f2-1ba2-fdb8c6c573d8",
+          "99b1a7b8-3f0b-18aa-9db8-67f8dbccea61"
         ],
         "data": {
           "text": false,
@@ -1430,15 +1465,15 @@
         }
       },
       {
-        "_id": "73b5b923-1d7e-0b57-1d87-2e482f2d2486",
+        "_id": "1cadb2f4-7413-62f2-1ba2-fdb8c6c573d8",
         "type": "Block",
         "tag": "div",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e023d"
+          "35e9b72c-85a3-4e23-5016-e00a26600c88"
         ],
         "children": [
-          "7c6e3044-cdda-d25d-8b79-4137add52a44",
-          "ffffd5e0-56f0-5b41-36d9-2f9b5dcf082f"
+          "9f6086a7-6791-1ece-9324-2ee585f1ecca",
+          "554f3d5f-ceb0-dd04-58e7-2ca23f227ad7"
         ],
         "data": {
           "text": false,
@@ -1461,14 +1496,14 @@
         }
       },
       {
-        "_id": "7c6e3044-cdda-d25d-8b79-4137add52a44",
+        "_id": "9f6086a7-6791-1ece-9324-2ee585f1ecca",
         "type": "FormBlockLabel",
         "tag": "label",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e0238"
+          "35e9b72c-85a3-4e23-5016-e00a26600c8a"
         ],
         "children": [
-          "28a2a03a-4827-a982-a577-0d2c241e3627"
+          "aca63fd0-9381-66fb-4147-ff1a4192255a"
         ],
         "data": {
           "attr": {
@@ -1494,20 +1529,20 @@
         }
       },
       {
-        "_id": "28a2a03a-4827-a982-a577-0d2c241e3627",
+        "_id": "aca63fd0-9381-66fb-4147-ff1a4192255a",
         "text": true,
         "v": "Analytics"
       },
       {
-        "_id": "ffffd5e0-56f0-5b41-36d9-2f9b5dcf082f",
+        "_id": "554f3d5f-ceb0-dd04-58e7-2ca23f227ad7",
         "type": "Paragraph",
         "tag": "p",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e023f"
+          "35e9b72c-85a3-4e23-5016-e00a26600c8d"
         ],
         "children": [
-          "d138a3f0-dc8b-c8b1-35c3-91e1e50be5f9",
-          "14ebfdb8-853d-e4c4-023d-62468835e51c"
+          "43f44625-8587-055c-791f-c2011c801505",
+          "adb87954-8d1b-6d2d-94eb-058c91e01de5"
         ],
         "data": {
           "devlink": {
@@ -1528,12 +1563,12 @@
         }
       },
       {
-        "_id": "d138a3f0-dc8b-c8b1-35c3-91e1e50be5f9",
+        "_id": "43f44625-8587-055c-791f-c2011c801505",
         "text": true,
         "v": "These items help the website operator understand how its website performs, how visitors interact with the site, and whether there may be technical issues. "
       },
       {
-        "_id": "14ebfdb8-853d-e4c4-023d-62468835e51c",
+        "_id": "adb87954-8d1b-6d2d-94eb-058c91e01de5",
         "type": "LineBreak",
         "tag": "br",
         "classes": [],
@@ -1545,15 +1580,15 @@
         }
       },
       {
-        "_id": "eebf0834-8d06-6365-dc97-407ef5544e5a",
+        "_id": "99b1a7b8-3f0b-18aa-9db8-67f8dbccea61",
         "type": "FormCheckboxWrapper",
         "tag": "div",
         "classes": [
-          "7516904d-3519-1fb0-e1e0-f6edc9b9c843"
+          "35e9b72c-85a3-4e23-5016-e00a26600c84"
         ],
         "children": [
-          "cef9e41b-4ef1-1004-0301-7a5cdef54249",
-          "afac7ffb-6508-0c7c-3445-b8578bcab844"
+          "f52c934e-41d8-2c46-5b27-666425ca1d00",
+          "cc603195-9f63-7cc3-1c77-966ed0ec6a23"
         ],
         "data": {
           "form": {
@@ -1587,24 +1622,24 @@
         }
       },
       {
-        "_id": "cef9e41b-4ef1-1004-0301-7a5cdef54249",
+        "_id": "f52c934e-41d8-2c46-5b27-666425ca1d00",
         "type": "FormCheckboxInput",
         "tag": "input",
         "classes": [
-          "cee1d836-d477-1f16-ce85-823c46ccfc41"
+          "35e9b72c-85a3-4e23-5016-e00a26600c95"
         ],
         "children": [],
         "data": {
           "form": {
             "type": "checkbox-input",
-            "name": "Checkbox 5"
+            "name": "cookie-analytics"
           },
           "inputType": "custom",
           "attr": {
             "type": "checkbox",
-            "name": "checkbox-5",
-            "id": "checkbox-5",
-            "data-name": "Checkbox 5",
+            "name": "cookie-analytics",
+            "id": "cookie-analytics",
+            "data-name": "cookie-analytics",
             "required": false,
             "checked": false
           },
@@ -1613,7 +1648,12 @@
             "slot": ""
           },
           "displayName": "",
-          "xattr": [],
+          "xattr": [
+            {
+              "name": "flowappz-cookie-choice",
+              "value": "analytics"
+            }
+          ],
           "search": {
             "exclude": false
           },
@@ -1623,14 +1663,14 @@
         }
       },
       {
-        "_id": "afac7ffb-6508-0c7c-3445-b8578bcab844",
+        "_id": "cc603195-9f63-7cc3-1c77-966ed0ec6a23",
         "type": "FormInlineLabel",
         "tag": "label",
         "classes": [
-          "175b8cc9-406e-182c-26e7-1ccf1be3cfd0"
+          "35e9b72c-85a3-4e23-5016-e00a26600c8b"
         ],
         "children": [
-          "6c446783-1889-24a4-dc3b-226b0e99aa97"
+          "bf65b5fb-0cfb-ec3d-cb92-462edafb4c56"
         ],
         "data": {
           "form": {
@@ -1654,17 +1694,17 @@
         }
       },
       {
-        "_id": "6c446783-1889-24a4-dc3b-226b0e99aa97",
+        "_id": "bf65b5fb-0cfb-ec3d-cb92-462edafb4c56",
         "text": true,
         "v": "Checkbox 5"
       },
       {
-        "_id": "ba4d9d3a-9cfa-b9dc-d724-1d80c04c0139",
+        "_id": "d0159900-cc03-00b8-4111-f76a801df36a",
         "type": "FormButton",
         "tag": "input",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e023a",
-          "acbc98ae-1325-a9a7-61d7-083ca19e0241"
+          "35e9b72c-85a3-4e23-5016-e00a26600c96",
+          "35e9b72c-85a3-4e23-5016-e00a26600c9f"
         ],
         "children": [],
         "data": {
@@ -1684,8 +1724,8 @@
           "displayName": "",
           "xattr": [
             {
-              "name": "fs-cc",
-              "value": "deny"
+              "name": "flowappz-cookie-command",
+              "value": "reject-all"
             }
           ],
           "search": {
@@ -1697,12 +1737,12 @@
         }
       },
       {
-        "_id": "67c217d4-97f8-bc9d-d451-403d2af479ea",
+        "_id": "969d76e8-a427-3aef-3f17-e1d3e840191e",
         "type": "FormButton",
         "tag": "input",
         "classes": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e023a",
-          "acbc98ae-1325-a9a7-61d7-083ca19e023c"
+          "35e9b72c-85a3-4e23-5016-e00a26600c96",
+          "35e9b72c-85a3-4e23-5016-e00a26600c86"
         ],
         "children": [],
         "data": {
@@ -1722,8 +1762,8 @@
           "displayName": "",
           "xattr": [
             {
-              "name": "fs-cc",
-              "value": "submit"
+              "name": "flowappz-cookie-command",
+              "value": "accept-selected"
             }
           ],
           "search": {
@@ -1735,12 +1775,12 @@
         }
       },
       {
-        "_id": "3ae9d907-a422-b63f-d3ad-f95fd71911a2",
+        "_id": "70a22950-cf9e-dfb1-d7d2-d6c97f869ed2",
         "type": "FormSuccessMessage",
         "tag": "div",
         "classes": [],
         "children": [
-          "fe27f1a7-01a7-5d61-d1ce-63d3e51f63fc"
+          "cb2d7683-18b5-8dae-90d4-4c4fad41df25"
         ],
         "data": {
           "devlink": {
@@ -1764,12 +1804,12 @@
         }
       },
       {
-        "_id": "fe27f1a7-01a7-5d61-d1ce-63d3e51f63fc",
+        "_id": "cb2d7683-18b5-8dae-90d4-4c4fad41df25",
         "type": "Block",
         "tag": "div",
         "classes": [],
         "children": [
-          "bbc1e6e5-185a-3d62-9fa5-40b073aca838"
+          "b7fa589f-742c-801a-71d9-a464d379da11"
         ],
         "data": {
           "text": true,
@@ -1792,17 +1832,17 @@
         }
       },
       {
-        "_id": "bbc1e6e5-185a-3d62-9fa5-40b073aca838",
+        "_id": "b7fa589f-742c-801a-71d9-a464d379da11",
         "text": true,
         "v": "Thank you! Your submission has been received!"
       },
       {
-        "_id": "fa3adcd8-3e48-5a06-4e66-bb4188e5e657",
+        "_id": "a9495f33-0971-2f01-f837-4f3dfa94f051",
         "type": "FormErrorMessage",
         "tag": "div",
         "classes": [],
         "children": [
-          "ea3adff7-b05a-e2a3-0f20-d8c9b2acc370"
+          "d72e034c-4b98-00c8-11c1-5208d22d82d8"
         ],
         "data": {
           "devlink": {
@@ -1826,12 +1866,12 @@
         }
       },
       {
-        "_id": "ea3adff7-b05a-e2a3-0f20-d8c9b2acc370",
+        "_id": "d72e034c-4b98-00c8-11c1-5208d22d82d8",
         "type": "Block",
         "tag": "div",
         "classes": [],
         "children": [
-          "82a05a6b-3367-3489-0d90-378b43868e0b"
+          "941d8ea6-b7dd-36a2-006c-5c03bc0b092e"
         ],
         "data": {
           "text": true,
@@ -1854,20 +1894,20 @@
         }
       },
       {
-        "_id": "82a05a6b-3367-3489-0d90-378b43868e0b",
+        "_id": "941d8ea6-b7dd-36a2-006c-5c03bc0b092e",
         "text": true,
         "v": "Oops! Something went wrong while submitting the form."
       }
     ],
     "styles": [
       {
-        "_id": "7516904d-3519-1fb0-e1e0-f6edc9b9c843",
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c97",
         "fake": false,
         "type": "class",
-        "name": "cookie-checkbox",
+        "name": "flowappz-preference-container",
         "namespace": "",
         "comb": "",
-        "styleLess": "",
+        "styleLess": "position: relative; max-width: 500px; min-width: 500px; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; background-color: hsla(0, 0.00%, 100.00%, 1.00);",
         "variants": {},
         "children": [],
         "createdBy": "6694ac67e94e44b49190fe7b",
@@ -1875,7 +1915,20 @@
         "selector": null
       },
       {
-        "_id": "d383bafb-abc7-6345-84fb-5f96bb9dcca4",
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c8f",
+        "fake": false,
+        "type": "class",
+        "name": "Image",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "transition-property: all; transition-duration: 200ms; transition-timing-function: ease;",
+        "variants": {},
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c85",
         "fake": false,
         "type": "class",
         "name": "flowappz-cookie-popup",
@@ -1889,166 +1942,7 @@
         "selector": null
       },
       {
-        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e023c",
-        "fake": false,
-        "type": "class",
-        "name": "field-wrapper",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "",
-        "variants": {},
-        "children": [],
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e023e",
-        "fake": false,
-        "type": "class",
-        "name": "grid",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "display: grid; margin-top: 10px; margin-bottom: 0px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; grid-auto-columns: 1fr; grid-column-gap: 16px; grid-row-gap: 16px; grid-template-columns: 1fr 0.25fr; grid-template-rows: auto; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(0, 0.00%, 84.00%, 1.00);",
-        "variants": {},
-        "children": [],
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e023d",
-        "fake": false,
-        "type": "class",
-        "name": "text-div",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "",
-        "variants": {},
-        "children": [],
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "c9ab54d6-c317-f9e2-213c-cbbdacc0b632",
-        "fake": false,
-        "type": "class",
-        "name": "close-button",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "position: absolute; left: auto; top: 20px; right: 20px; bottom: auto; display: block; width: 30px; height: 30px; transition-property: all; transition-duration: 300ms; transition-timing-function: ease;",
-        "variants": {
-          "main_hover": {
-            "styleLess": "opacity: 0.5; transform: scale(1.1) rotate(180deg);"
-          },
-          "tiny": {
-            "styleLess": "top: 10px; right: 10px;"
-          }
-        },
-        "children": [],
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e0240",
-        "fake": false,
-        "type": "class",
-        "name": "bold",
-        "namespace": "",
-        "comb": "&",
-        "styleLess": "color: #27313d; font-size: 15px; font-weight: 700; text-align: right;",
-        "variants": {},
-        "children": [],
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e0238",
-        "fake": false,
-        "type": "class",
-        "name": "cookie-tag",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "margin-top: 0px; margin-bottom: 10px; font-family: PT Sans; color: #27313d; font-size: 20px; font-weight: 700;",
-        "variants": {
-          "tiny": {
-            "styleLess": "margin-bottom: 2px;"
-          }
-        },
-        "children": [],
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "175b8cc9-406e-182c-26e7-1ccf1be3cfd0",
-        "fake": false,
-        "type": "class",
-        "name": "Checkbox Label 2",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "display: none;",
-        "variants": {},
-        "children": [],
-        "createdBy": "6694ac67e94e44b49190fe7b",
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "8839e077-7c82-3416-cf06-e5217502ea10",
-        "fake": false,
-        "type": "class",
-        "name": "privacy-title",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "",
-        "variants": {},
-        "children": [],
-        "createdBy": "6694ac67e94e44b49190fe7b",
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e023f",
-        "fake": false,
-        "type": "class",
-        "name": "paragraph 3",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "margin-bottom: 5px; font-family: PT Sans; font-size: 12px; line-height: 15px; font-weight: 400;",
-        "variants": {},
-        "children": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e0240"
-        ],
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "5481c3c4-853b-bd32-ff08-3065e4cb74fd",
-        "fake": false,
-        "type": "class",
-        "name": "Paragraph",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "font-size: 14px; text-align: center;",
-        "variants": {},
-        "children": [],
-        "createdBy": "6694ac67e94e44b49190fe7b",
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "c9ab54d6-c317-f9e2-213c-cbbdacc0b633",
-        "fake": false,
-        "type": "class",
-        "name": "Image",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "transition-property: all; transition-duration: 200ms; transition-timing-function: ease;",
-        "variants": {},
-        "children": [],
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e0241",
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c9f",
         "fake": false,
         "type": "class",
         "name": "deny",
@@ -2068,80 +1962,57 @@
         "selector": null
       },
       {
-        "_id": "7e8630c0-27be-060e-3294-b026582d08b9",
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c89",
         "fake": false,
         "type": "class",
-        "name": "flowappz-preferences-manager-wrapper",
+        "name": "close-button",
         "namespace": "",
         "comb": "",
-        "styleLess": "position: fixed; left: 0px; top: 0px; right: 0px; bottom: 0px; display: flex; justify-content: center; align-items: center; background-color: hsla(212.72727272727275, 22.00%, 19.61%, 0.59);",
-        "variants": {},
-        "children": [],
-        "createdBy": "6694ac67e94e44b49190fe7b",
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "1094cb8d-d496-c49d-3eee-70c5cad3239e",
-        "fake": false,
-        "type": "class",
-        "name": "flowappz-cookie-image",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "width: 100px;",
-        "variants": {},
-        "children": [],
-        "createdBy": "6694ac67e94e44b49190fe7b",
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e023b",
-        "fake": false,
-        "type": "class",
-        "name": "consents-form",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "margin-bottom: 0px;",
-        "variants": {},
-        "children": [],
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "6174b320-4452-1669-02a8-86daa55692b1",
-        "fake": false,
-        "type": "class",
-        "name": "flowappz-cookie-banner-title",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "font-size: 28px;",
-        "variants": {},
-        "children": [],
-        "createdBy": "6694ac67e94e44b49190fe7b",
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "9ddd4d58-f8ee-50ea-fb7d-762391c35906",
-        "fake": false,
-        "type": "class",
-        "name": "flowappz-cookie-manage-btn",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "display: flex; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; justify-content: center; align-items: center; background-color: hsla(208.00000000000003, 82.57%, 57.25%, 0.00); transition-property: opacity; transition-duration: 200ms; transition-timing-function: ease; color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); text-decoration: @raw<|underline|>; opacity: @raw<|0.7|>;",
+        "styleLess": "position: absolute; left: auto; top: 20px; right: 20px; bottom: auto; display: block; width: 30px; height: 30px; transition-property: all; transition-duration: 300ms; transition-timing-function: ease;",
         "variants": {
           "main_hover": {
-            "styleLess": "opacity: @raw<|1|>;"
+            "styleLess": "opacity: 0.5; transform: scale(1.1) rotate(180deg);"
+          },
+          "tiny": {
+            "styleLess": "top: 10px; right: 10px;"
           }
         },
         "children": [],
-        "createdBy": "6694ac67e94e44b49190fe7b",
         "origin": null,
         "selector": null
       },
       {
-        "_id": "cee1d836-d477-1f16-ce85-823c46ccfc41",
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c8a",
+        "fake": false,
+        "type": "class",
+        "name": "cookie-tag",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "margin-top: 0px; margin-bottom: 10px; font-family: PT Sans; color: #27313d; font-size: 20px; font-weight: 700;",
+        "variants": {
+          "tiny": {
+            "styleLess": "margin-bottom: 2px;"
+          }
+        },
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c87",
+        "fake": false,
+        "type": "class",
+        "name": "grid",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: grid; margin-top: 10px; margin-bottom: 0px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; grid-auto-columns: 1fr; grid-column-gap: 16px; grid-row-gap: 16px; grid-template-columns: 1fr 0.25fr; grid-template-rows: auto; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(0, 0.00%, 84.00%, 1.00);",
+        "variants": {},
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c95",
         "fake": false,
         "type": "class",
         "name": "Checkbox 2",
@@ -2162,32 +2033,13 @@
         "selector": null
       },
       {
-        "_id": "acbc98ae-1325-a9a7-61d7-083ca19e023a",
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c8e",
         "fake": false,
         "type": "class",
-        "name": "button",
+        "name": "Paragraph",
         "namespace": "",
         "comb": "",
-        "styleLess": "margin-top: 5px; margin-right: 20px; margin-bottom: 5px; border-top-style: solid; border-top-width: 2px; border-top-color: #27313d; border-right-style: solid; border-right-width: 2px; border-right-color: #27313d; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #27313d; border-left-style: solid; border-left-width: 2px; border-left-color: #27313d; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; background-color: hsla(212.72727272727275, 22.00%, 19.61%, 1.00); transition-property: all; transition-duration: 300ms; transition-timing-function: ease; font-family: PT Sans; font-weight: 400;",
-        "variants": {
-          "main_hover": {
-            "styleLess": "border-top-style: solid; border-top-width: 2px; border-top-color: #27313d; border-right-style: solid; border-right-width: 2px; border-right-color: #27313d; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #27313d; border-left-style: solid; border-left-width: 2px; border-left-color: #27313d; background-color: hsla(257, 0.00%, 100.00%, 1.00); color: #27313d;"
-          }
-        },
-        "children": [
-          "acbc98ae-1325-a9a7-61d7-083ca19e0241"
-        ],
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "84bf8c39-4739-96b6-f0ed-aefd32af5cd1",
-        "fake": false,
-        "type": "class",
-        "name": "flowappz-preference-container",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "position: relative; max-width: 500px; min-width: 500px; padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; background-color: hsla(0, 0.00%, 100.00%, 1.00);",
+        "styleLess": "font-size: 14px; text-align: center;",
         "variants": {},
         "children": [],
         "createdBy": "6694ac67e94e44b49190fe7b",
@@ -2195,13 +2047,26 @@
         "selector": null
       },
       {
-        "_id": "1466269c-9cad-4044-39c2-48fa61d1bc84",
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c92",
         "fake": false,
         "type": "class",
-        "name": "Paragraph 2",
+        "name": "consents-form",
         "namespace": "",
         "comb": "",
-        "styleLess": "font-size: 14px;",
+        "styleLess": "margin-bottom: 0px;",
+        "variants": {},
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c91",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-cookie-image",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 100px;",
         "variants": {},
         "children": [],
         "createdBy": "6694ac67e94e44b49190fe7b",
@@ -2209,13 +2074,13 @@
         "selector": null
       },
       {
-        "_id": "97693ba5-4891-4dab-7210-fef1b81b947e",
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c8c",
         "fake": false,
         "type": "class",
-        "name": "flowappz-banner-btns",
+        "name": "privacy-title",
         "namespace": "",
         "comb": "",
-        "styleLess": "display: flex; margin-top: 20px; grid-column-gap: 30px; grid-row-gap: 30px; align-self: @raw<|flex-start|>;",
+        "styleLess": "",
         "variants": {},
         "children": [],
         "createdBy": "6694ac67e94e44b49190fe7b",
@@ -2223,7 +2088,7 @@
         "selector": null
       },
       {
-        "_id": "e5e4df2a-f6fd-65e9-7ede-eed63c3edb88",
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c9a",
         "fake": false,
         "type": "class",
         "name": "Div Block",
@@ -2237,25 +2102,7 @@
         "selector": null
       },
       {
-        "_id": "f2950567-e932-f094-a2be-9d6a998d672c",
-        "fake": false,
-        "type": "class",
-        "name": "flowappz-accept-btn",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "padding-top: 10px; padding-right: 20px; padding-bottom: 10px; padding-left: 20px; border-top-style: solid; border-top-width: 1px; border-top-color: hsla(0, 0.00%, 0.00%, 0.00); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(0, 0.00%, 0.00%, 0.00); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(0, 0.00%, 0.00%, 0.00); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(0, 0.00%, 0.00%, 0.00); border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; background-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); transition-property: background-color; transition-duration: 200ms; transition-timing-function: ease;",
-        "variants": {
-          "main_hover": {
-            "styleLess": "border-top-style: solid; border-top-width: 1px; border-top-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); background-color: hsla(224.51612903225808, 49.21%, 12.35%, 0.00); color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00);"
-          }
-        },
-        "children": [],
-        "createdBy": "6694ac67e94e44b49190fe7b",
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "be16c84e-6e31-02c8-48f1-cfe80ae31e15",
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c9c",
         "fake": false,
         "type": "class",
         "name": "flowppz-decline-btn",
@@ -2273,7 +2120,64 @@
         "selector": null
       },
       {
-        "_id": "a2aec3b7-e09d-ce1c-48fa-e0ac96dae8bf",
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c8d",
+        "fake": false,
+        "type": "class",
+        "name": "paragraph 3",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "margin-bottom: 5px; font-family: PT Sans; font-size: 12px; line-height: 15px; font-weight: 400;",
+        "variants": {},
+        "children": [
+          "35e9b72c-85a3-4e23-5016-e00a26600c9e"
+        ],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c98",
+        "fake": false,
+        "type": "class",
+        "name": "Paragraph 2",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "font-size: 14px;",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c8b",
+        "fake": false,
+        "type": "class",
+        "name": "Checkbox Label 2",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: none;",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c90",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-preferences-manager-wrapper",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: fixed; left: 0px; top: 0px; right: 0px; bottom: 0px; display: none; justify-content: center; align-items: center; background-color: hsla(212.72727272727275, 22.00%, 19.61%, 0.59);",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c9d",
         "fake": false,
         "type": "class",
         "name": "cookie-consent",
@@ -2285,47 +2189,172 @@
         "createdBy": "6694ac67e94e44b49190fe7b",
         "origin": null,
         "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c88",
+        "fake": false,
+        "type": "class",
+        "name": "text-div",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "",
+        "variants": {},
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c9e",
+        "fake": false,
+        "type": "class",
+        "name": "bold",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "color: #27313d; font-size: 15px; font-weight: 700; text-align: right;",
+        "variants": {},
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c99",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-banner-btns",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; margin-top: 20px; grid-column-gap: 30px; grid-row-gap: 30px; align-self: @raw<|flex-start|>;",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c93",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-cookie-banner-title",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "font-size: 28px;",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c96",
+        "fake": false,
+        "type": "class",
+        "name": "button",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "margin-top: 5px; margin-right: 20px; margin-bottom: 5px; border-top-style: solid; border-top-width: 2px; border-top-color: #27313d; border-right-style: solid; border-right-width: 2px; border-right-color: #27313d; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #27313d; border-left-style: solid; border-left-width: 2px; border-left-color: #27313d; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; background-color: hsla(212.72727272727275, 22.00%, 19.61%, 1.00); transition-property: all; transition-duration: 300ms; transition-timing-function: ease; font-family: PT Sans; font-weight: 400;",
+        "variants": {
+          "main_hover": {
+            "styleLess": "border-top-style: solid; border-top-width: 2px; border-top-color: #27313d; border-right-style: solid; border-right-width: 2px; border-right-color: #27313d; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #27313d; border-left-style: solid; border-left-width: 2px; border-left-color: #27313d; background-color: hsla(257, 0.00%, 100.00%, 1.00); color: #27313d;"
+          }
+        },
+        "children": [
+          "35e9b72c-85a3-4e23-5016-e00a26600c9f"
+        ],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c9b",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-accept-btn",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "padding-top: 10px; padding-right: 20px; padding-bottom: 10px; padding-left: 20px; border-top-style: solid; border-top-width: 1px; border-top-color: hsla(0, 0.00%, 0.00%, 0.00); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(0, 0.00%, 0.00%, 0.00); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(0, 0.00%, 0.00%, 0.00); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(0, 0.00%, 0.00%, 0.00); border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px; background-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); transition-property: background-color; transition-duration: 200ms; transition-timing-function: ease;",
+        "variants": {
+          "main_hover": {
+            "styleLess": "border-top-style: solid; border-top-width: 1px; border-top-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); background-color: hsla(224.51612903225808, 49.21%, 12.35%, 0.00); color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00);"
+          }
+        },
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c86",
+        "fake": false,
+        "type": "class",
+        "name": "field-wrapper",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "",
+        "variants": {},
+        "children": [],
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c84",
+        "fake": false,
+        "type": "class",
+        "name": "cookie-checkbox",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "",
+        "variants": {},
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "35e9b72c-85a3-4e23-5016-e00a26600c94",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-cookie-manage-btn",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; justify-content: center; align-items: center; background-color: hsla(208.00000000000003, 82.57%, 57.25%, 0.00); transition-property: opacity; transition-duration: 200ms; transition-timing-function: ease; color: hsla(224.51612903225808, 49.21%, 12.35%, 1.00); text-decoration: @raw<|underline|>; opacity: @raw<|0.7|>;",
+        "variants": {
+          "main_hover": {
+            "styleLess": "opacity: @raw<|1|>;"
+          }
+        },
+        "children": [],
+        "createdBy": "6694ac67e94e44b49190fe7b",
+        "origin": null,
+        "selector": null
       }
     ],
     "assets": [
       {
-        "cdnUrl": "https://uploads-ssl.webflow.com/6694b1674f63def71ac1f3bf/6697568932fe1fdccf2d6c7f_Component%201.png",
-        "siteId": "6694b1674f63def71ac1f3bf",
+        "cdnUrl": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66c2142d5673bb6baea5b2fa_Component%201.png",
+        "siteId": "667bcfff695e19dfb6259223",
         "width": 151,
         "isHD": false,
         "height": 140,
-        "fileName": "6697568932fe1fdccf2d6c7f_Component 1.png",
-        "createdOn": "2024-07-17T05:28:41.074Z",
+        "fileName": "66c2142d5673bb6baea5b2fa_Component 1.png",
+        "createdOn": "2024-08-18T15:33:01.932Z",
         "origFileName": "Component 1.png",
         "fileHash": "94d52edd539c55e5ae4c06cd875d1730",
         "translationLoading": false,
-        "variants": [],
+        "variants": [
+          {
+            "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/667bcfff695e19dfb6259223/66c2142d5673bb6baea5b2fa_Component%201-p-130x130q80.png",
+            "origFileName": "Component 1-p-130x130q80.png",
+            "fileName": "66c2142d5673bb6baea5b2fa_Component 1-p-130x130q80.png",
+            "format": "png",
+            "_id": "66c2142d5673bb6baea5b2fb",
+            "cdnUrl": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66c2142d5673bb6baea5b2fa_Component%201-p-130x130q80.png"
+          }
+        ],
         "mimeType": "image/png",
-        "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/6694b1674f63def71ac1f3bf/6697568932fe1fdccf2d6c7f_Component%201.png",
-        "thumbUrl": "https://daks2k3a4ib2z.cloudfront.net/6694b1674f63def71ac1f3bf/6697568932fe1fdccf2d6c7f_Component%201-p-130x130q80.png",
-        "_id": "6697568932fe1fdccf2d6c7f",
-        "updatedOn": "2024-07-17T06:44:44.858Z",
+        "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/667bcfff695e19dfb6259223/66c2142d5673bb6baea5b2fa_Component%201.png",
+        "thumbUrl": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66c2142d5673bb6baea5b2fa_Component%201-p-130x130q80.png",
+        "_id": "66c2142d5673bb6baea5b2fa",
+        "updatedOn": "2024-08-18T15:33:02.085Z",
         "fileSize": 2938,
-        "localizedSettings": {}
-      },
-      {
-        "cdnUrl": "https://uploads-ssl.webflow.com/6694b1674f63def71ac1f3bf/669768f19fc048fc25f2b07c_240_F_437519066_OLrSfrnBk5hioGeje96IZ0ejr8Xrozw3.jpg",
-        "siteId": "6694b1674f63def71ac1f3bf",
-        "width": 240,
-        "isHD": false,
-        "height": 240,
-        "fileName": "669768f19fc048fc25f2b07c_240_F_437519066_OLrSfrnBk5hioGeje96IZ0ejr8Xrozw3.jpg",
-        "createdOn": "2024-07-17T06:47:13.919Z",
-        "origFileName": "240_F_437519066_OLrSfrnBk5hioGeje96IZ0ejr8Xrozw3.jpg",
-        "fileHash": "3cef72d5a5f6e8b38274f4a20928c0ed",
-        "translationLoading": false,
-        "variants": [],
-        "mimeType": "image/jpeg",
-        "s3Url": "https://s3.amazonaws.com/webflow-prod-assets/6694b1674f63def71ac1f3bf/669768f19fc048fc25f2b07c_240_F_437519066_OLrSfrnBk5hioGeje96IZ0ejr8Xrozw3.jpg",
-        "thumbUrl": "https://daks2k3a4ib2z.cloudfront.net/6694b1674f63def71ac1f3bf/669768f19fc048fc25f2b07c_240_F_437519066_OLrSfrnBk5hioGeje96IZ0ejr8Xrozw3-p-130x130q80.jpg",
-        "_id": "669768f19fc048fc25f2b07c",
-        "updatedOn": "2024-07-28T09:13:37.859Z",
-        "fileSize": 13113,
         "localizedSettings": {}
       }
     ],
