@@ -3,120 +3,298 @@
   "payload": {
     "nodes": [
       {
-        "_id": "94beea3f-5124-35ac-6554-d208ee989def",
+        "_id": "3de9150a-5483-8964-b4bf-e2ab380d3539",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "96569601-59dc-1c5e-29e3-5feecb788968"
+        ],
+        "children": [
+          "d1faf405-bfbc-2e8f-866a-06ddf2761a89",
+          "9b29dfa1-a686-7797-bfed-18dde7437f0c",
+          "b87ffb51-6247-4938-a959-4abad28d3211"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "d1faf405-bfbc-2e8f-866a-06ddf2761a89",
+        "type": "SliderWrapper",
+        "tag": "div",
+        "classes": [
+          "8fdd1c79-bd51-baa1-7a52-4334338b3037"
+        ],
+        "children": [
+          "f50ce3ba-69d3-085e-2fb1-b1adc17bd152",
+          "ac5ade4e-aa5e-f2f1-8234-97ab56203557",
+          "cf50166a-83bf-50b4-b7b0-f5c1f7103202",
+          "7467ed23-eb00-dad7-d5c2-4fdb3df08748",
+          "bf863289-a90d-2892-3516-3a12bc8cb66b"
+        ],
+        "data": {
+          "slider": {
+            "animation": "slide",
+            "easing": "ease",
+            "duration": 500,
+            "infinite": false,
+            "disableSwipe": false,
+            "autoplay": false,
+            "delay": 4000,
+            "autoMax": 0,
+            "hideArrows": false,
+            "navRound": false,
+            "navNumbers": false,
+            "navShadow": false,
+            "navInvert": false,
+            "navSpacing": 3,
+            "iconArrows": true,
+            "type": "wrapper"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [
+            {
+              "name": "flowappz-slider-instance",
+              "value": "flowappz-slider"
+            },
+            {
+              "name": "flowappz-slider-name",
+              "value": "Nike Shoes Slider"
+            },
+            {
+              "name": "flowappz-slider-config",
+              "value": "{\"name\":\"Nike Shoes Slider\",\"siteId\":\"\",\"config\":{\"active\":true,\"direction\":\"horizontal\",\"loop\":true,\"rtl\":false,\"effect\":\"slide\",\"slidesPerView\":1,\"spaceBetween\":20,\"allowTouchMove\":true,\"keyboard\":false,\"grabCursor\":false,\"mousewheel\":true,\"centeredSlides\":false,\"breakpoints\":{\"640\":{\"slidesPerView\":1,\"spaceBetween\":20},\"768\":{\"slidesPerView\":2,\"spaceBetween\":20},\"1024\":{\"slidesPerView\":3,\"spaceBetween\":20}},\"navigation\":{\"nextEl\":\".flowappz-button-next\",\"prevEl\":\".flowappz-button-prev\"},\"autoplay\":{\"delay\":3000,\"disableOnInteraction\":false}}}"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "f50ce3ba-69d3-085e-2fb1-b1adc17bd152",
+        "type": "SliderMask",
+        "tag": "div",
+        "classes": [
+          "8fdd1c79-bd51-baa1-7a52-4334338b3035"
+        ],
+        "children": [
+          "a8861f6f-60f8-3427-86ad-f0e8a2e4a8a8",
+          "3605616f-87dc-572c-137d-a9c2ae29d78b",
+          "794b36c8-6346-8a1d-98cd-ab522f5062a0",
+          "b49f575e-b90f-6aa8-f0c8-8c527272b740",
+          "2ca52082-cf69-ef90-0ad7-546f2fd43ee2",
+          "b1fa358a-b204-6b85-8778-54c93f3a3e6b"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          },
+          "slider": {
+            "type": "slides"
+          }
+        }
+      },
+      {
+        "_id": "a8861f6f-60f8-3427-86ad-f0e8a2e4a8a8",
+        "type": "SliderSlide",
+        "tag": "div",
+        "classes": [
+          "8fdd1c79-bd51-baa1-7a52-4334338b303a"
+        ],
+        "children": [
+          "fd9762a5-628c-2d6c-957d-314f0298cda6"
+        ],
+        "data": {
+          "tag": "div",
+          "slider": {
+            "type": "slide"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [
+            {
+              "name": "flowappz-type",
+              "value": "slide"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": [
+              true
+            ]
+          }
+        }
+      },
+      {
+        "_id": "fd9762a5-628c-2d6c-957d-314f0298cda6",
         "type": "DOM",
         "tag": "div",
-        "classes": ["a3a177e4-e464-9793-7966-03cfcced36ef"],
+        "classes": [
+          "0027bc39-ae7f-1345-b71b-df6832fcd40e",
+          "28bf77b9-d237-f4d7-1d89-09b20b585ca6"
+        ],
         "children": [
-          "30ab8daa-9d07-5e7e-c243-4f462c7dbadf",
-          "72a6ddb6-abba-ae8f-707f-d397363f2746",
-          "8de51b6c-9076-c769-f347-be6ac43bcf06",
-          "c384d203-f6dd-93e3-4b46-bf0b46c50140",
-          "a0f5bf7a-bb11-7a03-73fd-3d74afd0eabf",
-          "5fdb0835-0d00-e3ed-1f92-c6df7edc210f",
-          "b90a10bf-fa71-3b31-061f-19cc20e6255c",
-          "02f626e0-d3d7-d93d-45d8-8f33d3d2037c",
-          "974486b1-ff08-7abb-b7e7-2e5d4fbc2d4b"
+          "f1f1ac06-5429-c575-c496-334bf8ed4375",
+          "4948c559-87a1-cbe6-5e31-5f534474e033",
+          "d999dde4-3399-e40d-ba04-fdea4b476778",
+          "9cdf9d53-ffbb-2143-9f23-fc0f43b4eac9",
+          "9e56ad44-fb27-451c-cdc6-bfa1796e4ca3"
         ],
         "data": {
           "tag": "div",
           "attributes": [
-            { "name": "flowappz-slider", "value": "true" },
-            { "name": "flowappz-slider-id", "value": "1722437520638" },
-            { "name": "flowappz-slider-name", "value": "slider" },
             {
-              "name": "flowappz-slider-config",
-              "value": "{\"name\":\"slider\",\"siteId\":2,\"config\":{\"active\":true,\"direction\":\"HORIZONTAL\",\"loop\":true,\"rtl\":false,\"navigation\":true,\"autoplay\":{\"active\":false,\"duration\":\"2000\"},\"slidesPerView\":\"3\",\"spacing\":\"16\",\"origin\":\"auto\",\"draggable\":true,\"keyboardNavigation\":false,\"counter\":false}}"
+              "name": "data-element",
+              "value": "flowappz-slide"
             }
           ]
         }
       },
       {
-        "_id": "30ab8daa-9d07-5e7e-c243-4f462c7dbadf",
-        "type": "DOM",
-        "tag": "div",
-        "classes": [
-          "0ea828cf-3ebd-2fa3-3599-57417b215a23",
-          "29bc75d7-1b82-ddbb-43c1-3d287921bc23"
-        ],
-        "children": [
-          "1167ad1b-d9e2-8acd-c278-057322eecc64",
-          "380a623c-a823-bc9b-f744-3b8904809f25",
-          "0455280a-4597-a0d4-e631-e0ef29a42177",
-          "3b230617-38f3-1b3d-8e21-85d1a5597565",
-          "4f3078c7-31fb-9ab0-6d27-727c5805b15c"
-        ],
-        "data": {
-          "tag": "div",
-          "attributes": [{ "name": "data-element", "value": "flowappz-slide" }]
-        }
-      },
-      {
-        "_id": "1167ad1b-d9e2-8acd-c278-057322eecc64",
+        "_id": "f1f1ac06-5429-c575-c496-334bf8ed4375",
         "type": "Heading",
         "tag": "h3",
-        "classes": ["d39940b1-5336-dcde-a2e2-b5afdc603cef"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc7"
+        ],
         "children": [
-          "2babf648-085a-d73a-8f74-ec4b5453a1ea",
-          "36025855-4393-52fc-d945-ac2b13fa822f",
-          "96e418f7-095a-2011-0aa2-b984995a9a56"
+          "98a1089b-b6a8-24f5-eb50-09d47dea3c14",
+          "b499ebd0-87fb-7173-d47d-f2b4bc91f436",
+          "38c87f46-7ad3-40a1-f3f5-bfbdfadeb855"
         ],
         "data": {
           "tag": "h3",
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
-          "attr": { "id": "" },
+          "attr": {
+            "id": ""
+          },
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "2babf648-085a-d73a-8f74-ec4b5453a1ea",
+        "_id": "98a1089b-b6a8-24f5-eb50-09d47dea3c14",
         "text": true,
         "v": "Ethereal Men's "
       },
       {
-        "_id": "36025855-4393-52fc-d945-ac2b13fa822f",
+        "_id": "b499ebd0-87fb-7173-d47d-f2b4bc91f436",
         "type": "LineBreak",
         "tag": "br",
         "classes": [],
         "children": [],
-        "data": { "sym": { "inst": "LineBreak" } }
+        "data": {
+          "sym": {
+            "inst": "LineBreak"
+          }
+        }
       },
       {
-        "_id": "96e418f7-095a-2011-0aa2-b984995a9a56",
+        "_id": "38c87f46-7ad3-40a1-f3f5-bfbdfadeb855",
         "text": true,
         "v": "Shoes Dunk Low"
       },
       {
-        "_id": "380a623c-a823-bc9b-f744-3b8904809f25",
+        "_id": "4948c559-87a1-cbe6-5e31-5f534474e033",
         "type": "Paragraph",
         "tag": "p",
-        "classes": ["ef755aca-5388-8958-8239-6951fbb8d11f"],
-        "children": ["bde98fb6-5dcd-6554-14b2-25004c6da63e"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fbe"
+        ],
+        "children": [
+          "75e3d35c-a488-dcc5-48c0-ef0b92f0df93"
+        ],
         "data": {
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
-          "attr": { "id": "" },
+          "attr": {
+            "id": ""
+          },
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "bde98fb6-5dcd-6554-14b2-25004c6da63e",
+        "_id": "75e3d35c-a488-dcc5-48c0-ef0b92f0df93",
         "text": true,
         "v": "Collection of men's sneakers are ready to take you through your day."
       },
       {
-        "_id": "0455280a-4597-a0d4-e631-e0ef29a42177",
+        "_id": "d999dde4-3399-e40d-ba04-fdea4b476778",
         "type": "Image",
         "tag": "img",
-        "classes": ["6b260d76-a737-355f-8c8c-c9c348df7171"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fbd"
+        ],
         "children": [],
         "data": {
-          "img": { "id": "66aa5520996e97f452dcd786" },
+          "img": {
+            "id": "66aa5520996e97f452dcd786"
+          },
           "srcsetDisabled": false,
           "attr": {
             "width": "auto",
@@ -127,148 +305,265 @@
             "id": ""
           },
           "sizes": [
-            { "max": 479, "size": "79vw" },
-            { "max": 10000, "size": "334px" }
+            {
+              "max": 10000,
+              "size": "334px"
+            }
           ],
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "3b230617-38f3-1b3d-8e21-85d1a5597565",
+        "_id": "9cdf9d53-ffbb-2143-9f23-fc0f43b4eac9",
         "type": "Link",
         "tag": "a",
-        "classes": ["d5ebfdfe-bbf2-ed75-e712-5a98c08ed820"],
-        "children": ["0f6fdba2-74a4-e528-ac74-3652661de88b"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc0"
+        ],
+        "children": [
+          "f44f66a3-94e3-cf55-4d66-76c88de70aa3"
+        ],
         "data": {
           "button": true,
           "block": "",
-          "link": { "mode": "external", "url": "#" },
-          "attr": { "id": "" },
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
           "xattr": [],
-          "search": { "exclude": true },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": true
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "0f6fdba2-74a4-e528-ac74-3652661de88b",
+        "_id": "f44f66a3-94e3-cf55-4d66-76c88de70aa3",
         "text": true,
         "v": "View Product"
       },
       {
-        "_id": "4f3078c7-31fb-9ab0-6d27-727c5805b15c",
+        "_id": "9e56ad44-fb27-451c-cdc6-bfa1796e4ca3",
         "type": "Link",
         "tag": "a",
-        "classes": ["e39352be-becf-f4c5-3710-f03b05aaffe0"],
-        "children": ["1ef156b3-653f-e389-a97f-e509fa7d303d"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc2"
+        ],
+        "children": [
+          "17ca65dc-5f29-11d3-50bc-a7f2b64d25f1"
+        ],
         "data": {
           "button": false,
           "block": "",
-          "link": { "mode": "external", "url": "#" },
-          "attr": { "id": "" },
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "1ef156b3-653f-e389-a97f-e509fa7d303d",
+        "_id": "17ca65dc-5f29-11d3-50bc-a7f2b64d25f1",
         "text": true,
         "v": "new"
       },
       {
-        "_id": "72a6ddb6-abba-ae8f-707f-d397363f2746",
-        "type": "DOM",
+        "_id": "3605616f-87dc-572c-137d-a9c2ae29d78b",
+        "type": "SliderSlide",
         "tag": "div",
         "classes": [
-          "0ea828cf-3ebd-2fa3-3599-57417b215a23",
-          "131d0ba0-5b50-5c5d-fd1d-a1547db1d0aa"
+          "8fdd1c79-bd51-baa1-7a52-4334338b303a"
         ],
         "children": [
-          "c58bc271-cdd1-c69f-0fac-bad0f18886ef",
-          "ba25b529-2a45-07fc-998a-319edd84ad6c",
-          "74db7e70-3c95-788c-db82-e2830c9b48cb",
-          "9878535f-d97f-7f28-9b1f-dff88df80598",
-          "62923988-e3d8-c712-ca43-6292c2ed498f"
+          "e29ceabd-774f-6751-0245-ef2418ab886c"
         ],
         "data": {
           "tag": "div",
-          "attributes": [{ "name": "data-element", "value": "flowappz-slide" }]
+          "slider": {
+            "type": "slide"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [
+            {
+              "name": "flowappz-type",
+              "value": "slide"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": [
+              true
+            ]
+          }
         }
       },
       {
-        "_id": "c58bc271-cdd1-c69f-0fac-bad0f18886ef",
+        "_id": "e29ceabd-774f-6751-0245-ef2418ab886c",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [
+          "0027bc39-ae7f-1345-b71b-df6832fcd40e",
+          "042f7d4a-7ac8-7796-4c9e-10903c18ab88"
+        ],
+        "children": [
+          "06acd3ff-5c5b-6053-abca-300914a44364",
+          "3a7269f8-eb3d-e1ea-93f7-72e8b0f208f8",
+          "bfad5aff-7131-68d7-c86d-c347dd57c291",
+          "eaeed6e1-1f55-bbee-ce67-d5957ec62fd3",
+          "3a62cd58-09e9-4b8a-834d-32c9aa15477e"
+        ],
+        "data": {
+          "tag": "div",
+          "attributes": [
+            {
+              "name": "data-element",
+              "value": "flowappz-slide"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "06acd3ff-5c5b-6053-abca-300914a44364",
         "type": "Heading",
         "tag": "h3",
-        "classes": ["d39940b1-5336-dcde-a2e2-b5afdc603cef"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc7"
+        ],
         "children": [
-          "0012b257-afa5-041a-cdb4-39cf6b20cd51",
-          "43940785-84d3-9a97-80b4-753ce991630d",
-          "e0eca87c-b5ff-56e2-6c01-e9f8759b5022"
+          "b2e89ed9-535b-e9c1-bb1d-578b36786c3d",
+          "16b6330b-833f-c919-5eec-5347d47b224a",
+          "057e0fee-89c5-55a6-8a92-b285d1098c63"
         ],
         "data": {
           "tag": "h3",
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
-          "attr": { "id": "" },
+          "attr": {
+            "id": ""
+          },
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "0012b257-afa5-041a-cdb4-39cf6b20cd51",
+        "_id": "b2e89ed9-535b-e9c1-bb1d-578b36786c3d",
         "text": true,
         "v": "Ethereal Men's "
       },
       {
-        "_id": "43940785-84d3-9a97-80b4-753ce991630d",
+        "_id": "16b6330b-833f-c919-5eec-5347d47b224a",
         "type": "LineBreak",
         "tag": "br",
         "classes": [],
         "children": [],
-        "data": { "sym": { "inst": "LineBreak" } }
+        "data": {
+          "sym": {
+            "inst": "LineBreak"
+          }
+        }
       },
       {
-        "_id": "e0eca87c-b5ff-56e2-6c01-e9f8759b5022",
+        "_id": "057e0fee-89c5-55a6-8a92-b285d1098c63",
         "text": true,
         "v": "Shoes Dunk Low"
       },
       {
-        "_id": "ba25b529-2a45-07fc-998a-319edd84ad6c",
+        "_id": "3a7269f8-eb3d-e1ea-93f7-72e8b0f208f8",
         "type": "Paragraph",
         "tag": "p",
-        "classes": ["ef755aca-5388-8958-8239-6951fbb8d11f"],
-        "children": ["2db444e0-4db2-7768-62d6-32b3896fb47b"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fbe"
+        ],
+        "children": [
+          "d58df33b-945f-f652-60de-0eff13347b0d"
+        ],
         "data": {
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
-          "attr": { "id": "" },
+          "attr": {
+            "id": ""
+          },
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "2db444e0-4db2-7768-62d6-32b3896fb47b",
+        "_id": "d58df33b-945f-f652-60de-0eff13347b0d",
         "text": true,
         "v": "Collection of men's sneakers are ready to take you through your day."
       },
       {
-        "_id": "74db7e70-3c95-788c-db82-e2830c9b48cb",
+        "_id": "bfad5aff-7131-68d7-c86d-c347dd57c291",
         "type": "Image",
         "tag": "img",
-        "classes": ["6b260d76-a737-355f-8c8c-c9c348df7171"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fbd"
+        ],
         "children": [],
         "data": {
-          "img": { "id": "66aa5520996e97f452dcd786" },
+          "img": {
+            "id": "66aa5520996e97f452dcd786"
+          },
           "srcsetDisabled": false,
           "attr": {
             "width": "auto",
@@ -279,148 +574,265 @@
             "id": ""
           },
           "sizes": [
-            { "max": 479, "size": "79vw" },
-            { "max": 10000, "size": "334px" }
+            {
+              "max": 10000,
+              "size": "334px"
+            }
           ],
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "9878535f-d97f-7f28-9b1f-dff88df80598",
+        "_id": "eaeed6e1-1f55-bbee-ce67-d5957ec62fd3",
         "type": "Link",
         "tag": "a",
-        "classes": ["d5ebfdfe-bbf2-ed75-e712-5a98c08ed820"],
-        "children": ["4e449d80-aaf7-4b2e-a0f7-b312bf73adbb"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc0"
+        ],
+        "children": [
+          "29fa9f56-57d0-01ba-e21a-3d56b2e03f04"
+        ],
         "data": {
           "button": true,
           "block": "",
-          "link": { "mode": "external", "url": "#" },
-          "attr": { "id": "" },
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
           "xattr": [],
-          "search": { "exclude": true },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": true
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "4e449d80-aaf7-4b2e-a0f7-b312bf73adbb",
+        "_id": "29fa9f56-57d0-01ba-e21a-3d56b2e03f04",
         "text": true,
         "v": "View Product"
       },
       {
-        "_id": "62923988-e3d8-c712-ca43-6292c2ed498f",
+        "_id": "3a62cd58-09e9-4b8a-834d-32c9aa15477e",
         "type": "Link",
         "tag": "a",
-        "classes": ["e39352be-becf-f4c5-3710-f03b05aaffe0"],
-        "children": ["9e29d10a-9d53-00c0-2e32-15be5715ad16"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc2"
+        ],
+        "children": [
+          "f82b8cdd-7b26-4321-90bc-eef8bec3d6ef"
+        ],
         "data": {
           "button": false,
           "block": "",
-          "link": { "mode": "external", "url": "#" },
-          "attr": { "id": "" },
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "9e29d10a-9d53-00c0-2e32-15be5715ad16",
+        "_id": "f82b8cdd-7b26-4321-90bc-eef8bec3d6ef",
         "text": true,
         "v": "new"
       },
       {
-        "_id": "8de51b6c-9076-c769-f347-be6ac43bcf06",
-        "type": "DOM",
+        "_id": "794b36c8-6346-8a1d-98cd-ab522f5062a0",
+        "type": "SliderSlide",
         "tag": "div",
         "classes": [
-          "0ea828cf-3ebd-2fa3-3599-57417b215a23",
-          "ecc925ce-9120-7f2e-15f9-99a7a834d85e"
+          "8fdd1c79-bd51-baa1-7a52-4334338b303a"
         ],
         "children": [
-          "f30655b7-1f11-a450-d1de-d6a737038e48",
-          "08af6a20-90e3-10dd-1a16-0480ca1f440d",
-          "d3640c56-f5ea-7ad7-ebdb-b2a12a187a02",
-          "ad146892-6325-e700-75f4-6ebb4f6145aa",
-          "39de2e17-3a81-dcb4-09dd-1e3304203ddc"
+          "93a6f47d-5e32-853b-309b-6d568c1c17b7"
         ],
         "data": {
           "tag": "div",
-          "attributes": [{ "name": "data-element", "value": "flowappz-slide" }]
+          "slider": {
+            "type": "slide"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [
+            {
+              "name": "flowappz-type",
+              "value": "slide"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": [
+              true
+            ]
+          }
         }
       },
       {
-        "_id": "f30655b7-1f11-a450-d1de-d6a737038e48",
+        "_id": "93a6f47d-5e32-853b-309b-6d568c1c17b7",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [
+          "0027bc39-ae7f-1345-b71b-df6832fcd40e",
+          "36186500-f15e-960b-343a-c9c6d2bea4f6"
+        ],
+        "children": [
+          "da3b29f8-4998-59e8-c079-20448343eeef",
+          "18c57f89-b194-3e31-3f60-42cdfd557a65",
+          "0152fe44-54cb-bb61-e586-979c1b1cc95a",
+          "ec8bc50c-487e-48ac-85d4-ea35940f0245",
+          "3f783c97-7c85-0d41-56a0-504ae9a92295"
+        ],
+        "data": {
+          "tag": "div",
+          "attributes": [
+            {
+              "name": "data-element",
+              "value": "flowappz-slide"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "da3b29f8-4998-59e8-c079-20448343eeef",
         "type": "Heading",
         "tag": "h3",
-        "classes": ["d39940b1-5336-dcde-a2e2-b5afdc603cef"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc7"
+        ],
         "children": [
-          "8fb3d131-0b20-deca-6211-c17816d58926",
-          "0a8a0884-beb3-1d00-ee0e-cf6186af5ea8",
-          "e4e7c283-86ca-2a4a-b68a-e3287d7d69d7"
+          "e623d6d8-937a-97c5-4b5b-faa79ae0471d",
+          "19434ae6-4f05-8b06-9348-cd06f5cd1788",
+          "15858db1-1caa-7f2b-cc78-077818ea7749"
         ],
         "data": {
           "tag": "h3",
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
-          "attr": { "id": "" },
+          "attr": {
+            "id": ""
+          },
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "8fb3d131-0b20-deca-6211-c17816d58926",
+        "_id": "e623d6d8-937a-97c5-4b5b-faa79ae0471d",
         "text": true,
         "v": "Ethereal Men's "
       },
       {
-        "_id": "0a8a0884-beb3-1d00-ee0e-cf6186af5ea8",
+        "_id": "19434ae6-4f05-8b06-9348-cd06f5cd1788",
         "type": "LineBreak",
         "tag": "br",
         "classes": [],
         "children": [],
-        "data": { "sym": { "inst": "LineBreak" } }
+        "data": {
+          "sym": {
+            "inst": "LineBreak"
+          }
+        }
       },
       {
-        "_id": "e4e7c283-86ca-2a4a-b68a-e3287d7d69d7",
+        "_id": "15858db1-1caa-7f2b-cc78-077818ea7749",
         "text": true,
         "v": "Shoes Dunk Low"
       },
       {
-        "_id": "08af6a20-90e3-10dd-1a16-0480ca1f440d",
+        "_id": "18c57f89-b194-3e31-3f60-42cdfd557a65",
         "type": "Paragraph",
         "tag": "p",
-        "classes": ["ef755aca-5388-8958-8239-6951fbb8d11f"],
-        "children": ["e9988ce5-2276-0de4-cf67-7351809c6230"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fbe"
+        ],
+        "children": [
+          "dfd5394c-a221-35d8-b1c7-51c43ef13c47"
+        ],
         "data": {
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
-          "attr": { "id": "" },
+          "attr": {
+            "id": ""
+          },
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "e9988ce5-2276-0de4-cf67-7351809c6230",
+        "_id": "dfd5394c-a221-35d8-b1c7-51c43ef13c47",
         "text": true,
         "v": "Collection of men's sneakers are ready to take you through your day."
       },
       {
-        "_id": "d3640c56-f5ea-7ad7-ebdb-b2a12a187a02",
+        "_id": "0152fe44-54cb-bb61-e586-979c1b1cc95a",
         "type": "Image",
         "tag": "img",
-        "classes": ["6b260d76-a737-355f-8c8c-c9c348df7171"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fbd"
+        ],
         "children": [],
         "data": {
-          "img": { "id": "66aa5520996e97f452dcd786" },
+          "img": {
+            "id": "66aa5520996e97f452dcd786"
+          },
           "srcsetDisabled": false,
           "attr": {
             "width": "auto",
@@ -431,148 +843,265 @@
             "id": ""
           },
           "sizes": [
-            { "max": 479, "size": "79vw" },
-            { "max": 10000, "size": "334px" }
+            {
+              "max": 10000,
+              "size": "334px"
+            }
           ],
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "ad146892-6325-e700-75f4-6ebb4f6145aa",
+        "_id": "ec8bc50c-487e-48ac-85d4-ea35940f0245",
         "type": "Link",
         "tag": "a",
-        "classes": ["d5ebfdfe-bbf2-ed75-e712-5a98c08ed820"],
-        "children": ["fa94021b-6dc7-7bd7-ca24-0d0d0d5cee24"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc0"
+        ],
+        "children": [
+          "e9ac12d8-288e-d731-35d1-0be35f6869d9"
+        ],
         "data": {
           "button": true,
           "block": "",
-          "link": { "mode": "external", "url": "#" },
-          "attr": { "id": "" },
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
           "xattr": [],
-          "search": { "exclude": true },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": true
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "fa94021b-6dc7-7bd7-ca24-0d0d0d5cee24",
+        "_id": "e9ac12d8-288e-d731-35d1-0be35f6869d9",
         "text": true,
         "v": "View Product"
       },
       {
-        "_id": "39de2e17-3a81-dcb4-09dd-1e3304203ddc",
+        "_id": "3f783c97-7c85-0d41-56a0-504ae9a92295",
         "type": "Link",
         "tag": "a",
-        "classes": ["e39352be-becf-f4c5-3710-f03b05aaffe0"],
-        "children": ["d27785f2-d693-d7f9-4fcf-a81b3e0e28a0"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc2"
+        ],
+        "children": [
+          "0912d57b-3d77-d771-fa7a-2ce8be74a5ed"
+        ],
         "data": {
           "button": false,
           "block": "",
-          "link": { "mode": "external", "url": "#" },
-          "attr": { "id": "" },
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "d27785f2-d693-d7f9-4fcf-a81b3e0e28a0",
+        "_id": "0912d57b-3d77-d771-fa7a-2ce8be74a5ed",
         "text": true,
         "v": "new"
       },
       {
-        "_id": "c384d203-f6dd-93e3-4b46-bf0b46c50140",
-        "type": "DOM",
+        "_id": "b49f575e-b90f-6aa8-f0c8-8c527272b740",
+        "type": "SliderSlide",
         "tag": "div",
         "classes": [
-          "0ea828cf-3ebd-2fa3-3599-57417b215a23",
-          "ca31b1a2-2cc5-aaa8-3596-11fc65ebdc15"
+          "8fdd1c79-bd51-baa1-7a52-4334338b303a"
         ],
         "children": [
-          "4b868414-f3f7-cbe8-9f9c-b16a3367149e",
-          "7c65a777-bdfb-14e3-bac2-6bd63594028f",
-          "efc14f81-9b1f-58d0-7efe-0655dc7ac44a",
-          "ae4e95dc-8996-0fa2-f09d-d686e5b16448",
-          "7b6956bb-5d58-a018-a55a-79db06119b51"
+          "5db6d1c5-60cd-7d1d-efa0-51876e222ccd"
         ],
         "data": {
           "tag": "div",
-          "attributes": [{ "name": "data-element", "value": "flowappz-slide" }]
+          "slider": {
+            "type": "slide"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [
+            {
+              "name": "flowappz-type",
+              "value": "slide"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": [
+              true
+            ]
+          }
         }
       },
       {
-        "_id": "4b868414-f3f7-cbe8-9f9c-b16a3367149e",
+        "_id": "5db6d1c5-60cd-7d1d-efa0-51876e222ccd",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [
+          "0027bc39-ae7f-1345-b71b-df6832fcd40e",
+          "3f609625-88dd-c9f1-4bd1-86f4c279874b"
+        ],
+        "children": [
+          "f757c1a5-b53d-2e55-b946-1f1d510086da",
+          "4f5adc37-c492-e1c1-6fb1-33c67686e1ac",
+          "cbf95859-6c76-2310-2045-6673ef4f24c2",
+          "5c3a7cb0-6cd6-0669-55ca-697932abc03d",
+          "f220220c-2187-7294-6fff-2156911e4d95"
+        ],
+        "data": {
+          "tag": "div",
+          "attributes": [
+            {
+              "name": "data-element",
+              "value": "flowappz-slide"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "f757c1a5-b53d-2e55-b946-1f1d510086da",
         "type": "Heading",
         "tag": "h3",
-        "classes": ["d39940b1-5336-dcde-a2e2-b5afdc603cef"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc7"
+        ],
         "children": [
-          "3f6f8fc0-e49a-b572-9a8a-4a49acf997aa",
-          "62764dd6-6f69-1da2-930f-1be767fa2256",
-          "7ab7474b-aab9-eb60-d21d-8b8336e61d57"
+          "e49072d4-19c7-b840-8560-e11980b4f381",
+          "08068a6e-5fad-4617-2099-af8f4e6067f5",
+          "1fd298e1-e452-6428-d7be-4c43eb5269bf"
         ],
         "data": {
           "tag": "h3",
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
-          "attr": { "id": "" },
+          "attr": {
+            "id": ""
+          },
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "3f6f8fc0-e49a-b572-9a8a-4a49acf997aa",
+        "_id": "e49072d4-19c7-b840-8560-e11980b4f381",
         "text": true,
         "v": "Ethereal Men's "
       },
       {
-        "_id": "62764dd6-6f69-1da2-930f-1be767fa2256",
+        "_id": "08068a6e-5fad-4617-2099-af8f4e6067f5",
         "type": "LineBreak",
         "tag": "br",
         "classes": [],
         "children": [],
-        "data": { "sym": { "inst": "LineBreak" } }
+        "data": {
+          "sym": {
+            "inst": "LineBreak"
+          }
+        }
       },
       {
-        "_id": "7ab7474b-aab9-eb60-d21d-8b8336e61d57",
+        "_id": "1fd298e1-e452-6428-d7be-4c43eb5269bf",
         "text": true,
         "v": "Shoes Dunk Low"
       },
       {
-        "_id": "7c65a777-bdfb-14e3-bac2-6bd63594028f",
+        "_id": "4f5adc37-c492-e1c1-6fb1-33c67686e1ac",
         "type": "Paragraph",
         "tag": "p",
-        "classes": ["ef755aca-5388-8958-8239-6951fbb8d11f"],
-        "children": ["a97bd9ed-06f9-68e3-2674-629fe353821b"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fbe"
+        ],
+        "children": [
+          "fece31c2-419e-6178-8d5f-e194f981c2d8"
+        ],
         "data": {
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
-          "attr": { "id": "" },
+          "attr": {
+            "id": ""
+          },
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "a97bd9ed-06f9-68e3-2674-629fe353821b",
+        "_id": "fece31c2-419e-6178-8d5f-e194f981c2d8",
         "text": true,
         "v": "Collection of men's sneakers are ready to take you through your day."
       },
       {
-        "_id": "efc14f81-9b1f-58d0-7efe-0655dc7ac44a",
+        "_id": "cbf95859-6c76-2310-2045-6673ef4f24c2",
         "type": "Image",
         "tag": "img",
-        "classes": ["6b260d76-a737-355f-8c8c-c9c348df7171"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fbd"
+        ],
         "children": [],
         "data": {
-          "img": { "id": "66aa5520996e97f452dcd786" },
+          "img": {
+            "id": "66aa5520996e97f452dcd786"
+          },
           "srcsetDisabled": false,
           "attr": {
             "width": "auto",
@@ -583,144 +1112,265 @@
             "id": ""
           },
           "sizes": [
-            { "max": 479, "size": "79vw" },
-            { "max": 10000, "size": "334px" }
+            {
+              "max": 10000,
+              "size": "334px"
+            }
           ],
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "ae4e95dc-8996-0fa2-f09d-d686e5b16448",
+        "_id": "5c3a7cb0-6cd6-0669-55ca-697932abc03d",
         "type": "Link",
         "tag": "a",
-        "classes": ["d5ebfdfe-bbf2-ed75-e712-5a98c08ed820"],
-        "children": ["37a2732a-fe5d-60e2-e0d7-84c017f300f1"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc0"
+        ],
+        "children": [
+          "a729367c-0d24-cb5b-ed88-6eb47ee4e361"
+        ],
         "data": {
           "button": true,
           "block": "",
-          "link": { "mode": "external", "url": "#" },
-          "attr": { "id": "" },
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
           "xattr": [],
-          "search": { "exclude": true },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": true
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "37a2732a-fe5d-60e2-e0d7-84c017f300f1",
+        "_id": "a729367c-0d24-cb5b-ed88-6eb47ee4e361",
         "text": true,
         "v": "View Product"
       },
       {
-        "_id": "7b6956bb-5d58-a018-a55a-79db06119b51",
+        "_id": "f220220c-2187-7294-6fff-2156911e4d95",
         "type": "Link",
         "tag": "a",
-        "classes": ["e39352be-becf-f4c5-3710-f03b05aaffe0"],
-        "children": ["57e4e1ef-4a66-6d85-28a6-5b785c28e37e"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc2"
+        ],
+        "children": [
+          "3de311ba-75d0-a0e0-fc80-ed3ada6cfaed"
+        ],
         "data": {
           "button": false,
           "block": "",
-          "link": { "mode": "external", "url": "#" },
-          "attr": { "id": "" },
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "57e4e1ef-4a66-6d85-28a6-5b785c28e37e",
+        "_id": "3de311ba-75d0-a0e0-fc80-ed3ada6cfaed",
         "text": true,
         "v": "new"
       },
       {
-        "_id": "a0f5bf7a-bb11-7a03-73fd-3d74afd0eabf",
-        "type": "DOM",
+        "_id": "2ca52082-cf69-ef90-0ad7-546f2fd43ee2",
+        "type": "SliderSlide",
         "tag": "div",
-        "classes": ["0ea828cf-3ebd-2fa3-3599-57417b215a23"],
+        "classes": [
+          "8fdd1c79-bd51-baa1-7a52-4334338b303a"
+        ],
         "children": [
-          "03d72df5-d105-155d-c188-b550bed62336",
-          "e2afd770-c3e7-b935-1f70-de79f83036b8",
-          "d943816e-c20e-3657-2185-fd848f55d9b5",
-          "9a2f6e24-d822-0cad-3539-41ec9654a40b"
+          "9fdfb95f-9e34-4ab7-303b-dde6b777e03f"
         ],
         "data": {
           "tag": "div",
-          "attributes": [{ "name": "data-element", "value": "flowappz-slide" }]
+          "slider": {
+            "type": "slide"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [
+            {
+              "name": "flowappz-type",
+              "value": "slide"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": [
+              true
+            ]
+          }
         }
       },
       {
-        "_id": "03d72df5-d105-155d-c188-b550bed62336",
+        "_id": "9fdfb95f-9e34-4ab7-303b-dde6b777e03f",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [
+          "0027bc39-ae7f-1345-b71b-df6832fcd40e",
+          "28bf77b9-d237-f4d7-1d89-09b20b585ca6"
+        ],
+        "children": [
+          "2fe3cecd-c238-522f-30ce-8c99b4ad37d2",
+          "52a922c9-d4ad-a090-cc3a-8bea9ef2b478",
+          "e05a2d91-44ad-51f4-430f-2fe5e82dff30",
+          "7b40d091-cc2c-7a30-30e6-ed6fa34797b6",
+          "e62f847b-8b7f-c6e3-e326-88f5df7d512d"
+        ],
+        "data": {
+          "tag": "div",
+          "attributes": [
+            {
+              "name": "data-element",
+              "value": "flowappz-slide"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "2fe3cecd-c238-522f-30ce-8c99b4ad37d2",
         "type": "Heading",
         "tag": "h3",
-        "classes": ["d39940b1-5336-dcde-a2e2-b5afdc603cef"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc7"
+        ],
         "children": [
-          "f969e0e0-a0e8-2c1f-b617-2f4632164265",
-          "775cb2d7-e6a9-6ca0-76b9-3d9fff609a59",
-          "21699eba-4e20-9702-d266-d984c02b4bcd"
+          "19a4a336-2cf1-7f83-9c1b-aaeea61c4bfb",
+          "e6f274d8-ab77-b3bc-d72d-9e9bf424ca53",
+          "a0d69dc1-4a68-67cb-e0c5-de5f5f9bdf20"
         ],
         "data": {
           "tag": "h3",
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
-          "attr": { "id": "" },
+          "attr": {
+            "id": ""
+          },
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "f969e0e0-a0e8-2c1f-b617-2f4632164265",
+        "_id": "19a4a336-2cf1-7f83-9c1b-aaeea61c4bfb",
         "text": true,
         "v": "Ethereal Men's "
       },
       {
-        "_id": "775cb2d7-e6a9-6ca0-76b9-3d9fff609a59",
+        "_id": "e6f274d8-ab77-b3bc-d72d-9e9bf424ca53",
         "type": "LineBreak",
         "tag": "br",
         "classes": [],
         "children": [],
-        "data": { "sym": { "inst": "LineBreak" } }
+        "data": {
+          "sym": {
+            "inst": "LineBreak"
+          }
+        }
       },
       {
-        "_id": "21699eba-4e20-9702-d266-d984c02b4bcd",
+        "_id": "a0d69dc1-4a68-67cb-e0c5-de5f5f9bdf20",
         "text": true,
         "v": "Shoes Dunk Low"
       },
       {
-        "_id": "e2afd770-c3e7-b935-1f70-de79f83036b8",
+        "_id": "52a922c9-d4ad-a090-cc3a-8bea9ef2b478",
         "type": "Paragraph",
         "tag": "p",
-        "classes": ["ef755aca-5388-8958-8239-6951fbb8d11f"],
-        "children": ["38b3bd55-56ad-bfe9-5d71-9dbeacf33ec4"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fbe"
+        ],
+        "children": [
+          "fcf7e0a0-4ff2-74c0-c2f1-6f24bdde85fb"
+        ],
         "data": {
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
-          "attr": { "id": "" },
+          "attr": {
+            "id": ""
+          },
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "38b3bd55-56ad-bfe9-5d71-9dbeacf33ec4",
+        "_id": "fcf7e0a0-4ff2-74c0-c2f1-6f24bdde85fb",
         "text": true,
         "v": "Collection of men's sneakers are ready to take you through your day."
       },
       {
-        "_id": "d943816e-c20e-3657-2185-fd848f55d9b5",
+        "_id": "e05a2d91-44ad-51f4-430f-2fe5e82dff30",
         "type": "Image",
         "tag": "img",
-        "classes": ["6b260d76-a737-355f-8c8c-c9c348df7171"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fbd"
+        ],
         "children": [],
         "data": {
-          "img": { "id": "66aa5520996e97f452dcd786" },
+          "img": {
+            "id": "66aa5520996e97f452dcd786"
+          },
           "srcsetDisabled": false,
           "attr": {
             "width": "auto",
@@ -731,141 +1381,588 @@
             "id": ""
           },
           "sizes": [
-            { "max": 479, "size": "79vw" },
-            { "max": 10000, "size": "334px" }
+            {
+              "max": 10000,
+              "size": "334px"
+            }
           ],
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "9a2f6e24-d822-0cad-3539-41ec9654a40b",
+        "_id": "7b40d091-cc2c-7a30-30e6-ed6fa34797b6",
         "type": "Link",
         "tag": "a",
-        "classes": ["d5ebfdfe-bbf2-ed75-e712-5a98c08ed820"],
-        "children": ["e5a97c95-9f60-cdf5-6920-bfc6537174a0"],
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc0"
+        ],
+        "children": [
+          "34fd05ee-5aff-758b-0416-73c06d57ee69"
+        ],
         "data": {
           "button": true,
           "block": "",
-          "link": { "mode": "external", "url": "#" },
-          "attr": { "id": "" },
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
           "xattr": [],
-          "search": { "exclude": true },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": true
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "e5a97c95-9f60-cdf5-6920-bfc6537174a0",
+        "_id": "34fd05ee-5aff-758b-0416-73c06d57ee69",
         "text": true,
         "v": "View Product"
       },
       {
-        "_id": "5fdb0835-0d00-e3ed-1f92-c6df7edc210f",
-        "type": "DOM",
-        "tag": "div",
-        "classes": ["b1b65e82-d632-0d36-f0ce-d7b35c030e54"],
-        "children": [
-          "e773c1f4-cbcc-6dc3-2849-23dec95c3bc1",
-          "39107bf8-04b4-6de9-cde0-3c8da1a6f07e",
-          "7440e808-7b1a-da83-d93f-3a20ecb7a65c",
-          "32e86ba4-8479-05b0-2b35-26af8223cf26",
-          "d449cc6c-78e3-b2ed-5694-6d4f9863fb4f"
+        "_id": "e62f847b-8b7f-c6e3-e326-88f5df7d512d",
+        "type": "Link",
+        "tag": "a",
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc2"
         ],
-        "data": { "tag": "div", "attributes": [] }
-      },
-      {
-        "_id": "e773c1f4-cbcc-6dc3-2849-23dec95c3bc1",
-        "type": "DOM",
-        "tag": "div",
-        "classes": ["56dc94f6-fd1c-291d-6934-2da530eaca90"],
-        "children": [],
+        "children": [
+          "96f29b2d-ecfd-119f-a0d0-fdf24e1e3009"
+        ],
         "data": {
-          "tag": "div",
-          "attributes": [
-            { "name": "flowappz", "value": "slider-pagination-bullet" }
-          ]
+          "button": false,
+          "block": "",
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "39107bf8-04b4-6de9-cde0-3c8da1a6f07e",
-        "type": "DOM",
+        "_id": "96f29b2d-ecfd-119f-a0d0-fdf24e1e3009",
+        "text": true,
+        "v": "new"
+      },
+      {
+        "_id": "b1fa358a-b204-6b85-8778-54c93f3a3e6b",
+        "type": "SliderSlide",
         "tag": "div",
-        "classes": ["56dc94f6-fd1c-291d-6934-2da530eaca90"],
-        "children": [],
+        "classes": [
+          "8fdd1c79-bd51-baa1-7a52-4334338b303a"
+        ],
+        "children": [
+          "ac8f32b2-4c78-e134-22a9-b28fbb2d6dff"
+        ],
         "data": {
           "tag": "div",
-          "attributes": [
-            { "name": "flowappz", "value": "slider-pagination-bullet" }
-          ]
+          "slider": {
+            "type": "slide"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [
+            {
+              "name": "flowappz-type",
+              "value": "slide"
+            }
+          ],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": [
+              true
+            ]
+          }
         }
       },
       {
-        "_id": "7440e808-7b1a-da83-d93f-3a20ecb7a65c",
-        "type": "DOM",
-        "tag": "div",
-        "classes": ["56dc94f6-fd1c-291d-6934-2da530eaca90"],
-        "children": [],
-        "data": {
-          "tag": "div",
-          "attributes": [
-            { "name": "flowappz", "value": "slider-pagination-bullet" }
-          ]
-        }
-      },
-      {
-        "_id": "32e86ba4-8479-05b0-2b35-26af8223cf26",
-        "type": "DOM",
-        "tag": "div",
-        "classes": ["56dc94f6-fd1c-291d-6934-2da530eaca90"],
-        "children": [],
-        "data": {
-          "tag": "div",
-          "attributes": [
-            { "name": "flowappz", "value": "slider-pagination-bullet" }
-          ]
-        }
-      },
-      {
-        "_id": "d449cc6c-78e3-b2ed-5694-6d4f9863fb4f",
-        "type": "DOM",
-        "tag": "div",
-        "classes": ["56dc94f6-fd1c-291d-6934-2da530eaca90"],
-        "children": [],
-        "data": {
-          "tag": "div",
-          "attributes": [
-            { "name": "flowappz", "value": "slider-pagination-bullet" }
-          ]
-        }
-      },
-      {
-        "_id": "b90a10bf-fa71-3b31-061f-19cc20e6255c",
+        "_id": "ac8f32b2-4c78-e134-22a9-b28fbb2d6dff",
         "type": "DOM",
         "tag": "div",
         "classes": [
-          "3f16f2ae-bf0c-7517-f6e0-0b446cd273e4",
-          "f3d342ab-dd31-cfff-7df4-a2e76c549278",
-          "65a3d11f-eb30-9844-e0f5-60312805e6ce"
+          "0027bc39-ae7f-1345-b71b-df6832fcd40e",
+          "042f7d4a-7ac8-7796-4c9e-10903c18ab88"
         ],
-        "children": ["d178b42b-e2bf-ed80-db3f-2eadd094623e"],
+        "children": [
+          "2b8986d4-81e2-381c-d16d-ea8bb7b506f9",
+          "7f042a30-4f1b-9d46-eeee-d5cee8ec09d8",
+          "4154bc62-cee3-5ff0-0d4c-95f76750c8b3",
+          "b47f952b-9415-54ae-5bf3-087724958fd8",
+          "99ac0c98-8e68-0966-4fdb-eb29178d7a38"
+        ],
         "data": {
           "tag": "div",
-          "attributes": [{ "name": "flowappz", "value": "slider-arrow-left" }]
+          "attributes": [
+            {
+              "name": "data-element",
+              "value": "flowappz-slide"
+            }
+          ]
         }
       },
       {
-        "_id": "d178b42b-e2bf-ed80-db3f-2eadd094623e",
+        "_id": "2b8986d4-81e2-381c-d16d-ea8bb7b506f9",
+        "type": "Heading",
+        "tag": "h3",
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc7"
+        ],
+        "children": [
+          "ade8743a-f2a7-e36b-cb3f-d70a9f2e4fcb",
+          "3be84365-005b-49e0-aa7e-a54b916cd834",
+          "b83fe942-0599-a7ad-b9ed-14d8d262449f"
+        ],
+        "data": {
+          "tag": "h3",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "ade8743a-f2a7-e36b-cb3f-d70a9f2e4fcb",
+        "text": true,
+        "v": "Ethereal Men's "
+      },
+      {
+        "_id": "3be84365-005b-49e0-aa7e-a54b916cd834",
+        "type": "LineBreak",
+        "tag": "br",
+        "classes": [],
+        "children": [],
+        "data": {
+          "sym": {
+            "inst": "LineBreak"
+          }
+        }
+      },
+      {
+        "_id": "b83fe942-0599-a7ad-b9ed-14d8d262449f",
+        "text": true,
+        "v": "Shoes Dunk Low"
+      },
+      {
+        "_id": "7f042a30-4f1b-9d46-eeee-d5cee8ec09d8",
+        "type": "Paragraph",
+        "tag": "p",
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fbe"
+        ],
+        "children": [
+          "2da2a590-8373-bbe3-c73f-659e57d145ed"
+        ],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "2da2a590-8373-bbe3-c73f-659e57d145ed",
+        "text": true,
+        "v": "Collection of men's sneakers are ready to take you through your day."
+      },
+      {
+        "_id": "4154bc62-cee3-5ff0-0d4c-95f76750c8b3",
+        "type": "Image",
+        "tag": "img",
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fbd"
+        ],
+        "children": [],
+        "data": {
+          "img": {
+            "id": "66aa5520996e97f452dcd786"
+          },
+          "srcsetDisabled": false,
+          "attr": {
+            "width": "auto",
+            "height": "auto",
+            "alt": "__wf_reserved_inherit",
+            "src": "https://uploads-ssl.webflow.com/667bcfff695e19dfb6259223/66aa5520996e97f452dcd786_669534b767eb4a777dcde2da_Frame%25206%2520(3)-p-500.png",
+            "loading": "lazy",
+            "id": ""
+          },
+          "sizes": [
+            {
+              "max": 10000,
+              "size": "334px"
+            }
+          ],
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "b47f952b-9415-54ae-5bf3-087724958fd8",
+        "type": "Link",
+        "tag": "a",
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc0"
+        ],
+        "children": [
+          "a538eca7-e643-b953-1b16-9839e18fa9ae"
+        ],
+        "data": {
+          "button": true,
+          "block": "",
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": true
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "a538eca7-e643-b953-1b16-9839e18fa9ae",
+        "text": true,
+        "v": "View Product"
+      },
+      {
+        "_id": "99ac0c98-8e68-0966-4fdb-eb29178d7a38",
+        "type": "Link",
+        "tag": "a",
+        "classes": [
+          "d602155c-1ef1-2b90-3cca-c90a49439fc2"
+        ],
+        "children": [
+          "cb89acb9-a2d6-43d2-14f2-e488c313e233"
+        ],
+        "data": {
+          "button": false,
+          "block": "",
+          "link": {
+            "mode": "external",
+            "url": "#"
+          },
+          "attr": {
+            "id": ""
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "cb89acb9-a2d6-43d2-14f2-e488c313e233",
+        "text": true,
+        "v": "new"
+      },
+      {
+        "_id": "ac5ade4e-aa5e-f2f1-8234-97ab56203557",
+        "type": "SliderArrow",
+        "tag": "div",
+        "classes": [],
+        "children": [
+          "373f99e0-0911-8aaf-ddaa-aa5bebbbfde4"
+        ],
+        "data": {
+          "slider": {
+            "dir": "left"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": [
+              false
+            ]
+          }
+        }
+      },
+      {
+        "_id": "373f99e0-0911-8aaf-ddaa-aa5bebbbfde4",
+        "type": "Icon",
+        "tag": "div",
+        "classes": [],
+        "children": [],
+        "data": {
+          "search": {
+            "exclude": true
+          },
+          "widget": {
+            "type": "icon",
+            "icon": "slider-left"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "cf50166a-83bf-50b4-b7b0-f5c1f7103202",
+        "type": "SliderArrow",
+        "tag": "div",
+        "classes": [],
+        "children": [
+          "4efb824e-ea25-9104-3f0a-d29181dee06c"
+        ],
+        "data": {
+          "slider": {
+            "dir": "right"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": [
+              false
+            ]
+          }
+        }
+      },
+      {
+        "_id": "4efb824e-ea25-9104-3f0a-d29181dee06c",
+        "type": "Icon",
+        "tag": "div",
+        "classes": [],
+        "children": [],
+        "data": {
+          "search": {
+            "exclude": true
+          },
+          "widget": {
+            "type": "icon",
+            "icon": "slider-right"
+          },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "7467ed23-eb00-dad7-d5c2-4fdb3df08748",
+        "type": "SliderNav",
+        "tag": "div",
+        "classes": [
+          "8fdd1c79-bd51-baa1-7a52-4334338b3036"
+        ],
+        "children": [],
+        "data": {
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          },
+          "slider": {
+            "type": "nav"
+          }
+        }
+      },
+      {
+        "_id": "bf863289-a90d-2892-3516-3a12bc8cb66b",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "8fdd1c79-bd51-baa1-7a52-4334338b3034"
+        ],
+        "children": [],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "9b29dfa1-a686-7797-bfed-18dde7437f0c",
+        "type": "Block",
+        "tag": "div",
+        "classes": [
+          "8c5091a5-7ea0-bc5c-15ef-1792f8ebc61a",
+          "c9ff0947-c02a-bb19-b732-ebb9292da12f"
+        ],
+        "children": [
+          "63f65950-29c8-84d8-4b14-4b509fe6c030"
+        ],
+        "data": {
+          "text": false,
+          "tag": "div",
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
+        }
+      },
+      {
+        "_id": "63f65950-29c8-84d8-4b14-4b509fe6c030",
         "type": "Image",
         "tag": "img",
         "classes": [],
         "children": [],
         "data": {
-          "img": { "id": "66aa5233590a635dcbe7b85f" },
+          "img": {
+            "id": "66aa5233590a635dcbe7b85f"
+          },
           "srcsetDisabled": false,
           "attr": {
             "width": "auto",
@@ -876,36 +1973,61 @@
             "id": ""
           },
           "sizes": [],
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "02f626e0-d3d7-d93d-45d8-8f33d3d2037c",
-        "type": "DOM",
+        "_id": "b87ffb51-6247-4938-a959-4abad28d3211",
+        "type": "Block",
         "tag": "div",
         "classes": [
-          "3f16f2ae-bf0c-7517-f6e0-0b446cd273e4",
-          "b02a25c0-ad64-4539-7643-47c792bd3bfb",
-          "fc652495-32dc-f90c-aabe-801016298ca0"
+          "1b4bdc6c-cd6a-29f0-5a65-5eef24f4458e",
+          "4a57eb03-16c3-6365-461a-d45884de35b8"
         ],
-        "children": ["2409d5a0-7bf9-0055-8d22-4997a131879b"],
+        "children": [
+          "0b8560bf-a293-6cf0-56f4-b2a789d9c653"
+        ],
         "data": {
+          "text": false,
           "tag": "div",
-          "attributes": [{ "name": "flowappz", "value": "slider-arrow-right" }]
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
+          "displayName": "",
+          "attr": {
+            "id": ""
+          },
+          "xattr": [],
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       },
       {
-        "_id": "2409d5a0-7bf9-0055-8d22-4997a131879b",
+        "_id": "0b8560bf-a293-6cf0-56f4-b2a789d9c653",
         "type": "Image",
         "tag": "img",
         "classes": [],
         "children": [],
         "data": {
-          "img": { "id": "66aa5203e27461f9c6d463f4" },
+          "img": {
+            "id": "66aa5203e27461f9c6d463f4"
+          },
           "srcsetDisabled": false,
           "attr": {
             "width": "auto",
@@ -916,96 +2038,30 @@
             "id": ""
           },
           "sizes": [],
-          "devlink": { "runtimeProps": {}, "slot": "" },
+          "devlink": {
+            "runtimeProps": {},
+            "slot": ""
+          },
           "displayName": "",
           "xattr": [],
-          "search": { "exclude": false },
-          "visibility": { "conditions": [] }
-        }
-      },
-      {
-        "_id": "974486b1-ff08-7abb-b7e7-2e5d4fbc2d4b",
-        "type": "DOM",
-        "tag": "div",
-        "classes": ["ff105454-4898-3522-6697-7e95ad80f5b8"],
-        "children": [
-          "b27a884d-c064-1e12-da63-bf90e49f0096",
-          "3b482e62-3a93-e8eb-78c1-62e24be5c22a",
-          "47efeab4-fa37-742a-0fb9-ffb2b1d6fa63"
-        ],
-        "data": {
-          "tag": "div",
-          "attributes": [
-            { "name": "flowappz", "value": "slider-counter-wrapper" }
-          ]
-        }
-      },
-      {
-        "_id": "b27a884d-c064-1e12-da63-bf90e49f0096",
-        "type": "DOM",
-        "tag": "div",
-        "classes": [],
-        "children": [],
-        "data": {
-          "tag": "div",
-          "attributes": [
-            { "name": "flowappz-active-counter", "value": "true" },
-            { "name": "flowappz", "value": "slider-active-counter" }
-          ]
-        }
-      },
-      {
-        "_id": "3b482e62-3a93-e8eb-78c1-62e24be5c22a",
-        "type": "DOM",
-        "tag": "div",
-        "classes": [],
-        "children": ["efa6d631-0962-1392-1956-6821ceade513"],
-        "data": { "tag": "span", "attributes": [] }
-      },
-      { "_id": "efa6d631-0962-1392-1956-6821ceade513", "text": true, "v": "/" },
-      {
-        "_id": "47efeab4-fa37-742a-0fb9-ffb2b1d6fa63",
-        "type": "DOM",
-        "tag": "div",
-        "classes": [],
-        "children": [],
-        "data": {
-          "tag": "div",
-          "attributes": [
-            { "name": "flowappz-total-counter", "value": "true" },
-            { "name": "flowappz", "value": "slider-total-counter" }
-          ]
+          "search": {
+            "exclude": false
+          },
+          "visibility": {
+            "conditions": []
+          }
         }
       }
     ],
     "styles": [
       {
-        "_id": "f3d342ab-dd31-cfff-7df4-a2e76c549278",
+        "_id": "c9ff0947-c02a-bb19-b732-ebb9292da12f",
         "fake": false,
         "type": "class",
-        "name": "flowappz-slider-navigation-left-btn",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "left: 5px;",
-        "variants": {},
-        "children": [
-          "b9697fe3-82d3-7a1e-8a25-fb922d484766",
-          "2c319593-2748-ea47-bd9c-1febfb409ce3",
-          "65a3d11f-eb30-9844-e0f5-60312805e6ce",
-          "da0da1f1-870f-3c71-21d2-0212fc11d2e0"
-        ],
-        "createdBy": null,
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "fc652495-32dc-f90c-aabe-801016298ca0",
-        "fake": false,
-        "type": "class",
-        "name": "navigation-btn",
+        "name": "flowappz-button-prev",
         "namespace": "",
         "comb": "&",
-        "styleLess": "width: 48px; height: 48px; border-top-style: solid; border-top-width: 1px; border-top-color: hsla(0, 0.00%, 87.06%, 1.00); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(0, 0.00%, 87.06%, 1.00); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(0, 0.00%, 87.06%, 1.00); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(0, 0.00%, 87.06%, 1.00); border-top-left-radius: 50%; border-top-right-radius: 50%; border-bottom-left-radius: 50%; border-bottom-right-radius: 50%; background-color: hsla(0, 0.00%, 100.00%, 1.00);",
+        "styleLess": "",
         "variants": {},
         "children": [],
         "createdBy": "646829a3d35e329536418e31",
@@ -1013,69 +2069,31 @@
         "selector": null
       },
       {
-        "_id": "6b260d76-a737-355f-8c8c-c9c348df7171",
-        "fake": false,
-        "type": "class",
-        "name": "product-image",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "width: 100%; max-width: 334px;",
-        "variants": {},
-        "children": [],
-        "createdBy": "646829a3d35e329536418e31",
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "29bc75d7-1b82-ddbb-43c1-3d287921bc23",
-        "fake": false,
-        "type": "class",
-        "name": "slider-1",
-        "namespace": "",
-        "comb": "&",
-        "styleLess": "background-color: #ffcfcf;",
-        "variants": {},
-        "children": [],
-        "createdBy": "646829a3d35e329536418e31",
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "ef755aca-5388-8958-8239-6951fbb8d11f",
-        "fake": false,
-        "type": "class",
-        "name": "Paragraph",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "font-family: Montserrat; font-weight: 400; letter-spacing: @raw<|0.3px|>;",
-        "variants": {},
-        "children": [],
-        "createdBy": "646829a3d35e329536418e31",
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "b1b65e82-d632-0d36-f0ce-d7b35c030e54",
-        "fake": false,
-        "type": "class",
-        "name": "flowappz-slider-pagination",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "position: absolute; left: 50%; bottom: 0; display: flex; padding-top: 10px; padding-bottom: 10px; justify-content: center; transform: translateX(-50%);",
-        "variants": {},
-        "children": [],
-        "createdBy": null,
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "d5ebfdfe-bbf2-ed75-e712-5a98c08ed820",
+        "_id": "d602155c-1ef1-2b90-3cca-c90a49439fc0",
         "fake": false,
         "type": "class",
         "name": "product-btn",
         "namespace": "",
         "comb": "",
-        "styleLess": "display: flex; width: 100%; margin-top: 35px; justify-content: center; border-top-left-radius: 20px; border-top-right-radius: 20px; border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; background-color: hsla(208.00000000000003, 0.00%, 100.00%, 1.00); font-family: Montserrat; color: hsla(0, 0.00%, 0.00%, 0.80); font-weight: 700;",
+        "styleLess": "display: flex; width: 100%; margin-top: 35px; justify-content: center; border-top-left-radius: 20px; border-top-right-radius: 20px; border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; background-color: hsla(208.00000000000003, 0.00%, 100.00%, 1.00); transition-property: background-color; transition-duration: 200ms; transition-timing-function: ease; font-family: Montserrat; color: hsla(0, 0.00%, 0.00%, 0.80); font-weight: 700;",
+        "variants": {
+          "main_hover": {
+            "styleLess": "background-color: black; color: white;"
+          }
+        },
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "8fdd1c79-bd51-baa1-7a52-4334338b3036",
+        "fake": false,
+        "type": "class",
+        "name": "Slide Nav",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: none;",
         "variants": {},
         "children": [],
         "createdBy": "646829a3d35e329536418e31",
@@ -1083,13 +2101,13 @@
         "selector": null
       },
       {
-        "_id": "ca31b1a2-2cc5-aaa8-3596-11fc65ebdc15",
+        "_id": "042f7d4a-7ac8-7796-4c9e-10903c18ab88",
         "fake": false,
         "type": "class",
-        "name": "slider-4",
+        "name": "shoes-slider-slide-2",
         "namespace": "",
         "comb": "&",
-        "styleLess": "background-color: #cfeeff;",
+        "styleLess": "background-color: hsla(32.49999999999999, 100.00%, 90.59%, 1.00);",
         "variants": {},
         "children": [],
         "createdBy": "646829a3d35e329536418e31",
@@ -1097,138 +2115,111 @@
         "selector": null
       },
       {
-        "_id": "56dc94f6-fd1c-291d-6934-2da530eaca90",
+        "_id": "8fdd1c79-bd51-baa1-7a52-4334338b303a",
         "fake": false,
         "type": "class",
-        "name": "flowappz-slider-pagination-bullet",
+        "name": "flowappz-slide",
         "namespace": "",
         "comb": "",
-        "styleLess": "width: 10px; height: 10px; margin-right: 5px; margin-left: 5px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; border-top-left-radius: 50%; border-top-right-radius: 50%; border-bottom-left-radius: 50%; border-bottom-right-radius: 50%; background-color: #c5c5c5; cursor: pointer;",
-        "variants": {},
-        "children": [],
-        "createdBy": null,
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "e39352be-becf-f4c5-3710-f03b05aaffe0",
-        "fake": false,
-        "type": "class",
-        "name": "tag",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "position: absolute; top: 20px; right: 20px; display: flex; width: 42px; height: 28px; padding-top: 0px; justify-content: center; border-top-left-radius: 12px; border-top-right-radius: 12px; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; background-color: hsla(0, 0.00%, 0.00%, 0.50); font-family: Montserrat; color: hsla(0, 0.00%, 100.00%, 1.00); line-height: 26px; text-decoration: none;",
-        "variants": {},
-        "children": [],
-        "createdBy": "646829a3d35e329536418e31",
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "ff105454-4898-3522-6697-7e95ad80f5b8",
-        "fake": false,
-        "type": "class",
-        "name": "flowappz-counter-wrapper",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "position: absolute; right: 30px; bottom: 30px; display: flex; justify-content: center; align-items: center;",
-        "variants": {},
-        "children": [],
-        "createdBy": null,
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "65a3d11f-eb30-9844-e0f5-60312805e6ce",
-        "fake": false,
-        "type": "class",
-        "name": "navigation-btn",
-        "namespace": "",
-        "comb": "&",
-        "styleLess": "width: 48px; height: 48px; border-top-style: solid; border-top-width: 1px; border-top-color: hsla(0, 0.00%, 87.06%, 1.00); border-right-style: solid; border-right-width: 1px; border-right-color: hsla(0, 0.00%, 87.06%, 1.00); border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: hsla(0, 0.00%, 87.06%, 1.00); border-left-style: solid; border-left-width: 1px; border-left-color: hsla(0, 0.00%, 87.06%, 1.00); border-top-left-radius: 50%; border-top-right-radius: 50%; border-bottom-left-radius: 50%; border-bottom-right-radius: 50%; background-color: white;",
-        "variants": {},
-        "children": [],
-        "createdBy": "646829a3d35e329536418e31",
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "ecc925ce-9120-7f2e-15f9-99a7a834d85e",
-        "fake": false,
-        "type": "class",
-        "name": "slider-3",
-        "namespace": "",
-        "comb": "&",
-        "styleLess": "background-color: #cfffd1;",
-        "variants": {},
-        "children": [],
-        "createdBy": "646829a3d35e329536418e31",
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "a3a177e4-e464-9793-7966-03cfcced36ef",
-        "fake": false,
-        "type": "class",
-        "name": "flowappz--container",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "position: relative; overflow-x: hidden; overflow-y: hidden; width: 100%; height: 550px;",
-        "variants": {},
-        "children": [],
-        "createdBy": null,
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "131d0ba0-5b50-5c5d-fd1d-a1547db1d0aa",
-        "fake": false,
-        "type": "class",
-        "name": "slider-2",
-        "namespace": "",
-        "comb": "&",
-        "styleLess": "background-color: #ffe9cf;",
-        "variants": {},
-        "children": [],
-        "createdBy": "646829a3d35e329536418e31",
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "0ea828cf-3ebd-2fa3-3599-57417b215a23",
-        "fake": false,
-        "type": "class",
-        "name": "flowappz--slide",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "position: relative; display: flex; overflow-x: hidden; overflow-y: hidden; width: 100%; height: 100%; padding-top: 25px; padding-right: 25px; padding-bottom: 25px; padding-left: 25px; flex-direction: column; justify-content: flex-start; flex-wrap: nowrap; align-items: flex-start; border-top-left-radius: 34px; border-top-right-radius: 34px; border-bottom-left-radius: 34px; border-bottom-right-radius: 34px; background-color: #cfffd1;",
+        "styleLess": "width: auto; height: auto; padding-right: 0px; padding-bottom: 0px; background-color: hsla(0, 60.08%, 59.92%, 0.00); flex-shrink: @raw<|0|>;",
         "variants": {},
         "children": [
-          "29bc75d7-1b82-ddbb-43c1-3d287921bc23",
-          "131d0ba0-5b50-5c5d-fd1d-a1547db1d0aa",
-          "ecc925ce-9120-7f2e-15f9-99a7a834d85e",
-          "ca31b1a2-2cc5-aaa8-3596-11fc65ebdc15"
+          "8fdd1c79-bd51-baa1-7a52-4334338b303b",
+          "85bd7eaf-d79b-3da7-732f-0b03a021239c",
+          "2945f211-4758-db44-aa4b-853e2c10d018"
         ],
-        "createdBy": null,
+        "createdBy": "63db4aa639a0ee564d68e5d1",
         "origin": null,
         "selector": null
       },
       {
-        "_id": "b02a25c0-ad64-4539-7643-47c792bd3bfb",
+        "_id": "4a57eb03-16c3-6365-461a-d45884de35b8",
         "fake": false,
         "type": "class",
-        "name": "flowappz-slider-navigation-right-btn",
+        "name": "flowappz-button-next",
         "namespace": "",
-        "comb": "",
-        "styleLess": "right: 5px;",
+        "comb": "&",
+        "styleLess": "",
         "variants": {},
-        "children": ["fc652495-32dc-f90c-aabe-801016298ca0"],
-        "createdBy": null,
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
         "origin": null,
         "selector": null
       },
       {
-        "_id": "d39940b1-5336-dcde-a2e2-b5afdc603cef",
+        "_id": "3f609625-88dd-c9f1-4bd1-86f4c279874b",
+        "fake": false,
+        "type": "class",
+        "name": "shoes-slider-slide-4",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "background-color: hsla(201.25, 100.00%, 90.59%, 1.00);",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "8fdd1c79-bd51-baa1-7a52-4334338b3034",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-pagination",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "d602155c-1ef1-2b90-3cca-c90a49439fbe",
+        "fake": false,
+        "type": "class",
+        "name": "Paragraph 4",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "font-family: Montserrat; font-weight: 400; letter-spacing: @raw<|0.3px|>; white-space: @raw<|wrap|>;",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "36186500-f15e-960b-343a-c9c6d2bea4f6",
+        "fake": false,
+        "type": "class",
+        "name": "shoes-slider-slide-3",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "background-color: hsla(122.49999999999999, 100.00%, 90.59%, 1.00);",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "8c5091a5-7ea0-bc5c-15ef-1792f8ebc61a",
+        "fake": false,
+        "type": "class",
+        "name": "shoes-slider-prev-btn",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: absolute; left: 0%; top: auto; right: auto; bottom: -15%; z-index: 10; display: flex; width: 48px; height: 48px; justify-content: center; align-items: center; border-top-style: solid; border-top-width: 1px; border-top-color: #dedede; border-right-style: solid; border-right-width: 1px; border-right-color: #dedede; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #dedede; border-left-style: solid; border-left-width: 1px; border-left-color: #dedede; border-top-left-radius: 50%; border-top-right-radius: 50%; border-bottom-left-radius: 50%; border-bottom-right-radius: 50%; background-color: white; cursor: pointer;",
+        "variants": {},
+        "children": [
+          "c9ff0947-c02a-bb19-b732-ebb9292da12f"
+        ],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "d602155c-1ef1-2b90-3cca-c90a49439fc7",
         "fake": false,
         "type": "class",
         "name": "product-heading",
@@ -1242,16 +2233,123 @@
         "selector": null
       },
       {
-        "_id": "3f16f2ae-bf0c-7517-f6e0-0b446cd273e4",
+        "_id": "d602155c-1ef1-2b90-3cca-c90a49439fbd",
         "fake": false,
         "type": "class",
-        "name": "flowappz-slider-navigation-btn",
+        "name": "product-image",
         "namespace": "",
         "comb": "",
-        "styleLess": "position: absolute; top: 50%; display: flex; width: 30px; height: 30px; justify-content: center; align-items: center; color: black; cursor: pointer;",
+        "styleLess": "width: 100%; max-width: 334px;",
         "variants": {},
         "children": [],
-        "createdBy": null,
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "d602155c-1ef1-2b90-3cca-c90a49439fc2",
+        "fake": false,
+        "type": "class",
+        "name": "tag",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: absolute; top: 20px; right: 20px; display: flex; width: 42px; height: 28px; padding-top: 0px; justify-content: center; border-top-left-radius: 12px; border-top-right-radius: 12px; border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; background-color: hsla(0, 0.00%, 0.00%, 0.50); font-family: Montserrat; color: hsla(0, 0.00%, 100.00%, 1.00); line-height: 26px; text-decoration: none;",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "1b4bdc6c-cd6a-29f0-5a65-5eef24f4458e",
+        "fake": false,
+        "type": "class",
+        "name": "shoes-slider-next-btn",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: absolute; left: 60px; top: auto; right: auto; bottom: -15%; z-index: 10; display: flex; width: 48px; height: 48px; justify-content: center; align-items: center; border-top-style: solid; border-top-width: 1px; border-top-color: #dedede; border-right-style: solid; border-right-width: 1px; border-right-color: #dedede; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #dedede; border-left-style: solid; border-left-width: 1px; border-left-color: #dedede; border-top-left-radius: 50%; border-top-right-radius: 50%; border-bottom-left-radius: 50%; border-bottom-right-radius: 50%; background-color: white; cursor: pointer;",
+        "variants": {},
+        "children": [
+          "4a57eb03-16c3-6365-461a-d45884de35b8"
+        ],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "0027bc39-ae7f-1345-b71b-df6832fcd40e",
+        "fake": false,
+        "type": "class",
+        "name": "slider-card",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "width: 390px; height: 100%; padding-top: 25px; padding-right: 28px; padding-bottom: 25px; padding-left: 28px; border-top-left-radius: 34px; border-top-right-radius: 34px; border-bottom-left-radius: 34px; border-bottom-right-radius: 34px; background-color: hsla(0, 79.44%, 70.81%, 0.00);",
+        "variants": {},
+        "children": [
+          "28bf77b9-d237-f4d7-1d89-09b20b585ca6",
+          "042f7d4a-7ac8-7796-4c9e-10903c18ab88",
+          "36186500-f15e-960b-343a-c9c6d2bea4f6",
+          "3f609625-88dd-c9f1-4bd1-86f4c279874b"
+        ],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "8fdd1c79-bd51-baa1-7a52-4334338b3035",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-wrapper",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "z-index: 1; overflow: visible; width: 100%; height: 100%;",
+        "variants": {},
+        "children": [],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "28bf77b9-d237-f4d7-1d89-09b20b585ca6",
+        "fake": false,
+        "type": "class",
+        "name": "shoes-slider-slide-1",
+        "namespace": "",
+        "comb": "&",
+        "styleLess": "background-color: hsla(0, 100.00%, 90.59%, 1.00);",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "96569601-59dc-1c5e-29e3-5feecb788968",
+        "fake": false,
+        "type": "class",
+        "name": "shoes-slider-container",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: relative;",
+        "variants": {},
+        "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "8fdd1c79-bd51-baa1-7a52-4334338b3037",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: relative; z-index: 1; display: block; overflow: hidden; width: 100%; height: 100%; margin-right: auto; margin-left: auto; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;",
+        "variants": {},
+        "children": [
+          "db5869ec-596b-9a52-5702-d521640a00b1"
+        ],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
         "origin": null,
         "selector": null
       }
@@ -1319,7 +2417,196 @@
       }
     ],
     "ix1": [],
-    "ix2": { "interactions": [], "events": [], "actionLists": [] }
+    "ix2": {
+      "interactions": [
+        {
+          "id": "i-6",
+          "interactionTypeId": "MOUSE_HOVER_INTERACTION",
+          "eventIds": [
+            "e-11",
+            "e-12"
+          ],
+          "target": "667bcfff695e19dfb625922e|fd9762a5-628c-2d6c-957d-314f0298cda6",
+          "createdOn": 1724152321174
+        }
+      ],
+      "events": [
+        {
+          "id": "e-11",
+          "name": "",
+          "animationType": "custom",
+          "eventTypeId": "MOUSE_OVER",
+          "action": {
+            "id": "",
+            "actionTypeId": "GENERAL_START_ACTION",
+            "instant": true,
+            "config": {
+              "delay": 0,
+              "easing": "",
+              "duration": 0,
+              "actionListId": "a-13",
+              "affectedElements": {},
+              "playInReverse": false,
+              "autoStopEventId": "e-16"
+            }
+          },
+          "mediaQueries": [
+            "main",
+            "medium",
+            "small",
+            "tiny"
+          ],
+          "target": {
+            "id": "667bcfff695e19dfb625922e|fd9762a5-628c-2d6c-957d-314f0298cda6",
+            "appliesTo": "CLASS",
+            "styleBlockIds": [
+              "0027bc39-ae7f-1345-b71b-df6832fcd40e"
+            ]
+          },
+          "targets": [
+            {
+              "id": "667bcfff695e19dfb625922e|fd9762a5-628c-2d6c-957d-314f0298cda6",
+              "appliesTo": "CLASS",
+              "styleBlockIds": [
+                "0027bc39-ae7f-1345-b71b-df6832fcd40e"
+              ]
+            }
+          ],
+          "config": {
+            "loop": false,
+            "playInReverse": false,
+            "scrollOffsetValue": null,
+            "scrollOffsetUnit": null,
+            "delay": null,
+            "direction": null,
+            "effectIn": null
+          },
+          "createdOn": 1724152321175
+        },
+        {
+          "id": "e-12",
+          "name": "",
+          "animationType": "custom",
+          "eventTypeId": "MOUSE_OUT",
+          "action": {
+            "id": "",
+            "actionTypeId": "GENERAL_START_ACTION",
+            "instant": true,
+            "config": {
+              "delay": 0,
+              "easing": "",
+              "duration": 0,
+              "actionListId": "a-14",
+              "affectedElements": {},
+              "playInReverse": false,
+              "autoStopEventId": "e-11"
+            }
+          },
+          "mediaQueries": [
+            "main",
+            "medium",
+            "small",
+            "tiny"
+          ],
+          "target": {
+            "id": "667bcfff695e19dfb625922e|fd9762a5-628c-2d6c-957d-314f0298cda6",
+            "appliesTo": "CLASS",
+            "styleBlockIds": [
+              "0027bc39-ae7f-1345-b71b-df6832fcd40e"
+            ]
+          },
+          "targets": [
+            {
+              "id": "667bcfff695e19dfb625922e|fd9762a5-628c-2d6c-957d-314f0298cda6",
+              "appliesTo": "CLASS",
+              "styleBlockIds": [
+                "0027bc39-ae7f-1345-b71b-df6832fcd40e"
+              ]
+            }
+          ],
+          "config": {
+            "loop": false,
+            "playInReverse": false,
+            "scrollOffsetValue": null,
+            "scrollOffsetUnit": null,
+            "delay": null,
+            "direction": null,
+            "effectIn": null
+          },
+          "createdOn": 1724152321175
+        }
+      ],
+      "actionLists": [
+        {
+          "id": "a-13",
+          "title": "card-hover-in",
+          "actionItemGroups": [
+            {
+              "actionItems": [
+                {
+                  "id": "a-13-n",
+                  "actionTypeId": "TRANSFORM_SCALE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "nodeId": "667bcfff695e19dfb625922e|fd9762a5-628c-2d6c-957d-314f0298cda6",
+                      "appliesTo": "ELEMENT_CLASS",
+                      "styleBlockIds": [
+                        "d602155c-1ef1-2b90-3cca-c90a49439fbd"
+                      ],
+                      "useEventTarget": "CHILDREN",
+                      "boundaryMode": false
+                    },
+                    "xValue": 1.1,
+                    "yValue": 1.1,
+                    "locked": true
+                  },
+                  "instant": false
+                }
+              ]
+            }
+          ],
+          "useFirstGroupAsInitialState": false,
+          "createdOn": 1724151948595
+        },
+        {
+          "id": "a-14",
+          "title": "card-hover-out",
+          "actionItemGroups": [
+            {
+              "actionItems": [
+                {
+                  "id": "a-14-n",
+                  "actionTypeId": "TRANSFORM_SCALE",
+                  "config": {
+                    "delay": 0,
+                    "easing": "",
+                    "duration": 500,
+                    "target": {
+                      "nodeId": "667bcfff695e19dfb625922e|fd9762a5-628c-2d6c-957d-314f0298cda6",
+                      "appliesTo": "ELEMENT_CLASS",
+                      "styleBlockIds": [
+                        "d602155c-1ef1-2b90-3cca-c90a49439fbd"
+                      ],
+                      "useEventTarget": "CHILDREN",
+                      "boundaryMode": false
+                    },
+                    "xValue": 1,
+                    "yValue": 1,
+                    "locked": true
+                  },
+                  "instant": false
+                }
+              ]
+            }
+          ],
+          "useFirstGroupAsInitialState": false,
+          "createdOn": 1724151948595
+        }
+      ]
+    }
   },
   "meta": {
     "droppedLinks": 0,
