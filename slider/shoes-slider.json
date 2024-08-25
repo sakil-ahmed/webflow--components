@@ -3,16 +3,14 @@
   "payload": {
     "nodes": [
       {
-        "_id": "fe923b90-165f-d8b9-7220-2f49bba4b8fe",
+        "_id": "4bd68679-e473-cfed-413e-2db27203ce48",
         "type": "Block",
         "tag": "div",
         "classes": [
           "96569601-59dc-1c5e-29e3-5feecb788968"
         ],
         "children": [
-          "5ec4c681-7489-bf56-ebab-8a20f41a8566",
-          "6dc93710-83c3-e411-3211-7f19bcc7b31d",
-          "7318d464-0da0-aab0-2d67-e31b8ef8ce19"
+          "1bb864ac-73b8-4b03-9593-f2c794a4be7f"
         ],
         "data": {
           "text": false,
@@ -35,18 +33,20 @@
         }
       },
       {
-        "_id": "5ec4c681-7489-bf56-ebab-8a20f41a8566",
+        "_id": "1bb864ac-73b8-4b03-9593-f2c794a4be7f",
         "type": "SliderWrapper",
         "tag": "div",
         "classes": [
           "8fdd1c79-bd51-baa1-7a52-4334338b3037"
         ],
         "children": [
-          "f09b3826-767d-c1bc-bdf9-3e79d3631189",
-          "1793f6f5-8866-3393-bde9-fabf7611609a",
-          "6dd9de98-6888-e45f-0a28-864559570b21",
-          "7be11a64-cfb5-f1d2-4389-32ef4d69329b",
-          "cd3caf66-966a-9a07-ea5d-4f5995f414f1"
+          "ee0d2e43-6b5e-5b64-d363-d401fc922e02",
+          "087208ee-15d4-e901-5f78-1e5c38ae1b3c",
+          "ae8713be-3a5d-71a6-8b24-08d7ae333418",
+          "0ded0004-c0a7-55a7-e409-8505e96a854d",
+          "b0bf781f-6425-6cee-8ddb-260ef8b38872",
+          "5d96f22f-4d94-694d-9fb2-77172ea80572",
+          "ec0b9c11-4a21-3bac-da9d-bbb8021b0f71"
         ],
         "data": {
           "slider": {
@@ -98,19 +98,20 @@
         }
       },
       {
-        "_id": "f09b3826-767d-c1bc-bdf9-3e79d3631189",
+        "_id": "ee0d2e43-6b5e-5b64-d363-d401fc922e02",
         "type": "SliderMask",
         "tag": "div",
         "classes": [
-          "8fdd1c79-bd51-baa1-7a52-4334338b3035"
+          "8fdd1c79-bd51-baa1-7a52-4334338b3035",
+          "fa153327-a976-93a0-5654-2163179ee8ea"
         ],
         "children": [
-          "12aa8b9b-73b9-db32-8e19-6379d5b2ea3c",
-          "dc20f2f3-9fcb-562f-3e5f-932471940ffb",
-          "775fd40c-351e-924f-02ed-1f390a2756b3",
-          "e282ad30-08cc-6023-b01f-5ab6554da8a3",
-          "be781a5b-2be5-d23f-55f8-014cc8020dd3",
-          "19548826-165f-62f7-f614-d3dfe145697e"
+          "b0c50645-dce8-7698-a816-a080a28585a9",
+          "c7725b31-8b9b-6b22-e54e-120655ecdac7",
+          "c4b47e5b-541e-16c8-2a0d-ee2669c35929",
+          "d2df4894-ba82-8ee8-09f1-c0b485e969f2",
+          "a0717001-bfac-95f1-9ec4-5082ca9606b3",
+          "420daefc-e5a6-aa8c-6cda-c996ccf72e13"
         ],
         "data": {
           "devlink": {
@@ -134,7 +135,7 @@
         }
       },
       {
-        "_id": "12aa8b9b-73b9-db32-8e19-6379d5b2ea3c",
+        "_id": "b0c50645-dce8-7698-a816-a080a28585a9",
         "type": "SliderSlide",
         "tag": "div",
         "classes": [
@@ -142,7 +143,7 @@
           "00043c7c-8962-e020-e206-d6c233edad1e"
         ],
         "children": [
-          "002cc67c-bac5-7a6d-9281-9d5be513db08"
+          "c1a7758b-b118-e95f-84b0-22bbe8e1995b"
         ],
         "data": {
           "tag": "div",
@@ -174,7 +175,7 @@
         }
       },
       {
-        "_id": "002cc67c-bac5-7a6d-9281-9d5be513db08",
+        "_id": "c1a7758b-b118-e95f-84b0-22bbe8e1995b",
         "type": "DOM",
         "tag": "div",
         "classes": [
@@ -182,11 +183,11 @@
           "28bf77b9-d237-f4d7-1d89-09b20b585ca6"
         ],
         "children": [
-          "b4f2774d-4a7a-6cd4-0557-7f73e559a394",
-          "ee13e764-937d-720e-53f5-748407537877",
-          "6c165a3e-2c2b-7842-1d21-4d0657b9be22",
-          "b28e348a-82f3-79d9-c9d8-740a0d0ad757",
-          "2a822e0f-8ca4-1f5d-a6a6-2fb2273fb1b8"
+          "fda5a767-f36a-1ef7-db3a-82c4e1f1f7fd",
+          "27424f09-5cc9-25b7-85d1-71afd27e7227",
+          "5a7b45e5-dded-c737-773e-244449078b3b",
+          "316ab927-67d5-ffc1-408c-2e2595800e80",
+          "372bf621-3caf-e436-2107-dcf49539a7b5"
         ],
         "data": {
           "tag": "div",
@@ -199,16 +200,16 @@
         }
       },
       {
-        "_id": "b4f2774d-4a7a-6cd4-0557-7f73e559a394",
+        "_id": "fda5a767-f36a-1ef7-db3a-82c4e1f1f7fd",
         "type": "Heading",
         "tag": "h3",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc7"
         ],
         "children": [
-          "555f72b7-68a3-0238-36f0-ae99af403a7c",
-          "18546702-3811-30a6-10b9-13d46ce83514",
-          "af552d32-ee0d-c7ac-12e1-5021285ef251"
+          "83e0bee7-8135-1277-2914-c05571fbd549",
+          "6909c73e-dbcc-94d3-6556-699e263f3c15",
+          "b1002327-9de4-4a28-3ca0-38a1b5620463"
         ],
         "data": {
           "tag": "h3",
@@ -230,12 +231,12 @@
         }
       },
       {
-        "_id": "555f72b7-68a3-0238-36f0-ae99af403a7c",
+        "_id": "83e0bee7-8135-1277-2914-c05571fbd549",
         "text": true,
         "v": "Ethereal Men's "
       },
       {
-        "_id": "18546702-3811-30a6-10b9-13d46ce83514",
+        "_id": "6909c73e-dbcc-94d3-6556-699e263f3c15",
         "type": "LineBreak",
         "tag": "br",
         "classes": [],
@@ -247,19 +248,19 @@
         }
       },
       {
-        "_id": "af552d32-ee0d-c7ac-12e1-5021285ef251",
+        "_id": "b1002327-9de4-4a28-3ca0-38a1b5620463",
         "text": true,
         "v": "Shoes Dunk Low"
       },
       {
-        "_id": "ee13e764-937d-720e-53f5-748407537877",
+        "_id": "27424f09-5cc9-25b7-85d1-71afd27e7227",
         "type": "Paragraph",
         "tag": "p",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fbe"
         ],
         "children": [
-          "29cf6e2b-bcdc-b698-4a3e-4afc7d825e25"
+          "4e19f6f3-a597-1fd9-4b49-3871d41b3a2a"
         ],
         "data": {
           "devlink": {
@@ -280,12 +281,12 @@
         }
       },
       {
-        "_id": "29cf6e2b-bcdc-b698-4a3e-4afc7d825e25",
+        "_id": "4e19f6f3-a597-1fd9-4b49-3871d41b3a2a",
         "text": true,
         "v": "Collection of men's sneakers are ready to take you through your day."
       },
       {
-        "_id": "6c165a3e-2c2b-7842-1d21-4d0657b9be22",
+        "_id": "5a7b45e5-dded-c737-773e-244449078b3b",
         "type": "Image",
         "tag": "img",
         "classes": [
@@ -326,14 +327,14 @@
         }
       },
       {
-        "_id": "b28e348a-82f3-79d9-c9d8-740a0d0ad757",
+        "_id": "316ab927-67d5-ffc1-408c-2e2595800e80",
         "type": "Link",
         "tag": "a",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc0"
         ],
         "children": [
-          "4f0cdf3d-2d6f-6bb9-72b7-1c5c2c1dab37"
+          "881d8bcd-94df-6404-6da8-80463f41033d"
         ],
         "data": {
           "button": true,
@@ -360,19 +361,19 @@
         }
       },
       {
-        "_id": "4f0cdf3d-2d6f-6bb9-72b7-1c5c2c1dab37",
+        "_id": "881d8bcd-94df-6404-6da8-80463f41033d",
         "text": true,
         "v": "View Product"
       },
       {
-        "_id": "2a822e0f-8ca4-1f5d-a6a6-2fb2273fb1b8",
+        "_id": "372bf621-3caf-e436-2107-dcf49539a7b5",
         "type": "Link",
         "tag": "a",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc2"
         ],
         "children": [
-          "d97f672a-108e-cb77-2061-0515f70d84ca"
+          "ae01e684-de08-2e88-8ead-d4a9da90055e"
         ],
         "data": {
           "button": false,
@@ -399,12 +400,12 @@
         }
       },
       {
-        "_id": "d97f672a-108e-cb77-2061-0515f70d84ca",
+        "_id": "ae01e684-de08-2e88-8ead-d4a9da90055e",
         "text": true,
         "v": "new"
       },
       {
-        "_id": "dc20f2f3-9fcb-562f-3e5f-932471940ffb",
+        "_id": "c7725b31-8b9b-6b22-e54e-120655ecdac7",
         "type": "SliderSlide",
         "tag": "div",
         "classes": [
@@ -412,7 +413,7 @@
           "00043c7c-8962-e020-e206-d6c233edad1e"
         ],
         "children": [
-          "67d13d77-c3b8-21b2-fd0b-432285a64008"
+          "6e3997c2-4dbb-0afe-7f83-a0766c6a3e3a"
         ],
         "data": {
           "tag": "div",
@@ -444,7 +445,7 @@
         }
       },
       {
-        "_id": "67d13d77-c3b8-21b2-fd0b-432285a64008",
+        "_id": "6e3997c2-4dbb-0afe-7f83-a0766c6a3e3a",
         "type": "DOM",
         "tag": "div",
         "classes": [
@@ -452,11 +453,11 @@
           "042f7d4a-7ac8-7796-4c9e-10903c18ab88"
         ],
         "children": [
-          "a0c57bf0-8f1e-401c-0adf-a7aaa4ebc1d9",
-          "edb2e151-b7cc-c12a-d9e9-5b8d1a1da0c8",
-          "8364849f-d127-6d2c-eb24-4f2ed27e1e37",
-          "04f01536-266e-8e58-d834-714d7a22e34a",
-          "9aa7644e-d5e0-883c-f35e-a14d8aa75587"
+          "cb103524-8555-b484-4f5d-a04d4749aca4",
+          "7e2a1144-bc6c-50e0-c692-35195c60d0c9",
+          "0b88537e-7eeb-8c7c-729f-16715526cbbb",
+          "a223c4ee-c5e7-c129-5f42-03cfb00a13c3",
+          "81662bfc-64b8-f679-7007-486f24241b57"
         ],
         "data": {
           "tag": "div",
@@ -469,16 +470,16 @@
         }
       },
       {
-        "_id": "a0c57bf0-8f1e-401c-0adf-a7aaa4ebc1d9",
+        "_id": "cb103524-8555-b484-4f5d-a04d4749aca4",
         "type": "Heading",
         "tag": "h3",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc7"
         ],
         "children": [
-          "5be31f63-35ba-63aa-56cd-d8700b783a21",
-          "9ca5af46-9e18-836c-f787-f5ed01b3642e",
-          "0df4ebfa-53c2-d5fc-bba3-be6feca62854"
+          "78b79161-f9cf-2110-1301-2ed7d2b565b4",
+          "95cd12e4-fc3f-3ca4-4048-22894fb7930c",
+          "5fddb38a-ced2-612f-5b30-eecb93ad00ca"
         ],
         "data": {
           "tag": "h3",
@@ -500,12 +501,12 @@
         }
       },
       {
-        "_id": "5be31f63-35ba-63aa-56cd-d8700b783a21",
+        "_id": "78b79161-f9cf-2110-1301-2ed7d2b565b4",
         "text": true,
         "v": "Ethereal Men's "
       },
       {
-        "_id": "9ca5af46-9e18-836c-f787-f5ed01b3642e",
+        "_id": "95cd12e4-fc3f-3ca4-4048-22894fb7930c",
         "type": "LineBreak",
         "tag": "br",
         "classes": [],
@@ -517,19 +518,19 @@
         }
       },
       {
-        "_id": "0df4ebfa-53c2-d5fc-bba3-be6feca62854",
+        "_id": "5fddb38a-ced2-612f-5b30-eecb93ad00ca",
         "text": true,
         "v": "Shoes Dunk Low"
       },
       {
-        "_id": "edb2e151-b7cc-c12a-d9e9-5b8d1a1da0c8",
+        "_id": "7e2a1144-bc6c-50e0-c692-35195c60d0c9",
         "type": "Paragraph",
         "tag": "p",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fbe"
         ],
         "children": [
-          "04a9bea9-3f5a-127d-600b-ce5c798eaa46"
+          "34df4b92-7ba1-126d-0373-dd3eff10034d"
         ],
         "data": {
           "devlink": {
@@ -550,12 +551,12 @@
         }
       },
       {
-        "_id": "04a9bea9-3f5a-127d-600b-ce5c798eaa46",
+        "_id": "34df4b92-7ba1-126d-0373-dd3eff10034d",
         "text": true,
         "v": "Collection of men's sneakers are ready to take you through your day."
       },
       {
-        "_id": "8364849f-d127-6d2c-eb24-4f2ed27e1e37",
+        "_id": "0b88537e-7eeb-8c7c-729f-16715526cbbb",
         "type": "Image",
         "tag": "img",
         "classes": [
@@ -596,14 +597,14 @@
         }
       },
       {
-        "_id": "04f01536-266e-8e58-d834-714d7a22e34a",
+        "_id": "a223c4ee-c5e7-c129-5f42-03cfb00a13c3",
         "type": "Link",
         "tag": "a",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc0"
         ],
         "children": [
-          "2ab93b52-6db8-45c0-7aa4-24a15459961a"
+          "617bd27e-76f8-ed7f-7242-227afe43afca"
         ],
         "data": {
           "button": true,
@@ -630,19 +631,19 @@
         }
       },
       {
-        "_id": "2ab93b52-6db8-45c0-7aa4-24a15459961a",
+        "_id": "617bd27e-76f8-ed7f-7242-227afe43afca",
         "text": true,
         "v": "View Product"
       },
       {
-        "_id": "9aa7644e-d5e0-883c-f35e-a14d8aa75587",
+        "_id": "81662bfc-64b8-f679-7007-486f24241b57",
         "type": "Link",
         "tag": "a",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc2"
         ],
         "children": [
-          "563da65a-04d4-b564-a349-fcf131a6c3ee"
+          "ca0b7808-ce97-26c4-ec88-e01a34cb44fc"
         ],
         "data": {
           "button": false,
@@ -669,12 +670,12 @@
         }
       },
       {
-        "_id": "563da65a-04d4-b564-a349-fcf131a6c3ee",
+        "_id": "ca0b7808-ce97-26c4-ec88-e01a34cb44fc",
         "text": true,
         "v": "new"
       },
       {
-        "_id": "775fd40c-351e-924f-02ed-1f390a2756b3",
+        "_id": "c4b47e5b-541e-16c8-2a0d-ee2669c35929",
         "type": "SliderSlide",
         "tag": "div",
         "classes": [
@@ -682,7 +683,7 @@
           "00043c7c-8962-e020-e206-d6c233edad1e"
         ],
         "children": [
-          "e28b5943-cd6b-6d9e-b560-e158a8e0fc8b"
+          "d91c52c7-b985-1958-cf61-6e9611e4d85f"
         ],
         "data": {
           "tag": "div",
@@ -714,7 +715,7 @@
         }
       },
       {
-        "_id": "e28b5943-cd6b-6d9e-b560-e158a8e0fc8b",
+        "_id": "d91c52c7-b985-1958-cf61-6e9611e4d85f",
         "type": "DOM",
         "tag": "div",
         "classes": [
@@ -722,11 +723,11 @@
           "36186500-f15e-960b-343a-c9c6d2bea4f6"
         ],
         "children": [
-          "fe6b85c4-76cc-68e1-c72c-2a4fa291b7c9",
-          "a8afdaf0-ab14-dfc0-810e-371a2608e410",
-          "93bd6951-1c7d-569f-b78a-bff947bf8813",
-          "d6b1485d-0544-51dc-2fb2-36abf755c099",
-          "6518f6ac-439c-890f-032f-f1d141b62db1"
+          "18c792b3-e687-95a6-f319-92ae5eb091d7",
+          "626e7abb-31c2-d5a7-c1f4-94ae19461e80",
+          "77ddab7e-e0b3-07e4-7b10-e0072f7f7fb7",
+          "7f590dd4-670d-40cc-1561-72232b99562a",
+          "441b15cb-b345-3b12-3115-64900312a30c"
         ],
         "data": {
           "tag": "div",
@@ -739,16 +740,16 @@
         }
       },
       {
-        "_id": "fe6b85c4-76cc-68e1-c72c-2a4fa291b7c9",
+        "_id": "18c792b3-e687-95a6-f319-92ae5eb091d7",
         "type": "Heading",
         "tag": "h3",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc7"
         ],
         "children": [
-          "640ca1cb-83c6-606d-b9e4-f0cc29804e09",
-          "c0a74daf-c2e5-3c27-5f73-eef34877501e",
-          "99ebd227-0372-c047-51d2-e3947b1b60f9"
+          "649ce355-06de-7574-f8d5-80479d69d9e9",
+          "543e4b53-ee79-0f1a-c612-3cb626d86dd2",
+          "82521bb9-9f30-abe2-5021-361f8ff80354"
         ],
         "data": {
           "tag": "h3",
@@ -770,12 +771,12 @@
         }
       },
       {
-        "_id": "640ca1cb-83c6-606d-b9e4-f0cc29804e09",
+        "_id": "649ce355-06de-7574-f8d5-80479d69d9e9",
         "text": true,
         "v": "Ethereal Men's "
       },
       {
-        "_id": "c0a74daf-c2e5-3c27-5f73-eef34877501e",
+        "_id": "543e4b53-ee79-0f1a-c612-3cb626d86dd2",
         "type": "LineBreak",
         "tag": "br",
         "classes": [],
@@ -787,19 +788,19 @@
         }
       },
       {
-        "_id": "99ebd227-0372-c047-51d2-e3947b1b60f9",
+        "_id": "82521bb9-9f30-abe2-5021-361f8ff80354",
         "text": true,
         "v": "Shoes Dunk Low"
       },
       {
-        "_id": "a8afdaf0-ab14-dfc0-810e-371a2608e410",
+        "_id": "626e7abb-31c2-d5a7-c1f4-94ae19461e80",
         "type": "Paragraph",
         "tag": "p",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fbe"
         ],
         "children": [
-          "3befaab0-cb03-950f-ad64-ae851f04bfc3"
+          "f490c0df-cb1c-cb32-9dac-1966777d9cdc"
         ],
         "data": {
           "devlink": {
@@ -820,12 +821,12 @@
         }
       },
       {
-        "_id": "3befaab0-cb03-950f-ad64-ae851f04bfc3",
+        "_id": "f490c0df-cb1c-cb32-9dac-1966777d9cdc",
         "text": true,
         "v": "Collection of men's sneakers are ready to take you through your day."
       },
       {
-        "_id": "93bd6951-1c7d-569f-b78a-bff947bf8813",
+        "_id": "77ddab7e-e0b3-07e4-7b10-e0072f7f7fb7",
         "type": "Image",
         "tag": "img",
         "classes": [
@@ -866,14 +867,14 @@
         }
       },
       {
-        "_id": "d6b1485d-0544-51dc-2fb2-36abf755c099",
+        "_id": "7f590dd4-670d-40cc-1561-72232b99562a",
         "type": "Link",
         "tag": "a",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc0"
         ],
         "children": [
-          "7945a804-51c0-bdfe-997f-a750754a45b1"
+          "5b4e6daf-32ca-738c-0648-ccfef6cb334c"
         ],
         "data": {
           "button": true,
@@ -900,19 +901,19 @@
         }
       },
       {
-        "_id": "7945a804-51c0-bdfe-997f-a750754a45b1",
+        "_id": "5b4e6daf-32ca-738c-0648-ccfef6cb334c",
         "text": true,
         "v": "View Product"
       },
       {
-        "_id": "6518f6ac-439c-890f-032f-f1d141b62db1",
+        "_id": "441b15cb-b345-3b12-3115-64900312a30c",
         "type": "Link",
         "tag": "a",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc2"
         ],
         "children": [
-          "e4f0c0fc-e6fc-e4f8-6ded-8255d0443c2b"
+          "b9ff7223-292e-be29-f71c-53de1b353dda"
         ],
         "data": {
           "button": false,
@@ -939,12 +940,12 @@
         }
       },
       {
-        "_id": "e4f0c0fc-e6fc-e4f8-6ded-8255d0443c2b",
+        "_id": "b9ff7223-292e-be29-f71c-53de1b353dda",
         "text": true,
         "v": "new"
       },
       {
-        "_id": "e282ad30-08cc-6023-b01f-5ab6554da8a3",
+        "_id": "d2df4894-ba82-8ee8-09f1-c0b485e969f2",
         "type": "SliderSlide",
         "tag": "div",
         "classes": [
@@ -952,7 +953,7 @@
           "00043c7c-8962-e020-e206-d6c233edad1e"
         ],
         "children": [
-          "405b8850-35c1-5a81-de6b-03099e5edc04"
+          "89fdf8fb-5d2f-67b2-68a6-04ab4c84d408"
         ],
         "data": {
           "tag": "div",
@@ -984,7 +985,7 @@
         }
       },
       {
-        "_id": "405b8850-35c1-5a81-de6b-03099e5edc04",
+        "_id": "89fdf8fb-5d2f-67b2-68a6-04ab4c84d408",
         "type": "DOM",
         "tag": "div",
         "classes": [
@@ -992,11 +993,11 @@
           "3f609625-88dd-c9f1-4bd1-86f4c279874b"
         ],
         "children": [
-          "efaa21a3-c8ec-380b-f2ed-0c27ce7b9b7f",
-          "6c3c86c5-d3d9-61c4-33f8-600db30980d7",
-          "302e3e08-123e-1524-d5ce-ae2a8393a426",
-          "8dc10c35-a83e-40a2-54b3-727db71a1ddd",
-          "cbf88016-8da6-969c-76cc-9b15b0a49363"
+          "6808c9d5-fb1e-93fd-83c5-fddc6654045f",
+          "8d3bf826-562c-7149-d79c-0ceed71a33b2",
+          "67c9a6ef-c51f-e024-2913-d316609edf13",
+          "58da8d4d-f88b-58c3-643e-b936577ba4c8",
+          "b5121640-4ec2-a568-919f-6f0fbb9dc79b"
         ],
         "data": {
           "tag": "div",
@@ -1009,16 +1010,16 @@
         }
       },
       {
-        "_id": "efaa21a3-c8ec-380b-f2ed-0c27ce7b9b7f",
+        "_id": "6808c9d5-fb1e-93fd-83c5-fddc6654045f",
         "type": "Heading",
         "tag": "h3",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc7"
         ],
         "children": [
-          "56ea5de6-ea1a-f824-6d7f-670768f33f8d",
-          "39af884a-a18a-860a-ee89-06b27e7e2412",
-          "59fa32f9-36a9-3e43-cb8f-062c0a3a2e9c"
+          "8bfd8661-6ae8-252b-6ef6-b1e55147968f",
+          "a7a73090-137d-e914-776b-fd04f7852398",
+          "4ad2ee00-11c0-b174-2cea-5fc62edccec4"
         ],
         "data": {
           "tag": "h3",
@@ -1040,12 +1041,12 @@
         }
       },
       {
-        "_id": "56ea5de6-ea1a-f824-6d7f-670768f33f8d",
+        "_id": "8bfd8661-6ae8-252b-6ef6-b1e55147968f",
         "text": true,
         "v": "Ethereal Men's "
       },
       {
-        "_id": "39af884a-a18a-860a-ee89-06b27e7e2412",
+        "_id": "a7a73090-137d-e914-776b-fd04f7852398",
         "type": "LineBreak",
         "tag": "br",
         "classes": [],
@@ -1057,19 +1058,19 @@
         }
       },
       {
-        "_id": "59fa32f9-36a9-3e43-cb8f-062c0a3a2e9c",
+        "_id": "4ad2ee00-11c0-b174-2cea-5fc62edccec4",
         "text": true,
         "v": "Shoes Dunk Low"
       },
       {
-        "_id": "6c3c86c5-d3d9-61c4-33f8-600db30980d7",
+        "_id": "8d3bf826-562c-7149-d79c-0ceed71a33b2",
         "type": "Paragraph",
         "tag": "p",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fbe"
         ],
         "children": [
-          "0f45018a-d728-febf-adf9-5691e2dbec63"
+          "6fb3e597-c9d3-8693-dee7-2550430bd4c6"
         ],
         "data": {
           "devlink": {
@@ -1090,12 +1091,12 @@
         }
       },
       {
-        "_id": "0f45018a-d728-febf-adf9-5691e2dbec63",
+        "_id": "6fb3e597-c9d3-8693-dee7-2550430bd4c6",
         "text": true,
         "v": "Collection of men's sneakers are ready to take you through your day."
       },
       {
-        "_id": "302e3e08-123e-1524-d5ce-ae2a8393a426",
+        "_id": "67c9a6ef-c51f-e024-2913-d316609edf13",
         "type": "Image",
         "tag": "img",
         "classes": [
@@ -1136,14 +1137,14 @@
         }
       },
       {
-        "_id": "8dc10c35-a83e-40a2-54b3-727db71a1ddd",
+        "_id": "58da8d4d-f88b-58c3-643e-b936577ba4c8",
         "type": "Link",
         "tag": "a",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc0"
         ],
         "children": [
-          "b0df03a4-3ade-7f33-7e0f-a9b8a8d0eb21"
+          "6d641bf3-9b5e-1c4a-c658-33547b390691"
         ],
         "data": {
           "button": true,
@@ -1170,19 +1171,19 @@
         }
       },
       {
-        "_id": "b0df03a4-3ade-7f33-7e0f-a9b8a8d0eb21",
+        "_id": "6d641bf3-9b5e-1c4a-c658-33547b390691",
         "text": true,
         "v": "View Product"
       },
       {
-        "_id": "cbf88016-8da6-969c-76cc-9b15b0a49363",
+        "_id": "b5121640-4ec2-a568-919f-6f0fbb9dc79b",
         "type": "Link",
         "tag": "a",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc2"
         ],
         "children": [
-          "a28ac944-03e3-7123-44af-a28d763daa4e"
+          "ab13dcab-3c57-e4a9-6a7b-794f0e2b8420"
         ],
         "data": {
           "button": false,
@@ -1209,12 +1210,12 @@
         }
       },
       {
-        "_id": "a28ac944-03e3-7123-44af-a28d763daa4e",
+        "_id": "ab13dcab-3c57-e4a9-6a7b-794f0e2b8420",
         "text": true,
         "v": "new"
       },
       {
-        "_id": "be781a5b-2be5-d23f-55f8-014cc8020dd3",
+        "_id": "a0717001-bfac-95f1-9ec4-5082ca9606b3",
         "type": "SliderSlide",
         "tag": "div",
         "classes": [
@@ -1222,7 +1223,7 @@
           "00043c7c-8962-e020-e206-d6c233edad1e"
         ],
         "children": [
-          "b1e443df-3718-f4c9-821b-ae9215ff5363"
+          "23ebd037-e2a2-6f09-335a-c9d7f802b6c9"
         ],
         "data": {
           "tag": "div",
@@ -1254,7 +1255,7 @@
         }
       },
       {
-        "_id": "b1e443df-3718-f4c9-821b-ae9215ff5363",
+        "_id": "23ebd037-e2a2-6f09-335a-c9d7f802b6c9",
         "type": "DOM",
         "tag": "div",
         "classes": [
@@ -1262,11 +1263,11 @@
           "28bf77b9-d237-f4d7-1d89-09b20b585ca6"
         ],
         "children": [
-          "095c4fa7-3931-5449-2147-945108ac5195",
-          "3ba3f75b-7f0a-8d06-d0c3-1b3c7e4cc2cd",
-          "442972a1-bf71-ee40-a31a-2d3a8fb4496e",
-          "499a0c5e-1adb-600a-0ffe-57c017abad4c",
-          "eb0b35c0-c699-dd50-c786-cf16a3e0ec26"
+          "ad04594d-6a2e-6ba6-3ed1-ed5c237c23e0",
+          "300f97ff-f3d4-79a3-458c-a2842c4943f7",
+          "66e0d385-680c-e256-3a4f-43ba323ca89b",
+          "ae9571e4-c9e6-58fd-d33e-03615877cfac",
+          "e4777fde-f25f-cebc-038e-0282dbdd5743"
         ],
         "data": {
           "tag": "div",
@@ -1279,16 +1280,16 @@
         }
       },
       {
-        "_id": "095c4fa7-3931-5449-2147-945108ac5195",
+        "_id": "ad04594d-6a2e-6ba6-3ed1-ed5c237c23e0",
         "type": "Heading",
         "tag": "h3",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc7"
         ],
         "children": [
-          "c9b46fc3-c071-cd0a-185c-cdbfbf6306e7",
-          "05cf135f-0ba3-30be-8838-59325e4f996a",
-          "151d6f8a-f582-718f-8f58-361595715b34"
+          "1c4d2684-eacb-8e95-f2af-f013b2f482bc",
+          "236e5f59-77fc-a793-709f-2f40543d4cbc",
+          "9b15c2cc-4209-f786-5e82-3e13191e3f92"
         ],
         "data": {
           "tag": "h3",
@@ -1310,12 +1311,12 @@
         }
       },
       {
-        "_id": "c9b46fc3-c071-cd0a-185c-cdbfbf6306e7",
+        "_id": "1c4d2684-eacb-8e95-f2af-f013b2f482bc",
         "text": true,
         "v": "Ethereal Men's "
       },
       {
-        "_id": "05cf135f-0ba3-30be-8838-59325e4f996a",
+        "_id": "236e5f59-77fc-a793-709f-2f40543d4cbc",
         "type": "LineBreak",
         "tag": "br",
         "classes": [],
@@ -1327,19 +1328,19 @@
         }
       },
       {
-        "_id": "151d6f8a-f582-718f-8f58-361595715b34",
+        "_id": "9b15c2cc-4209-f786-5e82-3e13191e3f92",
         "text": true,
         "v": "Shoes Dunk Low"
       },
       {
-        "_id": "3ba3f75b-7f0a-8d06-d0c3-1b3c7e4cc2cd",
+        "_id": "300f97ff-f3d4-79a3-458c-a2842c4943f7",
         "type": "Paragraph",
         "tag": "p",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fbe"
         ],
         "children": [
-          "48d5dc5c-0f58-f838-b1da-054416af0293"
+          "6ca84b7e-6354-7f64-bfb4-0e048eb5ada3"
         ],
         "data": {
           "devlink": {
@@ -1360,12 +1361,12 @@
         }
       },
       {
-        "_id": "48d5dc5c-0f58-f838-b1da-054416af0293",
+        "_id": "6ca84b7e-6354-7f64-bfb4-0e048eb5ada3",
         "text": true,
         "v": "Collection of men's sneakers are ready to take you through your day."
       },
       {
-        "_id": "442972a1-bf71-ee40-a31a-2d3a8fb4496e",
+        "_id": "66e0d385-680c-e256-3a4f-43ba323ca89b",
         "type": "Image",
         "tag": "img",
         "classes": [
@@ -1406,14 +1407,14 @@
         }
       },
       {
-        "_id": "499a0c5e-1adb-600a-0ffe-57c017abad4c",
+        "_id": "ae9571e4-c9e6-58fd-d33e-03615877cfac",
         "type": "Link",
         "tag": "a",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc0"
         ],
         "children": [
-          "89e57374-b301-043b-9335-3a3aa991eb99"
+          "22478511-4c68-a9d6-a24c-9ae93509234c"
         ],
         "data": {
           "button": true,
@@ -1440,19 +1441,19 @@
         }
       },
       {
-        "_id": "89e57374-b301-043b-9335-3a3aa991eb99",
+        "_id": "22478511-4c68-a9d6-a24c-9ae93509234c",
         "text": true,
         "v": "View Product"
       },
       {
-        "_id": "eb0b35c0-c699-dd50-c786-cf16a3e0ec26",
+        "_id": "e4777fde-f25f-cebc-038e-0282dbdd5743",
         "type": "Link",
         "tag": "a",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc2"
         ],
         "children": [
-          "7e69a341-e69f-41c4-561c-cbe02a4f4c69"
+          "6d225b55-7cd1-b74b-b586-c3cbaae2ae9a"
         ],
         "data": {
           "button": false,
@@ -1479,12 +1480,12 @@
         }
       },
       {
-        "_id": "7e69a341-e69f-41c4-561c-cbe02a4f4c69",
+        "_id": "6d225b55-7cd1-b74b-b586-c3cbaae2ae9a",
         "text": true,
         "v": "new"
       },
       {
-        "_id": "19548826-165f-62f7-f614-d3dfe145697e",
+        "_id": "420daefc-e5a6-aa8c-6cda-c996ccf72e13",
         "type": "SliderSlide",
         "tag": "div",
         "classes": [
@@ -1492,7 +1493,7 @@
           "00043c7c-8962-e020-e206-d6c233edad1e"
         ],
         "children": [
-          "0cfb0130-95c9-854a-d16e-dce40cd8018e"
+          "0323f643-fdbb-5dd3-ec34-f3adf0e837c9"
         ],
         "data": {
           "tag": "div",
@@ -1524,7 +1525,7 @@
         }
       },
       {
-        "_id": "0cfb0130-95c9-854a-d16e-dce40cd8018e",
+        "_id": "0323f643-fdbb-5dd3-ec34-f3adf0e837c9",
         "type": "DOM",
         "tag": "div",
         "classes": [
@@ -1532,11 +1533,11 @@
           "042f7d4a-7ac8-7796-4c9e-10903c18ab88"
         ],
         "children": [
-          "89b2f818-6a29-a3d6-6318-464c5c426751",
-          "2b52ae8c-34b7-928d-0530-e35c67e5d074",
-          "db028f3f-5e59-787e-a8ad-2d02b14d74c3",
-          "2adeb443-945e-32e6-71ae-9ad17151db2e",
-          "9f95e8fb-ffa7-35df-b8bd-d568e96f1157"
+          "e165d064-df73-63dc-2632-c6418eeec027",
+          "95f0c5b2-7dd7-6213-40a4-18bf258916c1",
+          "0b5c21dd-091f-405d-9e10-ccb956d557b4",
+          "3610903a-cfef-9d35-6be4-734bc98598bb",
+          "dd8f95d5-456b-fbf6-5ce0-6e2bd0c94ecb"
         ],
         "data": {
           "tag": "div",
@@ -1549,16 +1550,16 @@
         }
       },
       {
-        "_id": "89b2f818-6a29-a3d6-6318-464c5c426751",
+        "_id": "e165d064-df73-63dc-2632-c6418eeec027",
         "type": "Heading",
         "tag": "h3",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc7"
         ],
         "children": [
-          "28acbe70-178d-7974-5c57-39289cf19e99",
-          "1c27ff8d-352e-d029-07e1-f368f21c8c9f",
-          "0aaa1f66-2f35-1eb9-fbf3-a083ad9da2ee"
+          "ce909b92-b4d9-0a7a-42f9-d5a5ccf40144",
+          "5aab52e4-8a22-5a64-f0fb-2bffc539c73a",
+          "39d8e91b-9c60-9185-ce63-83f1feb7865d"
         ],
         "data": {
           "tag": "h3",
@@ -1580,12 +1581,12 @@
         }
       },
       {
-        "_id": "28acbe70-178d-7974-5c57-39289cf19e99",
+        "_id": "ce909b92-b4d9-0a7a-42f9-d5a5ccf40144",
         "text": true,
         "v": "Ethereal Men's "
       },
       {
-        "_id": "1c27ff8d-352e-d029-07e1-f368f21c8c9f",
+        "_id": "5aab52e4-8a22-5a64-f0fb-2bffc539c73a",
         "type": "LineBreak",
         "tag": "br",
         "classes": [],
@@ -1597,19 +1598,19 @@
         }
       },
       {
-        "_id": "0aaa1f66-2f35-1eb9-fbf3-a083ad9da2ee",
+        "_id": "39d8e91b-9c60-9185-ce63-83f1feb7865d",
         "text": true,
         "v": "Shoes Dunk Low"
       },
       {
-        "_id": "2b52ae8c-34b7-928d-0530-e35c67e5d074",
+        "_id": "95f0c5b2-7dd7-6213-40a4-18bf258916c1",
         "type": "Paragraph",
         "tag": "p",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fbe"
         ],
         "children": [
-          "527c91f1-f547-375b-05e7-3b04325fdb65"
+          "47169d9d-bdb5-c26c-9128-59534a254e52"
         ],
         "data": {
           "devlink": {
@@ -1630,12 +1631,12 @@
         }
       },
       {
-        "_id": "527c91f1-f547-375b-05e7-3b04325fdb65",
+        "_id": "47169d9d-bdb5-c26c-9128-59534a254e52",
         "text": true,
         "v": "Collection of men's sneakers are ready to take you through your day."
       },
       {
-        "_id": "db028f3f-5e59-787e-a8ad-2d02b14d74c3",
+        "_id": "0b5c21dd-091f-405d-9e10-ccb956d557b4",
         "type": "Image",
         "tag": "img",
         "classes": [
@@ -1676,14 +1677,14 @@
         }
       },
       {
-        "_id": "2adeb443-945e-32e6-71ae-9ad17151db2e",
+        "_id": "3610903a-cfef-9d35-6be4-734bc98598bb",
         "type": "Link",
         "tag": "a",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc0"
         ],
         "children": [
-          "cefc238d-ec77-da65-0822-b7175e02c90c"
+          "520a0660-d35f-620a-bab5-91b3d01470ce"
         ],
         "data": {
           "button": true,
@@ -1710,19 +1711,19 @@
         }
       },
       {
-        "_id": "cefc238d-ec77-da65-0822-b7175e02c90c",
+        "_id": "520a0660-d35f-620a-bab5-91b3d01470ce",
         "text": true,
         "v": "View Product"
       },
       {
-        "_id": "9f95e8fb-ffa7-35df-b8bd-d568e96f1157",
+        "_id": "dd8f95d5-456b-fbf6-5ce0-6e2bd0c94ecb",
         "type": "Link",
         "tag": "a",
         "classes": [
           "d602155c-1ef1-2b90-3cca-c90a49439fc2"
         ],
         "children": [
-          "1cda58e1-03c0-2950-cb69-5e0cb19c03cd"
+          "a7443fa7-2ae7-01b1-e02d-ed3b5833e6bc"
         ],
         "data": {
           "button": false,
@@ -1749,17 +1750,17 @@
         }
       },
       {
-        "_id": "1cda58e1-03c0-2950-cb69-5e0cb19c03cd",
+        "_id": "a7443fa7-2ae7-01b1-e02d-ed3b5833e6bc",
         "text": true,
         "v": "new"
       },
       {
-        "_id": "1793f6f5-8866-3393-bde9-fabf7611609a",
+        "_id": "087208ee-15d4-e901-5f78-1e5c38ae1b3c",
         "type": "SliderArrow",
         "tag": "div",
         "classes": [],
         "children": [
-          "b76a4d08-82fc-1154-5d5b-a3a43e7158a4"
+          "29452d1e-18f5-f0f4-bee1-6d48862c21fe"
         ],
         "data": {
           "slider": {
@@ -1785,7 +1786,7 @@
         }
       },
       {
-        "_id": "b76a4d08-82fc-1154-5d5b-a3a43e7158a4",
+        "_id": "29452d1e-18f5-f0f4-bee1-6d48862c21fe",
         "type": "Icon",
         "tag": "div",
         "classes": [],
@@ -1813,12 +1814,12 @@
         }
       },
       {
-        "_id": "6dd9de98-6888-e45f-0a28-864559570b21",
+        "_id": "ae8713be-3a5d-71a6-8b24-08d7ae333418",
         "type": "SliderArrow",
         "tag": "div",
         "classes": [],
         "children": [
-          "d320a6c3-06e2-6a80-98da-3b7864a5e0e9"
+          "b0149f57-e8e4-bd7a-d441-4648dc8f6ea2"
         ],
         "data": {
           "slider": {
@@ -1844,7 +1845,7 @@
         }
       },
       {
-        "_id": "d320a6c3-06e2-6a80-98da-3b7864a5e0e9",
+        "_id": "b0149f57-e8e4-bd7a-d441-4648dc8f6ea2",
         "type": "Icon",
         "tag": "div",
         "classes": [],
@@ -1872,7 +1873,7 @@
         }
       },
       {
-        "_id": "7be11a64-cfb5-f1d2-4389-32ef4d69329b",
+        "_id": "0ded0004-c0a7-55a7-e409-8505e96a854d",
         "type": "SliderNav",
         "tag": "div",
         "classes": [
@@ -1901,7 +1902,7 @@
         }
       },
       {
-        "_id": "cd3caf66-966a-9a07-ea5d-4f5995f414f1",
+        "_id": "b0bf781f-6425-6cee-8ddb-260ef8b38872",
         "type": "Block",
         "tag": "div",
         "classes": [
@@ -1929,7 +1930,7 @@
         }
       },
       {
-        "_id": "6dc93710-83c3-e411-3211-7f19bcc7b31d",
+        "_id": "5d96f22f-4d94-694d-9fb2-77172ea80572",
         "type": "Block",
         "tag": "div",
         "classes": [
@@ -1937,7 +1938,7 @@
           "c9ff0947-c02a-bb19-b732-ebb9292da12f"
         ],
         "children": [
-          "efb18c75-b2ce-7e80-9fe9-1e3d5869ae87"
+          "30ca4924-54f9-7ac7-4952-9d555eb75e0f"
         ],
         "data": {
           "text": false,
@@ -1960,7 +1961,7 @@
         }
       },
       {
-        "_id": "efb18c75-b2ce-7e80-9fe9-1e3d5869ae87",
+        "_id": "30ca4924-54f9-7ac7-4952-9d555eb75e0f",
         "type": "Image",
         "tag": "img",
         "classes": [],
@@ -1994,7 +1995,7 @@
         }
       },
       {
-        "_id": "7318d464-0da0-aab0-2d67-e31b8ef8ce19",
+        "_id": "ec0b9c11-4a21-3bac-da9d-bbb8021b0f71",
         "type": "Block",
         "tag": "div",
         "classes": [
@@ -2002,7 +2003,7 @@
           "4a57eb03-16c3-6365-461a-d45884de35b8"
         ],
         "children": [
-          "ab84ec81-4768-4ba8-2901-8547d6e4b7b6"
+          "749128f3-235b-244c-36c5-2d1e2714c20f"
         ],
         "data": {
           "text": false,
@@ -2025,7 +2026,7 @@
         }
       },
       {
-        "_id": "ab84ec81-4768-4ba8-2901-8547d6e4b7b6",
+        "_id": "749128f3-235b-244c-36c5-2d1e2714c20f",
         "type": "Image",
         "tag": "img",
         "classes": [],
@@ -2060,6 +2061,22 @@
       }
     ],
     "styles": [
+      {
+        "_id": "8fdd1c79-bd51-baa1-7a52-4334338b3035",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-wrapper",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "z-index: 1; overflow: visible; width: 100%; height: 100%;",
+        "variants": {},
+        "children": [
+          "fa153327-a976-93a0-5654-2163179ee8ea"
+        ],
+        "createdBy": "63db4aa639a0ee564d68e5d1",
+        "origin": null,
+        "selector": null
+      },
       {
         "_id": "c9ff0947-c02a-bb19-b732-ebb9292da12f",
         "fake": false,
@@ -2132,6 +2149,22 @@
         "styleLess": "background-color: hsla(32.49999999999999, 100.00%, 90.59%, 1.00);",
         "variants": {},
         "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "1b4bdc6c-cd6a-29f0-5a65-5eef24f4458e",
+        "fake": false,
+        "type": "class",
+        "name": "shoes-slider-next-btn",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: absolute; left: 60px; top: auto; right: auto; bottom: 0%; z-index: 10; display: flex; width: 48px; height: 48px; justify-content: center; align-items: center; border-top-style: solid; border-top-width: 1px; border-top-color: #dedede; border-right-style: solid; border-right-width: 1px; border-right-color: #dedede; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #dedede; border-left-style: solid; border-left-width: 1px; border-left-color: #dedede; border-top-left-radius: 50%; border-top-right-radius: 50%; border-bottom-left-radius: 50%; border-bottom-right-radius: 50%; background-color: white; cursor: pointer;",
+        "variants": {},
+        "children": [
+          "4a57eb03-16c3-6365-461a-d45884de35b8"
+        ],
         "createdBy": "646829a3d35e329536418e31",
         "origin": null,
         "selector": null
@@ -2221,22 +2254,6 @@
         "selector": null
       },
       {
-        "_id": "8c5091a5-7ea0-bc5c-15ef-1792f8ebc61a",
-        "fake": false,
-        "type": "class",
-        "name": "shoes-slider-prev-btn",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "position: absolute; left: 0%; top: auto; right: auto; bottom: -15%; z-index: 10; display: flex; width: 48px; height: 48px; justify-content: center; align-items: center; border-top-style: solid; border-top-width: 1px; border-top-color: #dedede; border-right-style: solid; border-right-width: 1px; border-right-color: #dedede; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #dedede; border-left-style: solid; border-left-width: 1px; border-left-color: #dedede; border-top-left-radius: 50%; border-top-right-radius: 50%; border-bottom-left-radius: 50%; border-bottom-right-radius: 50%; background-color: white; cursor: pointer;",
-        "variants": {},
-        "children": [
-          "c9ff0947-c02a-bb19-b732-ebb9292da12f"
-        ],
-        "createdBy": "646829a3d35e329536418e31",
-        "origin": null,
-        "selector": null
-      },
-      {
         "_id": "d602155c-1ef1-2b90-3cca-c90a49439fc7",
         "fake": false,
         "type": "class",
@@ -2279,17 +2296,15 @@
         "selector": null
       },
       {
-        "_id": "1b4bdc6c-cd6a-29f0-5a65-5eef24f4458e",
+        "_id": "fa153327-a976-93a0-5654-2163179ee8ea",
         "fake": false,
         "type": "class",
-        "name": "shoes-slider-next-btn",
+        "name": "shoes-slider-wrapper",
         "namespace": "",
-        "comb": "",
-        "styleLess": "position: absolute; left: 60px; top: auto; right: auto; bottom: -15%; z-index: 10; display: flex; width: 48px; height: 48px; justify-content: center; align-items: center; border-top-style: solid; border-top-width: 1px; border-top-color: #dedede; border-right-style: solid; border-right-width: 1px; border-right-color: #dedede; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #dedede; border-left-style: solid; border-left-width: 1px; border-left-color: #dedede; border-top-left-radius: 50%; border-top-right-radius: 50%; border-bottom-left-radius: 50%; border-bottom-right-radius: 50%; background-color: white; cursor: pointer;",
+        "comb": "&",
+        "styleLess": "padding-bottom: 80px;",
         "variants": {},
-        "children": [
-          "4a57eb03-16c3-6365-461a-d45884de35b8"
-        ],
+        "children": [],
         "createdBy": "646829a3d35e329536418e31",
         "origin": null,
         "selector": null
@@ -2310,20 +2325,6 @@
           "3f609625-88dd-c9f1-4bd1-86f4c279874b"
         ],
         "createdBy": "646829a3d35e329536418e31",
-        "origin": null,
-        "selector": null
-      },
-      {
-        "_id": "8fdd1c79-bd51-baa1-7a52-4334338b3035",
-        "fake": false,
-        "type": "class",
-        "name": "flowappz-wrapper",
-        "namespace": "",
-        "comb": "",
-        "styleLess": "z-index: 1; overflow: visible; width: 100%; height: 100%;",
-        "variants": {},
-        "children": [],
-        "createdBy": "63db4aa639a0ee564d68e5d1",
         "origin": null,
         "selector": null
       },
@@ -2351,6 +2352,22 @@
         "styleLess": "position: relative;",
         "variants": {},
         "children": [],
+        "createdBy": "646829a3d35e329536418e31",
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "8c5091a5-7ea0-bc5c-15ef-1792f8ebc61a",
+        "fake": false,
+        "type": "class",
+        "name": "shoes-slider-prev-btn",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: absolute; left: 0%; top: auto; right: auto; bottom: 0%; z-index: 10; display: flex; width: 48px; height: 48px; justify-content: center; align-items: center; border-top-style: solid; border-top-width: 1px; border-top-color: #dedede; border-right-style: solid; border-right-width: 1px; border-right-color: #dedede; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #dedede; border-left-style: solid; border-left-width: 1px; border-left-color: #dedede; border-top-left-radius: 50%; border-top-right-radius: 50%; border-bottom-left-radius: 50%; border-bottom-right-radius: 50%; background-color: white; cursor: pointer;",
+        "variants": {},
+        "children": [
+          "c9ff0947-c02a-bb19-b732-ebb9292da12f"
+        ],
         "createdBy": "646829a3d35e329536418e31",
         "origin": null,
         "selector": null
@@ -2444,7 +2461,7 @@
             "e-11",
             "e-12"
           ],
-          "target": "667bcfff695e19dfb625922e|002cc67c-bac5-7a6d-9281-9d5be513db08",
+          "target": "667bcfff695e19dfb625922e|c1a7758b-b118-e95f-84b0-22bbe8e1995b",
           "createdOn": 1724152321174
         }
       ],
@@ -2475,7 +2492,7 @@
             "tiny"
           ],
           "target": {
-            "id": "667bcfff695e19dfb625922e|002cc67c-bac5-7a6d-9281-9d5be513db08",
+            "id": "667bcfff695e19dfb625922e|c1a7758b-b118-e95f-84b0-22bbe8e1995b",
             "appliesTo": "CLASS",
             "styleBlockIds": [
               "0027bc39-ae7f-1345-b71b-df6832fcd40e"
@@ -2483,7 +2500,7 @@
           },
           "targets": [
             {
-              "id": "667bcfff695e19dfb625922e|002cc67c-bac5-7a6d-9281-9d5be513db08",
+              "id": "667bcfff695e19dfb625922e|c1a7758b-b118-e95f-84b0-22bbe8e1995b",
               "appliesTo": "CLASS",
               "styleBlockIds": [
                 "0027bc39-ae7f-1345-b71b-df6832fcd40e"
@@ -2527,7 +2544,7 @@
             "tiny"
           ],
           "target": {
-            "id": "667bcfff695e19dfb625922e|002cc67c-bac5-7a6d-9281-9d5be513db08",
+            "id": "667bcfff695e19dfb625922e|c1a7758b-b118-e95f-84b0-22bbe8e1995b",
             "appliesTo": "CLASS",
             "styleBlockIds": [
               "0027bc39-ae7f-1345-b71b-df6832fcd40e"
@@ -2535,7 +2552,7 @@
           },
           "targets": [
             {
-              "id": "667bcfff695e19dfb625922e|002cc67c-bac5-7a6d-9281-9d5be513db08",
+              "id": "667bcfff695e19dfb625922e|c1a7758b-b118-e95f-84b0-22bbe8e1995b",
               "appliesTo": "CLASS",
               "styleBlockIds": [
                 "0027bc39-ae7f-1345-b71b-df6832fcd40e"
@@ -2569,7 +2586,7 @@
                     "easing": "",
                     "duration": 500,
                     "target": {
-                      "nodeId": "667bcfff695e19dfb625922e|002cc67c-bac5-7a6d-9281-9d5be513db08",
+                      "nodeId": "667bcfff695e19dfb625922e|c1a7758b-b118-e95f-84b0-22bbe8e1995b",
                       "appliesTo": "ELEMENT_CLASS",
                       "styleBlockIds": [
                         "d602155c-1ef1-2b90-3cca-c90a49439fbd"
@@ -2603,7 +2620,7 @@
                     "easing": "",
                     "duration": 500,
                     "target": {
-                      "nodeId": "667bcfff695e19dfb625922e|002cc67c-bac5-7a6d-9281-9d5be513db08",
+                      "nodeId": "667bcfff695e19dfb625922e|c1a7758b-b118-e95f-84b0-22bbe8e1995b",
                       "appliesTo": "ELEMENT_CLASS",
                       "styleBlockIds": [
                         "d602155c-1ef1-2b90-3cca-c90a49439fbd"
