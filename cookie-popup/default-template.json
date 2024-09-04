@@ -1,0 +1,274 @@
+{
+  "type": "@webflow/XscpData",
+  "payload": {
+    "nodes": [
+      {
+        "_id": "32486b9b-bbaa-f500-39d6-b84283838d3e",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [
+          "001965c7-393e-85d0-e62a-3e5b494a29ea"
+        ],
+        "children": [
+          "508b698f-0ea6-60bc-3c1d-5100eebf8ef2",
+          "56363bcd-3195-5b0e-154e-075796ba0705",
+          "514e1aa4-ba6d-003e-d293-3fda4f6ff125"
+        ],
+        "data": {
+          "tag": "div",
+          "attributes": [
+            {
+              "name": "flowappz-cookie-popup",
+              "value": "true"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "508b698f-0ea6-60bc-3c1d-5100eebf8ef2",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [
+          "d6d13f21-895f-3d68-a038-50b792e73d65"
+        ],
+        "children": [
+          "a241aa7e-dafe-9300-cb23-c9ffbc1d7fe6"
+        ],
+        "data": {
+          "tag": "h5",
+          "attributes": []
+        }
+      },
+      {
+        "_id": "a241aa7e-dafe-9300-cb23-c9ffbc1d7fe6",
+        "text": true,
+        "v": "Cookies"
+      },
+      {
+        "_id": "56363bcd-3195-5b0e-154e-075796ba0705",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [
+          "1907a284-8b72-a028-bac4-a093eddffbc0"
+        ],
+        "children": [
+          "eb473816-853e-3a0f-471d-1aa52a9d8034",
+          "406ae0d2-02b1-5dfa-12e5-a79bc9d5a083"
+        ],
+        "data": {
+          "tag": "p",
+          "attributes": []
+        }
+      },
+      {
+        "_id": "eb473816-853e-3a0f-471d-1aa52a9d8034",
+        "text": true,
+        "v": "We use cookies to improve user experience. Choose what cookies you allow us to use. You can read more about our Cookie Policy in our "
+      },
+      {
+        "_id": "406ae0d2-02b1-5dfa-12e5-a79bc9d5a083",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [],
+        "children": [
+          "1218f150-f34d-2933-eb3c-68e2835ff7a8"
+        ],
+        "data": {
+          "tag": "a",
+          "attributes": [
+            {
+              "name": "href",
+              "value": "#"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "1218f150-f34d-2933-eb3c-68e2835ff7a8",
+        "text": true,
+        "v": "privacy policy"
+      },
+      {
+        "_id": "514e1aa4-ba6d-003e-d293-3fda4f6ff125",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [
+          "da066d0d-3c1b-230b-c8f5-290c657c17fd"
+        ],
+        "children": [
+          "91c2bfce-1046-262d-a92f-67e5e328c837",
+          "f586093c-b16f-65b7-0da3-b11a45962331"
+        ],
+        "data": {
+          "tag": "div",
+          "attributes": []
+        }
+      },
+      {
+        "_id": "91c2bfce-1046-262d-a92f-67e5e328c837",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [
+          "d1b7bdde-6440-de27-9f47-e19d21d06e7c"
+        ],
+        "children": [
+          "8a129d7c-dd47-a1d0-c7da-6d48aca4d06e"
+        ],
+        "data": {
+          "tag": "button",
+          "attributes": [
+            {
+              "name": "flowappz-cookie-command",
+              "value": "accept-all"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "8a129d7c-dd47-a1d0-c7da-6d48aca4d06e",
+        "text": true,
+        "v": "Accept all"
+      },
+      {
+        "_id": "f586093c-b16f-65b7-0da3-b11a45962331",
+        "type": "DOM",
+        "tag": "div",
+        "classes": [
+          "a3a701b0-e103-457a-b5cc-7c3473898ae4"
+        ],
+        "children": [
+          "94a80ee3-4428-56a7-b785-18a816dd6d95"
+        ],
+        "data": {
+          "tag": "button",
+          "attributes": [
+            {
+              "name": "flowappz-cookie-command",
+              "value": "reject-all"
+            }
+          ]
+        }
+      },
+      {
+        "_id": "94a80ee3-4428-56a7-b785-18a816dd6d95",
+        "text": true,
+        "v": "Reject all"
+      }
+    ],
+    "styles": [
+      {
+        "_id": "001965c7-393e-85d0-e62a-3e5b494a29ea",
+        "fake": false,
+        "type": "class",
+        "name": "flowappz-cookie-consent",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "position: fixed; bottom: 4.5rem; left: 4rem; z-index: 99999; width: 350px; height: fit-content; background-color: white; box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1); padding-top: 3rem; padding-bottom: 3rem; padding-left: 2.5rem; padding-right: 2.5rem;",
+        "variants": {
+          "tiny": {
+            "styleLess": "left: 0; width: 100vw;"
+          }
+        },
+        "children": [],
+        "pluginType": null,
+        "createdBy": null,
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "d6d13f21-895f-3d68-a038-50b792e73d65",
+        "fake": false,
+        "type": "class",
+        "name": "cookie-heading",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "font-weight: bold; color: black; font-size: 26px; line-height: 31px; margin-top: 0; margin-bottom: 0; margin-left: 0; margin-right: 0;",
+        "variants": {},
+        "children": [],
+        "pluginType": null,
+        "createdBy": null,
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "1907a284-8b72-a028-bac4-a093eddffbc0",
+        "fake": false,
+        "type": "class",
+        "name": "cookie-description",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "font-weight: 400; color: black; font-size: 16px; line-height: 19px; margin-top: 30px; margin-bottom: 25px; margin-left: 0; margin-right: 0;",
+        "variants": {},
+        "children": [],
+        "pluginType": null,
+        "createdBy": null,
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "da066d0d-3c1b-230b-c8f5-290c657c17fd",
+        "fake": false,
+        "type": "class",
+        "name": "cookie-buttons-group",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "display: flex; column-gap: 20px;",
+        "variants": {
+          "tiny": {
+            "styleLess": "flex-direction: column; row-gap: 20px;"
+          }
+        },
+        "children": [],
+        "pluginType": null,
+        "createdBy": null,
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "d1b7bdde-6440-de27-9f47-e19d21d06e7c",
+        "fake": false,
+        "type": "class",
+        "name": "accept-button",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "font-weight: bold; color: white; background-color: black; padding-top: 12px; padding-bottom: 12px; padding-left: 28px; padding-right: 28px;",
+        "variants": {},
+        "children": [],
+        "pluginType": null,
+        "createdBy": null,
+        "origin": null,
+        "selector": null
+      },
+      {
+        "_id": "a3a701b0-e103-457a-b5cc-7c3473898ae4",
+        "fake": false,
+        "type": "class",
+        "name": "reject-button",
+        "namespace": "",
+        "comb": "",
+        "styleLess": "padding-top: 12px; padding-right: 28px; padding-bottom: 12px; padding-left: 28px; border-top-style: solid; border-top-width: 1px; border-top-color: black; border-right-style: solid; border-right-width: 1px; border-right-color: black; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: black; border-left-style: solid; border-left-width: 1px; border-left-color: black; background-color: white; color: black; font-weight: 700;",
+        "variants": {},
+        "children": [],
+        "pluginType": null,
+        "createdBy": null,
+        "origin": null,
+        "selector": null
+      }
+    ],
+    "assets": [],
+    "ix1": [],
+    "ix2": {
+      "interactions": [],
+      "events": [],
+      "actionLists": []
+    }
+  },
+  "meta": {
+    "droppedLinks": 0,
+    "dynBindRemovedCount": 0,
+    "dynListBindRemovedCount": 0,
+    "paginationRemovedCount": 0,
+    "universalBindingsRemovedCount": 0,
+    "unlinkedSymbolCount": 0
+  }
+}
